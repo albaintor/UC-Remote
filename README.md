@@ -5,7 +5,7 @@ Unofficial Unfolded Circle Remote app
 ## Important Note
 
 I am not affiliated to Unfolded Circle company, this application is provided as is with limited support.
-So do not contact Unfolded Circle if you need support
+So do not contact Unfolded Circle if you need support, go through the support page of this project https://github.com/albaintor/UC-Remote/issues
 
 You may install it and use it at your own risks. 
 The app won't make any modifications to the remotes except the registration key which is stored in the remote.
