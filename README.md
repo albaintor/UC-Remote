@@ -33,7 +33,9 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Profile pages : sliders for lights and climate to change brightness or temperature. Tap on the slider to open popups and access additional settings for entities
 - Activities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control
 - Activities : support for physical volume buttons to change volume of activity
+- Activities : active activities are also accessible from side menu in addition of profiles pages
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber (if supported by media player)
+- Localization based on remote settings (only English and French configured at this state)
 
 Not supported yet (planned):
 - Sensor entities, shutter advanced settings, climate modes
@@ -86,14 +88,16 @@ Also the physical volume buttons are assigned to the volume commands of the acti
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/cb2d7789-1801-4537-b219-094fd35f08ba"/>
 </p>
 
+As soon as activities are on, they are also accessible directly from the side left menu
 
 # Side menu
 
 The side menu is accessible from the upper left 3 bars icon.
-From this menu you can :
+From this menu you can access to :
 1. Register (or remove) remotes
 2. Select a registered remote to navigate in it
 3. Global settings
+4. Active activities
 
 <p align="center"> 
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/2730a79a-3276-4a87-9a98-d4de65c205f7"/>
