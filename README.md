@@ -8,7 +8,7 @@ I am not affiliated to Unfolded Circle company, this application is provided as 
 So do not contact Unfolded Circle if you need support, go through the support page of this project https://github.com/albaintor/UC-Remote/issues
 
 You may install it and use it at your own risks. 
-The app won't make any modifications to the remotes except the registration key which is stored in the remote.
+The app won't make any modifications to the remotes except the registration key which is generated and stored in the remote.
 
 ## Introduction
 
@@ -22,30 +22,32 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 # Features
 
 - Registration : remotes registration with automatic discovery (or else manual registration)
-- Multiple remotes support with easy switching from the side menu
+- Multiple remotes support with easy switching from the side menu, and synchronized in parallel
 - Dark mode (default) / light mode
 - iPhone and iPad support with landscape mode
 - Navigation by profile like in the remote. Another profile can be selected from the 3 dots upper right button
 - Profile pages : pull down to refresh the data (in case of disconnection or modifications on the remote)
-- Profile pages : Pull to refresh will also wake on the remote if wake on lan setting is enabled on the remote
+- Profile pages : pull down to refresh will also wake up the remote (if wake on lan setting is enabled in the remote wifi settings)
 - Profile pages : swipe left/right to switch between profile pages
 - Profile pages : tap on entity icon for toggling lights, switch, climates, covers
-- Profile pages : sliders for lights and climate to change brightness or temperature. Tap on the slider to open popups and access additional settings for entities
-- Activities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control
-- Activities : support for physical volume buttons to change volume of activity
+- Profile pages : sliders for lights, covers and climate to change brightness/position/temperature. Tap on the slider to open popups and access additional settings of those entities
+- Activities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control and seeking. All depending on the supported features of the player
+- Activities : support for physical volume buttons to change volume of activity or remote entity
 - Activities : active activities are also accessible from side menu in addition of profiles pages
-- Media players : updated in realtime (artwork, title, position...), seek video with the scrubber (if supported by media player)
+- Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
 - Localization based on remote settings (only English and French configured at this state)
 
-Not supported yet (planned):
-- Sensor entities, shutter advanced settings, climate modes
-- Media player on lock screen (experimental support, to be improved)
+## Limitations and future plans
+
+- Sensor entities : not supported yet
+- Media player widget : experimental support, disabled in the current release. The widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more. The goal is to provide a media player widget with current artwork, title, progress and a few buttons (pause, previous, next...)
+- Live activities (different from widget) : experimental support for now (disabled by default, can be enabled from settings). Limitations: the app when minimized will loose its network connections, so the live activity can't be updated after a while even if tricks are possible (the progress time bar can move forward in the meantime without receiving updates). These limitations don't apply to the widget above
 
 # Setup
 
 1. Just download the app from the App store
-2. Tap on the upper left icon to register a new remote : if your remote is connected (not in standby) it will be discovered automatically, otherwise tap the + icon and fill in its IP, and pin code for registration. Additional remotes can be registered. After the first registration, somes common resources will be downloaded (fonts)
-3. Go into the selected remote : the default profile will be loaded. It is possible to select another profile by tapping on the 3 dots icon. It is recommended to tap on "Load resources" to download all icons and backgrounds locally for better experience
+2. Tap on the upper left icon to register a new remote : if your remote is connected (not in standby) it will be discovered automatically, otherwise tap the + icon and fill in its IP, and pin code for registration. Additional remotes can be registered. After the first registration, some common resources will be downloaded for later usage and only once (fonts)
+3. Go into the selected remote : the default profile will be loaded. It is possible to select another profile by tapping on the 3 dots icon. It is recommended to tap on "Load resources" to download all icons and backgrounds locally for faster experience (otherwise pictures are downloaded on the fly each time)
 
 In the screenshot one remote is registered whereas another one has been discovered and can be registered :
 <p align="center">
@@ -54,7 +56,7 @@ In the screenshot one remote is registered whereas another one has been discover
 
 # Usage
 
-The remote needs to be connected on the network. You can wake it up with a pull down gesture in the profile pages : this will work only if you enabled this setting on the remote. See capture below : 
+The remote needs to be connected on the network. You can wake it up with a pull down gesture in the profile pages : this will work only if you enabled this feature in the wifi setting of the remote. See capture below : 
 <p align="center">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/b43a4073-a755-46ba-925d-34fe796610cd" />
 </p>
@@ -71,10 +73,12 @@ In profile pages, you can :
 - Swipe profile pages from left to right
 - Toggle entities : lights, climates, covers, switches
 - Toggle profile groups, expand them to show its entities
-- Sliders on lights and climates to adjust brightness and temperature. Tap on slider to access additional settings.
-- Open activivities
+- Sliders on lights, covers, climates to adjust brightness/position/temperature. Tap on slider to access additional settings.
+- Open activivities, remotes and media player entities
 
 ## Activities
+
+Same interface and behaviour if you open a remote entity or a media player entity
 
 When you enter in activities, you have 2 tabs in bottom : one for the user interface, another one for the remote buttons.
 Note : you can change this layout from global settings to have a unique scrolling view instead of 2 tabs.
@@ -97,7 +101,7 @@ From this menu you can access to :
 1. Register (or remove) remotes
 2. Select a registered remote to navigate in it
 3. Global settings
-4. Active activities
+4. Active activities (on all configured remotes in one place)
 
 <p align="center"> 
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/2730a79a-3276-4a87-9a98-d4de65c205f7"/>
