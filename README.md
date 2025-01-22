@@ -31,8 +31,9 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Profile pages : swipe left/right to switch between profile pages
 - Profile pages : tap on entity icon for toggling lights, switch, climates, covers
 - Profile pages : sliders for lights, covers and climate to change brightness/position/temperature. Tap on the slider to open popups and access additional settings of those entities
-- Activities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control and seeking. All depending on the supported features of the player
-- Activities : support for physical volume buttons to change volume of activity or remote entity
+- Activities & remote entities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control and seeking. All depending on the supported features of the player
+- Activities & remotes : support for physical volume buttons to change volume of activity or remote entity
+- Activities & remotes : touchpad available for direction pad assignments and handle of velocity (larger gestures trigger faster repeated commands)
 - Activities : active activities are also accessible from side menu in addition of profiles pages
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
 - Localization based on remote settings (only English and French configured at this state)
