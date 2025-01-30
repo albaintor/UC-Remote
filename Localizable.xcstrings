@@ -726,7 +726,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivieren von Live-Aktivitäten zur Anzeige des aktuellen Medienstatus auf dem Startbildschirm (experimentell)"
+            "value" : "Live-Aktivitäten aktivieren, um den aktuellen Medienstatus auf dem Home-Bildschirm anzuzeigen (experimentell)"
           }
         },
         "nl" : {
@@ -1079,7 +1079,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interface"
+            "value" : "Benutzeroberfläche"
           }
         },
         "fr" : {
@@ -1119,7 +1119,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Licht"
+            "value" : "Hell"
           }
         }
       }
