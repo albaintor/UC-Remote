@@ -8,7 +8,7 @@ I am not affiliated to Unfolded Circle company, this application is provided as 
 So do not contact Unfolded Circle if you need support, go through the support page of this project https://github.com/albaintor/UC-Remote/issues
 
 You may install it and use it at your own risks. 
-The app won't make any modifications to the remotes except the registration key which is generated and stored in the remote.
+The app won't make any modifications to the remotes except the registration entry which is generated and stored in the remote.
 
 ## Introduction
 
@@ -24,23 +24,22 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Registration : remotes registration with automatic discovery (or else manual registration)
 - Multiple remotes support with easy switching from the side menu, and synchronized in parallel
 - Dark mode (default) / light mode
-- iPhone and iPad support with landscape mode
+- iPhone, iPad & MacOS (Catalyst) support with landscape mode
 - Navigation by profile like in the remote. Another profile can be selected from the 3 dots upper right button
 - Profile pages : pull down to refresh the data (in case of disconnection or modifications on the remote)
-- Profile pages : pull down to refresh will also wake up the remote (if wake on lan setting is enabled in the remote wifi settings)
+- Profile pages, activities, entities : pull down to refresh will also wake up the remote (if wake on lan setting is enabled in the remote wifi settings)
 - Profile pages : swipe left/right to switch between profile pages
 - Profile pages : tap on entity icon for toggling lights, switch, climates, covers
 - Profile pages : sliders for lights, covers and climate to change brightness/position/temperature. Tap on the slider to open popups and access additional settings of those entities
-- Activities & remote entities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control and seeking. All depending on the supported features of the player
-- Activities & remotes : support for physical volume buttons to change volume of activity or remote entity
-- Activities & remotes : touchpad available for direction pad assignments and handle of velocity (larger gestures trigger faster repeated commands)
-- Activities : active activities are also accessible from side menu in addition of profiles pages
+- Activities, remote & media player entities : full ui pages & buttons support, including short press/long press, media players with artwork, media position, titles/album/artist display, volume control and seeking. All depending on the supported features of the player
+- Activities, remotes & media players : support for physical volume buttons to change volume of activity or remote entity
+- Activities, remotes & media players : touchpad available for direction pad assignments and handle of velocity (larger gestures trigger faster repeated commands)
+- Activities : active (running) activities are also directly accessible from side menu in addition of profiles pages
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
-- Localization based on remote settings (only English and French configured at this state)
+- Localization based on remote settings (English, French & German configured at this state)
 
 ## Limitations and future plans
 
-- Sensor entities : not supported yet
 - Media player widget : experimental support, disabled in the current release. The widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more. The goal is to provide a media player widget with current artwork, title, progress and a few buttons (pause, previous, next...)
 - Live activities (different from widget) : experimental support for now (disabled by default, can be enabled from settings). Limitations: the app when minimized will loose its network connections, so the live activity can't be updated after a while even if tricks are possible (the progress time bar can move forward in the meantime without receiving updates). These limitations don't apply to the widget above
 
