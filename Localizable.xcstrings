@@ -1101,7 +1101,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Licht"
+            "value" : "Hell"
           }
         },
         "en" : {
@@ -1119,7 +1119,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hell"
+            "value" : "Licht"
           }
         }
       }
