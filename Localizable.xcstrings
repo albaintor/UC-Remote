@@ -1,2400 +1,2386 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "" : {
-
-    },
-    " " : {
-
-    },
-    " %@" : {
-
-    },
-    "(%@ %@)" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(%1$@ %2$@)"
+  "sourceLanguage": "en",
+  "strings": {
+    "Downloading common ressouces for first time": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allgemeine Ressourcen werden zum ersten Mal heruntergeladen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(%1$@ %2$@)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Téléchargement des ressources communes pour la première utilisation"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "(%1$@ %2$@)"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algemene ressources downloaden voor eerste gebruik"
           }
         }
       }
     },
-    "%@" : {
-      "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
+    "Shutdown remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung ausschalten"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eteindre la télécommande"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstandsbediening uitschakelen"
+          }
         }
       }
     },
-    "%@ %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@"
+    "Remote 3 %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remote 3 %@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remote 3 %@"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remote 3 %@"
           }
         }
       }
     },
-    "%lld" : {
-      "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld"
+    "Appearance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aussehen"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appearance"
           }
-        }
-      }
-    },
-    "100" : {
-      "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "100"
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apparence"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "100"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uiterlijk"
           }
         }
       }
     },
-    "Activity turned off" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivität ausgeschaltet"
+    "Select a profile": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Profil auswählen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité arrêtée"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sélectionner un profil"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activiteit gestopt"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecteer een profiel"
           }
         }
       }
     },
-    "Activity turned on" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivität eingeschaltet"
+    "Failed to restert remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung konnte nicht neu gestartet werden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité démarrée"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Echec du redémarrage de la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activiteit gestart"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herstarten van de afstandsbediening is mislukt"
           }
         }
       }
     },
-    "Add a new remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eine neue Fernbedienung hinzufügen"
+    "Registered token": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrierter Token"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajouter une nouvelle télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jeton enregistré"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voeg een nieuwe afstandsbediening toe"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geregistreerd token"
           }
         }
       }
     },
-    "Appearance" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aussehen"
+    "Model %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell %@"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appearance"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle %@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apparence"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Model %@"
           }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verschijning"
-          }
         }
       }
     },
-    "AUTO" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
+    "OFF": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aus"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eteint"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uit"
           }
         }
       }
     },
-    "AVAILABLE" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfügbar"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Available"
+    "Remote registered successfully": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung erfolgreich registriert"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disponible"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Succès de l’enregistrement de la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beschikbaar"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registratie van de afstandsbediening is gelukt"
           }
         }
       }
     },
-    "Back" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zurück"
+    "Back": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zurück"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Back"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Retour"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retour"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terug"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terug"
           }
         }
       }
     },
-    "Buttons" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tasten"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buttons"
+    "Https": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HTTPS"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boutons"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Https"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Knoppen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Https"
           }
         }
       }
     },
-    "CLOSED" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geschlossen"
+    "No remotes detected": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Fernbedienungen entdeckt"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Closed"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No remotes detected"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fermé"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune télécommande détectée"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gesloten"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen afstandsbediening gevonden"
           }
         }
       }
     },
-    "CLOSING" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schließt"
+    "PLAYING": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spielt"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Closing"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lecture"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fermeture"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afspelen"
           }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sluiten"
-          }
         }
       }
     },
-    "Configure remotes" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienungen konfigurieren"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configure remotes"
+    "Remote shutdown successfully": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung erfolgreich ausgeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurer les télécommandes"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommande arrêtée avec succès"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configureer afstandsbedieningen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De afstandsbediening is succesvol gestopt"
           }
         }
       }
     },
-    "Connection failed with password" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindungsfehler mit Passwort"
+    "PIN code": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-Code"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de la connexion avec le mot de passe"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code PIN"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbinding mislukt met wachtwoord"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pincode"
           }
         }
       }
     },
-    "Connection failed with token" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindungsfehler mit Token"
+    "HEAT": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heizen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heat"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de la connexion avec le token"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaleur"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kan geen verbinding maken met token"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warmte"
           }
         }
       }
     },
-    "Connection successful with password" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindung erfolgreich mit Passwort"
+    "Add a new remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine neue Fernbedienung hinzufügen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Succès de la connexion avec le mot de passe"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter une nouvelle télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbinding succesvol met wachtwoord"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voeg een nieuwe afstandsbediening toe"
           }
         }
       }
     },
-    "Connection successful with token" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindung erfolgreich mit Token"
+    "Settings": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Succès de la connexion avec le token"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindingssucces met token"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instellingen"
+          }
         }
       }
     },
-    "COOL" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kühlen"
+    "Configure remotes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienungen konfigurieren"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cool"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure remotes"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Froid"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configurer les télécommandes"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koud"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configureer afstandsbedieningen"
           }
         }
       }
     },
-    "Current : %@ °" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktuell: %@ °"
+    "System": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actuelle : %@ °"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Système"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidig: %@ °"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Systeem"
           }
         }
       }
     },
-    "Dark" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dunkel"
+    "Enable live activities to display current media state on home screen (experimental)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live-Aktivitäten aktivieren, um den aktuellen Medienstatus auf dem Home-Bildschirm anzuzeigen (experimentell)"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dark"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Live-activiteiten inschakelen om de huidige mediastatus op het home-screen weer te geven (experimenteel)"
           }
+        }
+      }
+    },
+    " %@": [],
+    "Unable to extract remote information": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informationen der Fernbedienung konnten nicht entpackt werden"
+          }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sombre"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible d’extraire les informations de la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donker"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kan geen informatie ophalen van de afstandsbediening"
           }
         }
       }
     },
-    "Device toggled on/off" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gerät Ein/Ausschalten"
+    "Wake remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung aufwecken"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appareil allumé/éteint"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réveiller la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apparaat aan/uit"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wek afstandsbediening"
           }
         }
       }
     },
-    "Device turned off" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gerät ausgeschaltet"
+    "OPEN": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geöffnet"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appareil éteint"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvert"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apparaat uit"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
           }
         }
       }
     },
-    "Device turned on" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gerät eingeschaltet"
+    "AUTO": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appareil allumé"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apparaat aan"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
         }
       }
     },
-    "Discovered remotes" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entdeckte Fernbedienungen"
+    "CLOSING": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schließt"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closing"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommandes découvertes"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fermeture"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ontdekte afstandsbedieningen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sluiten"
           }
         }
       }
     },
-    "Done" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fertig"
+    "Load resources": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ressourcen laden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terminé"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Charger les ressources"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klaar"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ressources laden"
           }
         }
       }
     },
-    "Downloading common ressouces for first time" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allgemeine Ressourcen werden zum ersten Mal heruntergeladen"
+    "Remote restarted successfully": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung erfolgreich neu gestartet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Téléchargement des ressources communes pour la première utilisation"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommande redémarrée avec succès"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Algemene ressources downloaden voor eerste gebruik"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstandsbediening succesvol nieuw opgestart"
           }
         }
       }
     },
-    "Edit remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung bearbeiten"
+    "UNKNOWN": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbekannt"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Edit remote"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Editer la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inconnu"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening bewerken"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onbekend"
           }
         }
       }
     },
-    "Enable live activities to display current media state on home screen (experimental)" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Live-Aktivitäten aktivieren, um den aktuellen Medienstatus auf dem Home-Bildschirm anzuzeigen (experimentell)"
+    "%lld": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Live-activiteiten inschakelen om de huidige mediastatus weer te geven op het home screen (experimenteel)"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
           }
         }
       }
     },
-    "Error during resources extraction" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Entpacken der Ressourcen"
+    "Loaded data": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geladene Daten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur durant l’extraction des ressources"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Données chargées"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout tijdens het extraheren van ressources"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gegevens geladen"
           }
         }
       }
     },
-    "Error while toggled on/off device" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Ein/Ausschalten des Geräts"
+    "Registered remotes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrierte Fernbedienungen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registered remotes"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant l’activation de l’appareil"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommandes enregistrées"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout tijdens aan-/uitzetten apparaat"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geregistreerde afstandsbedieningen"
           }
         }
       }
     },
-    "Error while turning off activity" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Ausschalten der Aktivität"
+    "Register remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung registrieren"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Register remote"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant l’arrêt de l'activité"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout bij het stoppen van de activiteit"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registreer de afstandsbediening"
           }
         }
       }
     },
-    "Error while turning off device" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Ausschalten des Geräts"
+    "Device turned off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerät ausgeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant l’arrêt de l’appareil"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareil éteint"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout tijdens het afsluiten van het apparaat"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apparaat uit"
           }
         }
       }
     },
-    "Error while turning on activity" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Einschalten der Aktivität"
+    "Pull to refresh profile and entities": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herunterziehen, um Profile und Entitäten neu zu laden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant le démarrage de l'activité"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tirer pour actualiser le profil et les entités"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout tijdens het starten van de activiteit"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "naar beneden trekken om profiel en entiteiten te vernieuwen"
           }
         }
       }
     },
-    "Error while turning on device" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Einschalten des Geräts"
+    "Light": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hell"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Light"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant le démarrage de l’appareil"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lumière"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout tijdens het opstarten van het apparaat"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Licht"
           }
         }
       }
     },
-    "Failed to register remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung konnte nicht registriert werden"
+    "Test connection": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindung testen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de l’enregistrement de la télécommande"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test connection"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registratie van afstandsbediening is mislukt"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tester la connection"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test de verbinding"
+          }
         }
       }
     },
-    "Failed to restert remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung konnte nicht neu gestartet werden"
+    "Touchpad": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touch-Pad"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec du redémarrage de la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pavé tactile"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herstarten van de afstandsbediening is mislukt"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touchpad"
           }
         }
       }
     },
-    "Failed to shutdown remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung konnte nicht ausgeschaltet werden"
+    " ": [],
+    "Host": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Host"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de l’arrêt de la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hôte"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uitzetten afstandsbediening mislukt"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Host"
           }
         }
       }
     },
-    "FAN" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ventilator"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fan"
+    "Activity turned off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktivität ausgeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ventilateur"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activité arrêtée"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fan"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activiteit gestopt"
           }
         }
       }
     },
-    "HEAT" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heizen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heat"
+    "Done": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chaleur"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminé"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Warmte"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klaar"
           }
         }
       }
     },
-    "HEAT_COOL" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heizen oder Kühlen"
+    "Buttons": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tasten"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heat or Cool"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buttons"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chauffage ou froid"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boutons"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Warm of koud"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knoppen"
           }
         }
       }
     },
-    "HEAT_COOL\t" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Warm of koud"
+    "Scroll mode instead of bottom tab bar": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scroll-Modus anstatt unterer Tableiste"
           }
-        }
-      }
-    },
-    "Host" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Host"
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scroll mode instead of bottom tab bar"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hôte"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode défilement au lieu de la barre de menu en bas"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Host"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scrollmodus in plaats van onderste menubalk"
           }
         }
       }
     },
-    "Https" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "HTTPS"
+    "OPENING": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Https"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opening"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Https"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouverture"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open"
+          }
         }
       }
     },
-    "Interface" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Benutzeroberfläche"
+    "PAUSED": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pausiert"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Interface"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pause"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Interface"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pauze"
           }
         }
       }
     },
-    "Light" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hell"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Light"
+    "Error while turning on device": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Einschalten des Geräts"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lumière"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur pendant le démarrage de l’appareil"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Licht"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout tijdens het opstarten van het apparaat"
           }
         }
       }
     },
-    "Load resources" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ressourcen laden"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Charger les ressources"
+    "100": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ressources laden"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100"
           }
         }
       }
     },
-    "Loaded data" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geladene Daten"
+    "Remotes registered": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrierte Fernbedienungen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Données chargées"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gegevens geladen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geregistreerde afstandsbedieningen"
           }
         }
       }
     },
-    "Magic packet sent" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Magic Packet gesendet"
+    "Magic packet sent": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Packet gesendet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paquet magique envoyé"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paquet magique envoyé"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Magic packet verzonden"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic packet verzonden"
           }
         }
       }
     },
-    "Mode" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modus"
+    "HEAT_COOL\t": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warm of koud"
           }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mode"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mode"
-          }
         }
       }
     },
-    "Model %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modell %@"
+    "CLOSED": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geschlossen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closed"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modèle %@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fermé"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Model %@"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesloten"
           }
         }
       }
     },
-    "Name" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Name"
+    "resources extracted": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ressourcen entpackt"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nom"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ressources extraites"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Naam"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "geëxtraheerde ressources"
           }
         }
       }
     },
-    "No entity selected" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keine Entität ausgewählt"
+    "Discovered remotes": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entdeckte Fernbedienungen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucune entité sélectionnée"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommandes découvertes"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geen entiteit geselecteerd"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontdekte afstandsbedieningen"
           }
         }
       }
     },
-    "No remotes detected" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keine Fernbedienungen entdeckt"
+    "COOL": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kühlen"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No remotes detected"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cool"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucune télécommande détectée"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Froid"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geen afstandsbediening gevonden"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koud"
           }
         }
       }
     },
-    "Numbers" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ziffern"
+    "%@ %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Numéros"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nummers"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@"
           }
         }
       }
     },
-    "OFF" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aus"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Off"
+    "Failed to register remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung konnte nicht registriert werden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eteint"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Echec de l’enregistrement de la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uit"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registratie van afstandsbediening is mislukt"
           }
         }
       }
     },
-    "ON" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "An"
+    "UNAVAILABLE": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht verfügbar"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "On"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unavailable"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allumé"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indisponible"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aan"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niet beschikbaar"
           }
         }
       }
     },
-    "OPEN" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geöffnet"
+    "ON": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvert"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allumé"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aan"
           }
         }
       }
     },
-    "OPENING" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Öffnet"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opening"
+    "Interface": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benutzeroberfläche"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouverture"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interface"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Interface"
           }
         }
       }
     },
-    "PAUSED" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pausiert"
+    "Tap on load resources to extract images and icons from the remote. Without extraction, images will be downloaded on the fly but font icons won't be available and won't be displayed correctly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu entpacken. Ohne Entpacken werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pause"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyer pour extraire les images et icônes de la télécommande. Sans cela les images seront téléchargées à la volée mais les icônes ne seront pas affichées correctement"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pauze"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Druk op ressources laden om afbeeldingen en pictogrammen van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct gedownload, maar worden de pictogrammen niet correct weergegeven"
           }
         }
       }
     },
-    "PIN code" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "PIN-Code"
+    "AVAILABLE": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfügbar"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Code PIN"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Available"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pincode"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disponible"
           }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beschikbaar"
+          }
         }
       }
     },
-    "PLAYING" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spielt"
+    "Repeat delay for touchpad (ms)": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touch-Pad Wiederholungs-Verzögerung (ms)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lecture"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Délai de répétition pour le pavé tactile (ms)"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afspelen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herhaal-vertraging voor touchpad (ms)"
           }
         }
       }
     },
-    "Port" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Port"
+    "Error while toggled on/off device": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Ein/Ausschalten des Geräts"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Port"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur pendant l’activation de l’appareil"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Port"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout tijdens aan-/uitzetten apparaat"
           }
         }
       }
     },
-    "Pull to refresh profile and entities" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herunterziehen, um Profile und Entitäten neu zu laden"
+    "Source": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quelle"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tirer pour actualiser le profil et les entités"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "naar beneden trekken om profiel en entiteiten te vernieuwen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bron"
           }
         }
       }
     },
-    "Register remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung registrieren"
+    "No entity selected": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Entität ausgewählt"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune entité sélectionnée"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Register remote"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geen entiteit geselecteerd"
+          }
+        }
+      }
+    },
+    "Connection successful with token": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindung erfolgreich mit Token"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enregistrer la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Succès de la connexion avec le token"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registreer de afstandsbediening"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindingssucces met token"
           }
         }
       }
     },
-    "Registered remotes" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registrierte Fernbedienungen"
+    "Start activity when opening": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktivität beim Öffnen starten"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registered remotes"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start activity when opening"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommandes enregistrées"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Démarrer l’activité à l’ouverture"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geregistreerde afstandsbedieningen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start activiteit bij openen"
           }
         }
       }
     },
-    "Registered token" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registrierter Token"
+    "Restart remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung neu starten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jeton enregistré"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redémarrer la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geregistreerd token"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opnieuw opstarten afstandsbediening"
           }
         }
       }
     },
-    "Remote 2 %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 2 %@"
+    "Error while turning off activity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Ausschalten der Aktivität"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 2 %@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur pendant l’arrêt de l'activité"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Op afstand 2 %@"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout bij het stoppen van de activiteit"
           }
         }
       }
     },
-    "Remote 3 %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 3 %@"
+    "Select a profile page": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine Profilseite auswählen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 3 %@"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sélectionner une page de profil"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 3 %@"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selecteer een profielpagina"
           }
         }
       }
     },
-    "Remote registered successfully" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung erfolgreich registriert"
+    "Connection successful with password": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindung erfolgreich mit Passwort"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Succès de l’enregistrement de la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Succès de la connexion avec le mot de passe"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registratie van de afstandsbediening is gelukt"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbinding succesvol met wachtwoord"
           }
         }
       }
     },
-    "Remote registered successfully but unable to retrieve information" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung erfolgreich registriert aber Informationen können nicht abgerufen werden"
+    "Dark": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dunkel"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dark"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande enregistrée avec succès mais impossible d’extraire les informations"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sombre"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening succesvol geregistreerd, maar kan geen informatie extraheren"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Donker"
           }
         }
       }
     },
-    "Remote restarted successfully" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung erfolgreich neu gestartet"
+    "Error while turning on activity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Einschalten der Aktivität"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande redémarrée avec succès"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur pendant le démarrage de l'activité"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening succesvol nieuw opgestart"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout tijdens het starten van de activiteit"
           }
         }
       }
     },
-    "Remote shutdown successfully" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung erfolgreich ausgeschaltet"
+    "Remote registered successfully but unable to retrieve information": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung erfolgreich registriert aber Informationen können nicht abgerufen werden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande arrêtée avec succès"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécommande enregistrée avec succès mais impossible d’extraire les informations"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "De afstandsbediening is succesvol gestopt"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstandsbediening succesvol geregistreerd, maar kan geen informatie extraheren"
           }
         }
       }
     },
-    "Remotes registered" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registrierte Fernbedienungen"
+    "Use physical volume buttons to change volume": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Physische Tasten verwenden, um die Lautstärke zu ändern"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utiliser les boutons physiques pour changer le volume"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geregistreerde afstandsbedieningen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebruik fysieke knoppen om het volume te wijzigen"
           }
         }
       }
     },
-    "Repeat delay for touchpad (ms)" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Touch-Pad Wiederholungs-Verzögerung (ms)"
+    "Device toggled on/off": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerät Ein/Ausschalten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Délai de répétition pour le pavé tactile (ms)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareil allumé/éteint"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herhaal-vertraging voor touchpad (ms)"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apparaat aan/uit"
           }
         }
       }
     },
-    "resources extracted" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ressourcen entpackt"
+    "Failed to shutdown remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung konnte nicht ausgeschaltet werden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ressources extraites"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Echec de l’arrêt de la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "geëxtraheerde ressources"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uitzetten afstandsbediening mislukt"
           }
         }
       }
     },
-    "Restart remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung neu starten"
+    "Sound mode": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tonmodus"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Redémarrer la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode sonore"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opnieuw opstarten afstandsbediening"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geluidsmodus"
           }
         }
       }
     },
-    "RUNNING" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Läuft"
+    "Username": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benutzername"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Running"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisateur"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Démarrage"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gebruikersnaam"
           }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opstarten"
-          }
         }
       }
     },
-    "Running activities" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Laufende Aktivitäten"
+    "RUNNING": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Läuft"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Running"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activités lancées"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Démarrage"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lopende activiteiten"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opstarten"
           }
         }
       }
     },
-    "Scroll mode instead of bottom tab bar" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scroll-Modus anstatt unterer Tableiste"
+    "FAN": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ventilator"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scroll mode instead of bottom tab bar"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fan"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mode défilement au lieu de la barre de menu en bas"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ventilateur"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scrollmodus in plaats van onderste menubalk"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fan"
           }
         }
       }
     },
-    "Select a profile" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ein Profil auswählen"
+    "Device turned on": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerät eingeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sélectionner un profil"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareil allumé"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer een profiel"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apparaat aan"
           }
         }
       }
     },
-    "Select a profile page" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eine Profilseite auswählen"
+    "Numbers": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziffern"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sélectionner une page de profil"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Numéros"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer een profielpagina"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nummers"
           }
         }
       }
     },
-    "Settings" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen"
+    "%@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Settings"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
+    "Activity turned on": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktivität eingeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réglages"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activité démarrée"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellingen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activiteit gestart"
           }
         }
       }
     },
-    "Shutdown remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung ausschalten"
+    "Running activities": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laufende Aktivitäten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eteindre la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activités lancées"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening uitschakelen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lopende activiteiten"
           }
         }
       }
     },
-    "Sound mode" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tonmodus"
+    "Name": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mode sonore"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geluidsmodus"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naam"
           }
         }
       }
     },
-    "Source" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Quelle"
+    "Current : %@ °": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktuell: %@ °"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Source"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actuelle : %@ °"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bron"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huidig: %@ °"
           }
         }
       }
     },
-    "STANDBY" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ruhezustand"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standby"
+    "Connection failed with token": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindungsfehler mit Token"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veille"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Echec de la connexion avec le token"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standby"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kan geen verbinding maken met token"
           }
         }
       }
     },
-    "Start activity when opening" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivität beim Öffnen starten"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Start activity when opening"
+    "Connection failed with password": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbindungsfehler mit Passwort"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Démarrer l’activité à l’ouverture"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Echec de la connexion avec le mot de passe"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Start activiteit bij openen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verbinding mislukt met wachtwoord"
           }
         }
       }
     },
-    "System" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System"
+    "Error while turning off device": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Ausschalten des Geräts"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Système"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur pendant l’arrêt de l’appareil"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systeem"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout tijdens het afsluiten van het apparaat"
           }
         }
       }
     },
-    "Tap on load resources to extract images and icons from the remote. Without extraction, images will be downloaded on the fly but font icons won't be available and won't be displayed correctly" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu entpacken. Ohne Entpacken werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
+    "(%@ %@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(%1$@ %2$@)"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Appuyer pour extraire les images et icônes de la télécommande. Sans cela les images seront téléchargées à la volée mais les icônes ne seront pas affichées correctement"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(%1$@ %2$@)"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Druk op ressources laden om afbeeldingen en pictogrammen van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct gedownload, maar worden de pictogrammen niet correct weergegeven"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(%1$@ %2$@)"
           }
         }
       }
     },
-    "Test connection" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verbindung testen"
+    "STANDBY": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ruhezustand"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test connection"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Standby"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tester la connection"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veille"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test de verbinding"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Standby"
           }
         }
       }
     },
-    "Touchpad" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Touch-Pad"
+    "Edit remote": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fernbedienung bearbeiten"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit remote"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pavé tactile"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editer la télécommande"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Touchpad"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afstandsbediening bewerken"
           }
         }
       }
     },
-    "Unable to extract remote information" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Informationen der Fernbedienung konnten nicht entpackt werden"
+    "Remote 2 %@": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remote 2 %@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impossible d’extraire les informations de la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remote 2 %@"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kan geen informatie ophalen van de afstandsbediening"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Op afstand 2 %@"
           }
         }
       }
     },
-    "unavailable" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "nicht verfügbar"
+    "Mode": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modus"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "unavailable"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "indisponible"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mode"
           }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "niet beschikbaar"
-          }
         }
       }
     },
-    "UNAVAILABLE" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nicht verfügbar"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unavailable"
+    "Port": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Port"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Indisponible"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Port"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niet beschikbaar"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Port"
           }
         }
       }
     },
-    "UNKNOWN" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unbekannt"
+    "unavailable": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "nicht verfügbar"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unknown"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "unavailable"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inconnu"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "indisponible"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onbekend"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "niet beschikbaar"
           }
         }
       }
     },
-    "Use physical volume buttons to change volume" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Physische Tasten verwenden, um die Lautstärke zu ändern"
+    "Error during resources extraction": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fehler beim Entpacken der Ressourcen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utiliser les boutons physiques pour changer le volume"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erreur durant l’extraction des ressources"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gebruik fysieke knoppen om het volume te wijzigen"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fout tijdens het extraheren van ressources"
           }
         }
       }
     },
-    "Username" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Benutzername"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilisateur"
+    "HEAT_COOL": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heizen oder Kühlen"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gebruikersnaam"
-          }
-        }
-      }
-    },
-    "Wake remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung aufwecken"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heat or Cool"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réveiller la télécommande"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chauffage ou froid"
           }
         },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wek afstandsbediening"
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warm of koud"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }
