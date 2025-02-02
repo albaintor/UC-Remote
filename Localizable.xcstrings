@@ -109,6 +109,12 @@
             "state" : "translated",
             "value" : "Activité non chargée"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität nicht geladen"
+          }
         }
       }
     },
