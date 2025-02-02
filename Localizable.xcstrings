@@ -87,6 +87,16 @@
         }
       }
     },
+    "%@ profile selected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "profil %@ sélectionné"
+          }
+        }
+      }
+    },
     "%lld" : {
       "localizations" : {
         "fr" : {
@@ -1242,6 +1252,16 @@
         }
       }
     },
+    "Loading profiles list and entities..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement des profils et des entités…"
+          }
+        }
+      }
+    },
     "Macro executed" : {
       "localizations" : {
         "fr" : {
@@ -1618,16 +1638,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil %@ sélectionné"
-          }
-        }
-      }
-    },
-    "profile selected" : {
-      "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "profil sélectionné"
           }
         }
       }
