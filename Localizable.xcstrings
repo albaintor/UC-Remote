@@ -2,13 +2,30 @@
   "sourceLanguage" : "en",
   "strings" : {
     "" : {
-
+      "comment" : "Empty string",
+      "shouldTranslate" : false
     },
     " " : {
-
+      "comment" : "OK button empty string",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      },
+      "shouldTranslate" : false
     },
     " %@" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " %@"
+          }
+        }
+      }
     },
     "(%@ %@)" : {
       "localizations" : {
@@ -86,6 +103,16 @@
         }
       }
     },
+    "%lld resources extracted" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ressources importées"
+          }
+        }
+      }
+    },
     "100" : {
       "localizations" : {
         "fr" : {
@@ -104,16 +131,16 @@
     },
     "Activity not loaded" : {
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité non chargée"
-          }
-        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivität nicht geladen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité non chargée"
           }
         }
       }
@@ -745,6 +772,12 @@
             "value" : "Live-Aktivitäten aktivieren, um den aktuellen Medienstatus auf dem Home-Bildschirm anzuzeigen (experimentell)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer les « Live Activities » pour afficher le média en cours (expérimental)"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -754,7 +787,30 @@
       }
     },
     "Entities" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entities"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités"
+          }
+        }
+      }
+    },
+    "entities loaded" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "entités chargées"
+          }
+        }
+      }
     },
     "Error during resources extraction" : {
       "localizations" : {
@@ -774,6 +830,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout tijdens het extraheren van ressources"
+          }
+        }
+      }
+    },
+    "Error while executing macro" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’exécution de la macro"
           }
         }
       }
@@ -1176,6 +1242,16 @@
         }
       }
     },
+    "Macro executed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Macro exécutée"
+          }
+        }
+      }
+    },
     "Magic packet sent" : {
       "localizations" : {
         "de" : {
@@ -1532,6 +1608,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Port"
+          }
+        }
+      }
+    },
+    "Profile %@ selected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ sélectionné"
+          }
+        }
+      }
+    },
+    "profile selected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "profil sélectionné"
           }
         }
       }
