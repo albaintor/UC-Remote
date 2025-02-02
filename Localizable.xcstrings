@@ -25,7 +25,8 @@
             "value" : " %@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "(%@ %@)" : {
       "localizations" : {
@@ -47,7 +48,8 @@
             "value" : "(%1$@ %2$@)"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@" : {
       "localizations" : {
@@ -63,7 +65,8 @@
             "value" : "%@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ %@" : {
       "localizations" : {
@@ -85,20 +88,27 @@
             "value" : "%1$@ %2$@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ profile selected" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "profil %@ sélectionné"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil %@ ausgewählt"
+            "value" : "%@ profiel geselecteerd"
           }
         }
       }
@@ -117,20 +127,27 @@
             "value" : "%lld"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%lld resources extracted" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Ressourcen importiert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld ressources importées"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld Ressourcen importiert"
+            "value" : "%lld resources geëxtraheerd"
           }
         }
       }
@@ -149,7 +166,8 @@
             "value" : "100"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "Activity not loaded" : {
       "localizations" : {
@@ -163,6 +181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activité non chargée"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit niet geladen"
           }
         }
       }
@@ -256,7 +280,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verschijning"
+            "value" : "Uiterlijk"
           }
         }
       }
@@ -290,7 +314,6 @@
       }
     },
     "AVAILABLE" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -319,7 +342,6 @@
       }
     },
     "Back" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -598,7 +620,6 @@
       }
     },
     "Dark" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -631,7 +652,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gerät Ein/Ausgeschaltet"
+            "value" : "Gerät Ein/Ausschalten"
           }
         },
         "fr" : {
@@ -803,7 +824,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Live-activiteiten inschakelen om de huidige mediastatus weer te geven op het home screen (experimenteel)"
+            "value" : "Live-activiteiten inschakelen om de huidige mediastatus op het home-screen weer te geven (experimenteel)"
           }
         }
       }
@@ -813,13 +834,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entitäten"
+            "value" : "Entities"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entités"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entiteiten"
           }
         }
       }
@@ -832,10 +859,10 @@
             "value" : "entités chargées"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entitäten geladen"
+            "value" : "Geladen entiteiten"
           }
         }
       }
@@ -870,10 +897,10 @@
             "value" : "Erreur pendant l’exécution de la macro"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Ausführen des Makros"
+            "value" : "Fout tijdens uitvoeren macro"
           }
         }
       }
@@ -917,7 +944,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fout bij het stoppen van de activiteit"
+            "value" : "Fout tijdens het stoppen van de activiteit"
           }
         }
       }
@@ -1284,10 +1311,10 @@
             "value" : "Chargement des profils et des entités…"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lade Profilliste und Entitäten..."
+            "value" : "laden van profiel lijst en entiteiten..."
           }
         }
       }
@@ -1300,10 +1327,10 @@
             "value" : "Macro exécutée"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Makro ausgeführt"
+            "value" : "uitvoeren macro"
           }
         }
       }
@@ -1676,10 +1703,10 @@
             "value" : "Profil %@ sélectionné"
           }
         },
-        "de" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil %@ ausgewählt"
+            "value" : "profiel %@ geselecteerd"
           }
         }
       }
@@ -2005,7 +2032,6 @@
       }
     },
     "RUNNING" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2278,7 +2304,6 @@
       }
     },
     "System" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2323,7 +2348,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Druk op ressources laden om afbeeldingen en pictogrammen van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct gedownload, maar worden de pictogrammen niet correct weergegeven"
+            "value" : "Druk op ressources laden om afbeeldingen en icons van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct bij gebruik gedownload, maar worden de icons niet correct weergegeven"
           }
         }
       }
@@ -2401,7 +2426,6 @@
       }
     },
     "unavailable" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
