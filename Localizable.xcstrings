@@ -94,6 +94,12 @@
             "state" : "translated",
             "value" : "profil %@ sélectionné"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
+          }
         }
       }
     },
@@ -119,6 +125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld ressources importées"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Ressourcen importiert"
           }
         }
       }
@@ -619,7 +631,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gerät Ein/Ausschalten"
+            "value" : "Gerät Ein/Ausgeschaltet"
           }
         },
         "fr" : {
@@ -801,7 +813,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entities"
+            "value" : "Entitäten"
           }
         },
         "fr" : {
@@ -818,6 +830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "entités chargées"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten geladen"
           }
         }
       }
@@ -850,6 +868,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’exécution de la macro"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausführen des Makros"
           }
         }
       }
@@ -1259,6 +1283,12 @@
             "state" : "translated",
             "value" : "Chargement des profils et des entités…"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lade Profilliste und Entitäten..."
+          }
         }
       }
     },
@@ -1268,6 +1298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Macro exécutée"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Makro ausgeführt"
           }
         }
       }
@@ -1638,6 +1674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil %@ sélectionné"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
           }
         }
       }
