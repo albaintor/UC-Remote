@@ -36,11 +36,12 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Activities, remotes & media players : touchpad available for direction pad assignments and handle of velocity (larger gestures trigger faster repeated commands)
 - Activities : active (running) activities are also directly accessible from side menu in addition of profiles pages
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
-- Localization based on remote settings (English, French & German configured at this state)
+- Localization based on remote settings (English, French, German & Dutch configured at this state)
+- Widget : available in 3 sizes, lets control the running activities and display its state if available (artwork, title, album, artist) with the following buttons : play/pause, volume up/down, mute, rewind/forward and refresh button to update. If several activities are active, the first one found will be taken unless you select the activity from the app and minimize it (the widget will be reloaded then with the selected activity).
 
 ## Limitations and future plans
 
-- Media player widget : experimental support, disabled in the current release. The widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more. The goal is to provide a media player widget with current artwork, title, progress and a few buttons (pause, previous, next...)
+- Activity widget : the widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more, so the updates can be done manually through the refresh button (otherwise they are performed automatically when using the app and minimize it)
 - Live activities (different from widget) : experimental support for now (disabled by default, can be enabled from settings). Limitations: the app when minimized will loose its network connections, so the live activity can't be updated after a while even if tricks are possible (the progress time bar can move forward in the meantime without receiving updates). These limitations don't apply to the widget above
 
 # Setup
