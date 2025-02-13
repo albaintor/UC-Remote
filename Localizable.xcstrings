@@ -152,6 +152,9 @@
         }
       }
     },
+    "00:00:00" : {
+      "shouldTranslate" : false
+    },
     "100" : {
       "localizations" : {
         "fr" : {
@@ -314,6 +317,7 @@
       }
     },
     "AVAILABLE" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -341,7 +345,11 @@
         }
       }
     },
+    "Available entities" : {
+
+    },
     "Back" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -620,6 +628,7 @@
       }
     },
     "Dark" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -652,7 +661,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gerät Ein/Ausschalten"
+            "value" : "Gerät Ein/Ausgeschaltet"
           }
         },
         "fr" : {
@@ -834,7 +843,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entities"
+            "value" : "Entitäten"
           }
         },
         "fr" : {
@@ -853,6 +862,12 @@
     },
     "entities loaded" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten geladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -891,6 +906,12 @@
     },
     "Error while executing macro" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausführen des Makros"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1109,6 +1130,16 @@
         }
       }
     },
+    "General settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres généraux"
+          }
+        }
+      }
+    },
     "HEAT" : {
       "localizations" : {
         "de" : {
@@ -1305,6 +1336,12 @@
     },
     "Loading profiles list and entities..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lade Profilliste und Entitäten..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1321,6 +1358,12 @@
     },
     "Macro executed" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Makro ausgeführt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1419,6 +1462,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naam"
+          }
+        }
+      }
+    },
+    "No entities selected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune entité sélectionnée"
           }
         }
       }
@@ -1697,6 +1750,12 @@
     },
     "Profile %@ selected" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2032,6 +2091,7 @@
       }
     },
     "RUNNING" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2109,6 +2169,26 @@
         }
       }
     },
+    "Search and select the entities you want to be displayed in your widget. You can define one list per remote." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher et sélectionner les entités à afficher dans le widget. On peut définir une liste par télécommande."
+          }
+        }
+      }
+    },
+    "Search entities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher des entités"
+          }
+        }
+      }
+    },
     "Select a profile" : {
       "localizations" : {
         "de" : {
@@ -2149,6 +2229,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecteer een profielpagina"
+          }
+        }
+      }
+    },
+    "Selected entities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités sélectionnées"
           }
         }
       }
@@ -2304,29 +2394,12 @@
       }
     },
     "System" : {
+      "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Système"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systeem"
           }
         }
       }
@@ -2426,6 +2499,7 @@
       }
     },
     "unavailable" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2571,6 +2645,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wek afstandsbediening"
+          }
+        }
+      }
+    },
+    "Widget settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres Widget"
           }
         }
       }
