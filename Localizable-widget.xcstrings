@@ -84,16 +84,16 @@
     },
     "Current page" : {
       "localizations" : {
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Page courante"
-          }
-        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktuelle Seite"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page courante"
           }
         }
       }
@@ -135,7 +135,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung"
+            "value" : "Befehl der Fernbedienung"
           }
         },
         "fr" : {
@@ -151,7 +151,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Befehl der Fernbedienung"
+            "value" : "Entität der Fernbedienun"
           }
         },
         "fr" : {
@@ -167,7 +167,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entität der Fernbedienung"
+            "value" : "Fernbedienung-Entität"
           }
         },
         "fr" : {
