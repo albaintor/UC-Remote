@@ -89,6 +89,12 @@
             "state" : "translated",
             "value" : "Page courante"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Seite"
+          }
         }
       }
     },
@@ -145,7 +151,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung-Befehl"
+            "value" : "Befehl der Fernbedienung"
           }
         },
         "fr" : {
@@ -161,7 +167,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung-Entität"
+            "value" : "Entität der Fernbedienung"
           }
         },
         "fr" : {

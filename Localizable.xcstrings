@@ -352,6 +352,12 @@
             "state" : "translated",
             "value" : "Entités disponibles"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbare Entitäten"
+          }
         }
       }
     },
@@ -918,6 +924,12 @@
             "state" : "translated",
             "value" : "Erreur pendant la fermeture du volet"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Schließen der Abdeckung"
+          }
         }
       }
     },
@@ -950,6 +962,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’ouverture du volet"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Öffnen der Abdeckung"
+          }
         }
       }
     },
@@ -960,6 +978,12 @@
             "state" : "translated",
             "value" : "Erreur lors de l’extinction"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten"
+          }
         }
       }
     },
@@ -969,6 +993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur lors de l’allumage"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten"
           }
         }
       }
@@ -1002,6 +1032,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’activation du groupe"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Umschalten der Gruppe"
+          }
         }
       }
     },
@@ -1011,6 +1047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’activation de la lumière"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Umschalten des Lichts"
           }
         }
       }
@@ -1044,6 +1086,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’arrêt du thermostat"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Thermostats"
+          }
         }
       }
     },
@@ -1075,6 +1123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’arrêt de la lumière"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Lichts"
           }
         }
       }
@@ -1108,6 +1162,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’allumage du thermostat"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Thermostats"
+          }
         }
       }
     },
@@ -1139,6 +1199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’allumage de la lumière"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Lichts"
           }
         }
       }
@@ -1243,6 +1309,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres généraux"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemeine Einstellungen"
           }
         }
       }
@@ -1579,6 +1651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune entité sélectionnée"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Entitäten ausgewählt"
           }
         }
       }
@@ -2283,6 +2361,12 @@
             "state" : "translated",
             "value" : "Rechercher et sélectionner les entités à afficher dans le widget. On peut définir une liste par télécommande."
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche und wähle die Entitäten aus, die im Widget angezeigt werden sollen. Du kannst eine Liste pro Fernbedienung festlegen."
+          }
         }
       }
     },
@@ -2292,6 +2376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rechercher des entités"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten suchen"
           }
         }
       }
@@ -2346,6 +2436,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entités sélectionnées"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Entitäten"
           }
         }
       }
@@ -2762,6 +2858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres Widget"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Einstellungen"
           }
         }
       }
