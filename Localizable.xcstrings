@@ -346,7 +346,14 @@
       }
     },
     "Available entities" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités disponibles"
+          }
+        }
+      }
     },
     "Back" : {
       "extractionState" : "manual",
@@ -904,6 +911,16 @@
         }
       }
     },
+    "Error while closing cover" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la fermeture du volet"
+          }
+        }
+      }
+    },
     "Error while executing macro" : {
       "localizations" : {
         "de" : {
@@ -922,6 +939,36 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout tijdens uitvoeren macro"
+          }
+        }
+      }
+    },
+    "Error while opening cover" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’ouverture du volet"
+          }
+        }
+      }
+    },
+    "Error while switching off" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’extinction"
+          }
+        }
+      }
+    },
+    "Error while switching on" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’allumage"
           }
         }
       }
@@ -948,6 +995,26 @@
         }
       }
     },
+    "Error while toggling group" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation du groupe"
+          }
+        }
+      }
+    },
+    "Error while toggling light" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation de la lumière"
+          }
+        }
+      }
+    },
     "Error while turning off activity" : {
       "localizations" : {
         "de" : {
@@ -966,6 +1033,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout tijdens het stoppen van de activiteit"
+          }
+        }
+      }
+    },
+    "Error while turning off climate" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt du thermostat"
           }
         }
       }
@@ -992,6 +1069,16 @@
         }
       }
     },
+    "Error while turning off light" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt de la lumière"
+          }
+        }
+      }
+    },
     "Error while turning on activity" : {
       "localizations" : {
         "de" : {
@@ -1014,6 +1101,16 @@
         }
       }
     },
+    "Error while turning on climate" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’allumage du thermostat"
+          }
+        }
+      }
+    },
     "Error while turning on device" : {
       "localizations" : {
         "de" : {
@@ -1032,6 +1129,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout tijdens het opstarten van het apparaat"
+          }
+        }
+      }
+    },
+    "Error while turning on light" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’allumage de la lumière"
           }
         }
       }

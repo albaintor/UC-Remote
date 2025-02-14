@@ -31,6 +31,9 @@
         }
       }
     },
+    "%@°" : {
+      "shouldTranslate" : false
+    },
     "Activity" : {
       "localizations" : {
         "de" : {
