@@ -190,6 +190,12 @@
             "state" : "translated",
             "value" : "Activité"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität"
+          }
         }
       }
     },
@@ -518,6 +524,12 @@
             "state" : "translated",
             "value" : "Commande"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl"
+          }
         }
       }
     },
@@ -527,6 +539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuration"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration"
           }
         }
       }
@@ -703,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Page courante"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Seite"
           }
         }
       }
@@ -903,6 +927,12 @@
             "state" : "translated",
             "value" : "Activer pour toutes les activités, sinon seulement celles avec des lecteurs médias"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für alle Aktivitäten aktivieren, ansonsten nur für die mit Media-Player Entitäten"
+          }
         }
       }
     },
@@ -972,6 +1002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entité"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität"
           }
         }
       }
@@ -1667,6 +1703,12 @@
             "state" : "translated",
             "value" : "Entité média"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media-Player Entität"
+          }
         }
       }
     },
@@ -1742,6 +1784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nouvelle version disponible : %@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Version verfügbar: %@"
           }
         }
       }
@@ -2163,6 +2211,12 @@
             "state" : "translated",
             "value" : "Télécommande"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung"
+          }
         }
       }
     },
@@ -2217,6 +2271,12 @@
             "state" : "translated",
             "value" : "Commande"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl der Fernbedienung"
+          }
         }
       }
     },
@@ -2226,6 +2286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entité de la télécommande"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität der Fernbedienung"
           }
         }
       }
@@ -2237,6 +2303,12 @@
             "state" : "translated",
             "value" : "Hôte de la télécommande"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host der Fernbedienung"
+          }
         }
       }
     },
@@ -2246,6 +2318,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recharger la télécommande"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung neu laden"
           }
         }
       }
@@ -2588,6 +2666,12 @@
             "state" : "translated",
             "value" : "Sélectionner la télécommande à afficher"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Fernbedienung auswählen, die angezeigt werden soll"
+          }
         }
       }
     },
@@ -2613,6 +2697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Télécommande sélectionnée"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Fernbedienung"
           }
         }
       }
