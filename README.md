@@ -22,8 +22,8 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 # Features
 
 - Registration : remotes registration with automatic discovery (or else manual registration)
-- Multiple remotes support with easy switching from the side menu, and synchronized in parallel
-- Dark mode (default) / light mode
+- Multiple remotes support with easy switching from the left side menu, and synchronized in background
+- Dark mode (default) / light mode / sync with system
 - iPhone, iPad & MacOS (Catalyst) support with landscape mode
 - Navigation by profile like in the remote. Another profile can be selected from the 3 dots upper right button
 - Profile pages : pull down to refresh the data (in case of disconnection or modifications on the remote)
@@ -38,11 +38,13 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
 - Localization based on remote settings (English, French, German & Dutch configured at this state)
 - Widget : available in 3 sizes, lets control the running activities and display its state if available (artwork, title, album, artist) with the following buttons : play/pause, volume up/down, mute, rewind/forward and refresh button to update. If several activities are active, the first one found will be taken unless you select the activity from the app and minimize it (the widget will be reloaded then with the selected activity).
+- Widtet : a toggle button switches to a page of entities, configurable from the app. Each entities are togglable, except sensors that display the sensor value.
+- Live activities : live activites are like widgets but activated by the app when entering into an activity page, and remain accessible from the dynamic island or the lock screen. The same commands are available
 
 ## Limitations and future plans
 
 - Activity widget : the widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more, so the updates can be done manually through the refresh button (otherwise they are performed automatically when using the app and minimize it)
-- Live activities (different from widget) : experimental support for now (disabled by default, can be enabled from settings). Limitations: the app when minimized will loose its network connections, so the live activity can't be updated after a while even if tricks are possible (the progress time bar can move forward in the meantime without receiving updates). These limitations don't apply to the widget above
+- Live activities : disabled by default, can be enabled from settings. Limitation: the app when minimized will loose its network connections, so the live activity can't be updated after a while and the status will become out of sync. However a refresh button will update the media state
 
 # Setup
 
@@ -76,6 +78,7 @@ In profile pages, you can :
 - Toggle profile groups, expand them to show its entities
 - Sliders on lights, covers, climates to adjust brightness/position/temperature. Tap on slider to access additional settings.
 - Open activivities, remotes and media player entities
+- Refresh pages on pull (added/removed or renamed entities for ex)
 
 ## Activities
 
@@ -107,5 +110,46 @@ From this menu you can access to :
 <p align="center"> 
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/2730a79a-3276-4a87-9a98-d4de65c205f7"/>
 </p>
+
+
+# Widgets & Live Activities
+
+3 sizes are available for widgets
+
+## Large size
+<p align="center"> 
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/e0aa11d3-b661-45b5-91ca-ef5655f38feb" />
+</p>
+
+## Medium size
+<p align="center"> 
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/77f2cab1-dbcb-450c-8a51-4be08eee4aa3" />
+</p>
+
+## Small size
+<p align="center"> 
+<img width="131" alt="image" src="https://github.com/user-attachments/assets/86d7f704-7dd6-486f-ab96-43227c5f31b5" />
+</p>
+
+## Entities page
+
+<p align="center"> 
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/4e2e5ea5-06da-4b5c-b3e7-46b1b7036cf8" />
+</p>
+
+The widgets have a toggle button that can switch to a page of entities. This button is hidden if no entities have been configured from the app.
+Each entity will display its state depending on its nature : brightness for lights, position for shutters/covers, on/off state for activities...
+A tap on an entity will toggle it : switch on/off lights, turn on/off an activity, open/close covers...
+Except sensors that just display information
+
+### Configuration of entities page
+
+Open side menu > Settings : scroll down to the widget section and select the remote to be configured.
+Then you can search and add or remove entities to the widget page from there. You can also reorder the list
+
+<p align="center"> 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a2b94b2f-61a0-4761-8245-cedf609d4547" />
+</p>
+
 
 
