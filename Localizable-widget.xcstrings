@@ -45,6 +45,16 @@
     "%@°" : {
       "shouldTranslate" : false
     },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
     "Activity" : {
       "localizations" : {
         "de" : {
@@ -204,6 +214,9 @@
           }
         }
       }
+    },
+    "Remote Next Activity" : {
+
     },
     "Remote Refresh" : {
       "localizations" : {
