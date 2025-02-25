@@ -1,2918 +1,3254 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    " ": {
-      "comment": "OK button empty string",
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " "
-          }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " "
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "comment" : "Empty string",
+      "shouldTranslate" : false
+    },
+    " " : {
+      "comment" : "OK button empty string",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    " %@": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " %@"
+    " %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " %@"
           }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " %@"
-          }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "(%@ %@)": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "(%1$@ %2$@)"
+    "(%@ %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%1$@ %2$@)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "(%1$@ %2$@)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%1$@ %2$@)"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "(%1$@ %2$@)"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%1$@ %2$@)"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "%@": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@"
+    "%@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "%@ (%@)": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@ (%2$@)"
+    "%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "%@ %@": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@ %2$@"
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@ %2$@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@ %2$@"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "%@ profile selected": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "profil %@ sélectionné"
+    "%@ profile selected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "profil %@ sélectionné"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ profiel geselecteerd"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ profiel geselecteerd"
           }
         }
       }
     },
-    "%lld": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld"
+    "%lld" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "%lld resources extracted": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld ressources importées"
+    "%lld resources extracted" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Ressourcen importiert"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ressources importées"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld resources geëxtraheerd"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld resources geëxtraheerd"
           }
         }
       }
     },
-    "00:00:00": [],
-    "100": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "100"
+    "00:00:00" : {
+      "shouldTranslate" : false
+    },
+    "100" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "100"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
-    "Activity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activiteit"
+    "Activity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit"
+          }
         }
       }
     },
-    "Activity not loaded": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivität nicht geladen"
+    "Activity not loaded" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität nicht geladen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activité non chargée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité non chargée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activiteit niet geladen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit niet geladen"
           }
         }
       }
     },
-    "Activity turned off": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivität ausgeschaltet"
+    "Activity turned off" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität ausgeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activité arrêtée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité arrêtée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activiteit gestopt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit gestopt"
           }
         }
       }
     },
-    "Activity turned on": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivität eingeschaltet"
+    "Activity turned on" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität eingeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activité démarrée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité démarrée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activiteit gestart"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit gestart"
           }
         }
       }
     },
-    "Add a new remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine neue Fernbedienung hinzufügen"
+    "Add a new remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine neue Fernbedienung hinzufügen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ajouter une nouvelle télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une nouvelle télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Voeg een nieuwe afstandsbediening toe"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg een nieuwe afstandsbediening toe"
           }
         }
       }
     },
-    "Age of cache before reloading data (seconds)": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leeftijd van cache voordat gegevens opnieuw worden geladen (seconden)"
+    "Age of cache before reloading data (seconds)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alter des Caches vor dem Neuladen der Daten (Sekunden)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durée du cache avant de recharger les données (en secondes)"
           }
         }
       }
     },
-    "Appearance": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aussehen"
+    "Appearance" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aussehen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appearance"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apparence"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apparence"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uiterlijk"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uiterlijk"
           }
         }
       }
     },
-    "AUTO": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Auto"
+    "AUTO" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Auto"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Auto"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Auto"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
           }
         }
       }
     },
-    "AVAILABLE": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verfügbar"
+    "AVAILABLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbar"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Available"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disponible"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponible"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Beschikbaar"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschikbaar"
           }
         }
       }
     },
-    "Available entities": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Beschikbare entiteiten"
+    "Available entities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbare Entitäten"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités disponibles"
+          }
         }
       }
     },
-    "Back": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zurück"
+    "Back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurück"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Back"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Retour"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retour"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Terug"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terug"
           }
         }
       }
     },
-    "Buttons": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tasten"
+    "Buttons" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasten"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Buttons"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buttons"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Boutons"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boutons"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Knoppen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knoppen"
           }
         }
       }
     },
-    "CLOSED": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geschlossen"
+    "CLOSED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschlossen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Closed"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closed"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fermé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermé"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gesloten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesloten"
           }
         }
       }
     },
-    "CLOSING": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schließt"
+    "CLOSING" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließt"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Closing"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Closing"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fermeture"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermeture"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sluiten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sluiten"
           }
         }
       }
     },
-    "Command": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bevel"
+    "Command" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commande"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commando"
+          }
         }
       }
     },
-    "Configuration": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configuratie"
+    "Configuration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuratie"
           }
         }
       }
     },
-    "Configure remotes": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienungen konfigurieren"
+    "Configure remotes" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienungen konfigurieren"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configure remotes"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure remotes"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configurer les télécommandes"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configurer les télécommandes"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configureer afstandsbedieningen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configureer afstandsbedieningen"
           }
         }
       }
     },
-    "Connection failed with password": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindungsfehler mit Passwort"
+    "Connection failed with password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindungsfehler mit Passwort"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Echec de la connexion avec le mot de passe"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la connexion avec le mot de passe"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinding mislukt met wachtwoord"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinding mislukt met wachtwoord"
           }
         }
       }
     },
-    "Connection failed with token": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindungsfehler mit Token"
+    "Connection failed with token" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindungsfehler mit Token"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Echec de la connexion avec le token"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la connexion avec le token"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kan geen verbinding maken met token"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan geen verbinding maken met token"
           }
         }
       }
     },
-    "Connection successful with password": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindung erfolgreich mit Passwort"
+    "Connection successful with password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung erfolgreich mit Passwort"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Succès de la connexion avec le mot de passe"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de la connexion avec le mot de passe"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbinding succesvol met wachtwoord"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbinding succesvol met wachtwoord"
           }
         }
       }
     },
-    "Connection successful with token": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindung erfolgreich mit Token"
+    "Connection successful with token" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung erfolgreich mit Token"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Succès de la connexion avec le token"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de la connexion avec le token"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindingssucces met token"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindingssucces met token"
           }
         }
       }
     },
-    "COOL": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kühlen"
+    "COOL" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kühlen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cool"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cool"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Froid"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Froid"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Koud"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koud"
           }
         }
       }
     },
-    "Current : %@ °": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktuell: %@ °"
+    "Current : %@ °" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuell: %@ °"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Actuelle : %@ °"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actuelle : %@ °"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Huidig: %@ °"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huidig: %@ °"
           }
         }
       }
     },
-    "Current page": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Actuele pagina"
+    "Current page" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Seite"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page courante"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actuele pagina"
           }
         }
       }
     },
-    "Dark": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dunkel"
+    "Dark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkel"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dark"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sombre"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sombre"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Donker"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donker"
           }
         }
       }
     },
-    "Device toggled on/off": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gerät Ein/Ausschalten"
+    "Device toggled on/off" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät Ein/Ausgeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appareil allumé/éteint"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appareil allumé/éteint"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apparaat aan/uit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apparaat aan/uit"
           }
         }
       }
     },
-    "Device turned off": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gerät ausgeschaltet"
+    "Device turned off" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät ausgeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appareil éteint"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appareil éteint"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apparaat uit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apparaat uit"
           }
         }
       }
     },
-    "Device turned on": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gerät eingeschaltet"
+    "Device turned on" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerät eingeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appareil allumé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appareil allumé"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apparaat aan"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apparaat aan"
           }
         }
       }
     },
-    "Discovered remotes": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entdeckte Fernbedienungen"
+    "Discovered remotes" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entdeckte Fernbedienungen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommandes découvertes"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommandes découvertes"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ontdekte afstandsbedieningen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontdekte afstandsbedieningen"
           }
         }
       }
     },
-    "Done": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fertig"
+    "Done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertig"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Terminé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Klaar"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar"
           }
         }
       }
     },
-    "Downloading common ressouces for first time": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allgemeine Ressourcen werden zum ersten Mal heruntergeladen"
+    "Downloading common ressouces for first time" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemeine Ressourcen werden zum ersten Mal heruntergeladen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Téléchargement des ressources communes pour la première utilisation"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargement des ressources communes pour la première utilisation"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Algemene ressources downloaden voor eerste gebruik"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algemene ressources downloaden voor eerste gebruik"
           }
         }
       }
     },
-    "Edit remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung bearbeiten"
+    "Edit remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung bearbeiten"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Edit remote"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit remote"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Editer la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editer la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening bewerken"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening bewerken"
           }
         }
       }
     },
-    "Enable for all activities, otherwise only those with media players": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "inschakelen voor alle activiteiten, anders alleen die met media players"
+    "Enable for all activities, otherwise only those with media players" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für alle Aktivitäten aktivieren, ansonsten nur für die mit Media-Player Entitäten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer pour toutes les activités, sinon seulement celles avec des lecteurs médias"
           }
         }
       }
     },
-    "Enable live activities to display current media state on home screen": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Live-activiteiten inschakelen om de actuele mediastatus op het home scree weer te geven"
+    "Enable live activities to display current media state on home screen" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live-Aktivitäten aktivieren, um den aktuellen Medienstatus auf dem Home-Bildschirm anzuzeigen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer les « Live Activities » pour afficher le média en cours"
           }
         }
       }
     },
-    "Entities": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entities"
+    "Entities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entités"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entiteiten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entiteiten"
           }
         }
       }
     },
-    "entities loaded": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "entités chargées"
+    "entities loaded" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten geladen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "entités chargées"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geladen entiteiten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geladen entiteiten"
           }
         }
       }
     },
-    "Entity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entiteit"
+    "Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entiteit"
           }
         }
       }
     },
-    "Error during resources extraction": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Entpacken der Ressourcen"
+    "Error during resources extraction" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Entpacken der Ressourcen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur durant l’extraction des ressources"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur durant l’extraction des ressources"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens het extraheren van ressources"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens het extraheren van ressources"
           }
         }
       }
     },
-    "Error while closing cover": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens sluiten cover"
+    "Error while closing cover" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Schließen der Abdeckung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la fermeture du volet"
           }
         }
       }
     },
-    "Error while executing macro": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant l’exécution de la macro"
+    "Error while executing macro" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausführen des Makros"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’exécution de la macro"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens uitvoeren macro"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens uitvoeren macro"
           }
         }
       }
     },
-    "Error while opening cover": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens openen cover"
+    "Error while opening cover" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Öffnen der Abdeckung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’ouverture du volet"
           }
         }
       }
     },
-    "Error while switching off": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens inschakelen"
+    "Error while switching off" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’extinction"
           }
         }
       }
     },
-    "Error while switching on": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens uitschakelen"
+    "Error while switching on" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’allumage"
           }
         }
       }
     },
-    "Error while toggled on/off device": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Ein/Ausschalten des Geräts"
+    "Error while toggled on/off device" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ein/Ausschalten des Geräts"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant l’activation de l’appareil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation de l’appareil"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens aan-/uitzetten apparaat"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens aan-/uitzetten apparaat"
           }
         }
       }
     },
-    "Error while toggling group": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout bij het wisselen van groep"
+    "Error while toggling group" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Umschalten der Gruppe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation du groupe"
           }
         }
       }
     },
-    "Error while toggling light": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout bij het schakelen van het licht"
+    "Error while toggling light" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Umschalten des Lichts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation de la lumière"
           }
         }
       }
     },
-    "Error while turning off activity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Ausschalten der Aktivität"
+    "Error while turning off activity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten der Aktivität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant l’arrêt de l'activité"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt de l'activité"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens het stoppen van de activiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens het stoppen van de activiteit"
           }
         }
       }
     },
-    "Error while turning off climate": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens uitschakelen klimaatapparaat"
+    "Error while turning off climate" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Thermostats"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt du thermostat"
           }
         }
       }
     },
-    "Error while turning off device": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Ausschalten des Geräts"
+    "Error while turning off device" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Geräts"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant l’arrêt de l’appareil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt de l’appareil"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens het afsluiten van het apparaat"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens het afsluiten van het apparaat"
           }
         }
       }
     },
-    "Error while turning off light": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout bij uitschakelen van het licht"
+    "Error while turning off light" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Lichts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt de la lumière"
           }
         }
       }
     },
-    "Error while turning on activity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Einschalten der Aktivität"
+    "Error while turning on activity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten der Aktivität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant le démarrage de l'activité"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant le démarrage de l'activité"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens het starten van de activiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens het starten van de activiteit"
           }
         }
       }
     },
-    "Error while turning on climate": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout bij het inschakelen van het klimaatapparaat"
+    "Error while turning on climate" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Thermostats"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’allumage du thermostat"
+          }
         }
       }
     },
-    "Error while turning on device": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Einschalten des Geräts"
+    "Error while turning on device" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Geräts"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur pendant le démarrage de l’appareil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant le démarrage de l’appareil"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout tijdens het opstarten van het apparaat"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout tijdens het opstarten van het apparaat"
           }
         }
       }
     },
-    "Error while turning on light": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fout bij inschakelen van het licht"
+    "Error while turning on light" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Lichts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’allumage de la lumière"
           }
         }
       }
     },
-    "Failed to register remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung konnte nicht registriert werden"
+    "Failed to register remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung konnte nicht registriert werden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Echec de l’enregistrement de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’enregistrement de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registratie van afstandsbediening is mislukt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registratie van afstandsbediening is mislukt"
           }
         }
       }
     },
-    "Failed to restert remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung konnte nicht neu gestartet werden"
+    "Failed to restert remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung konnte nicht neu gestartet werden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Echec du redémarrage de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec du redémarrage de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Herstarten van de afstandsbediening is mislukt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herstarten van de afstandsbediening is mislukt"
           }
         }
       }
     },
-    "Failed to shutdown remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung konnte nicht ausgeschaltet werden"
+    "Failed to shutdown remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung konnte nicht ausgeschaltet werden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Echec de l’arrêt de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’arrêt de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uitzetten afstandsbediening mislukt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitzetten afstandsbediening mislukt"
           }
         }
       }
     },
-    "FAN": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ventilator"
+    "FAN" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventilator"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fan"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ventilateur"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventilateur"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fan"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fan"
           }
         }
       }
     },
-    "General settings": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Algemene instellingen"
+    "General settings" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemeine Einstellungen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres généraux"
+          }
         }
       }
     },
-    "HEAT": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heizen"
+    "HEAT" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heizen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heat"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heat"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chaleur"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaleur"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Warmte"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warmte"
           }
         }
       }
     },
-    "HEAT_COOL": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heizen oder Kühlen"
+    "HEAT_COOL" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heizen oder Kühlen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heat or Cool"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heat or Cool"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chauffage ou froid"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chauffage ou froid"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Warm of koud"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm of koud"
           }
         }
       }
     },
-    "Host": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Host"
+    "Host" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hôte"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôte"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Host"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host"
           }
         }
       }
     },
-    "Https": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "HTTPS"
+    "Https" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTPS"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Https"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Https"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Https"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Https"
           }
         }
       }
     },
-    "Interface": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Benutzeroberfläche"
+    "Interface" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzeroberfläche"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Interface"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Interface"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface"
           }
         }
       }
     },
-    "Light": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hell"
+    "Light" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hell"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Light"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lumière"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lumière"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Licht"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licht"
           }
         }
       }
     },
-    "Load resources": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ressourcen laden"
+    "Load resources" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressourcen laden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Charger les ressources"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charger les ressources"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ressources laden"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressources laden"
           }
         }
       }
     },
-    "Loaded data": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geladene Daten"
+    "Loaded data" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geladene Daten"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Données chargées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Données chargées"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gegevens geladen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gegevens geladen"
           }
         }
       }
     },
-    "Loading profiles list and entities...": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chargement des profils et des entités…"
+    "Loading profiles list and entities..." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lade Profilliste und Entitäten..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement des profils et des entités…"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "laden van profiel lijst en entiteiten..."
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "laden van profiel lijst en entiteiten..."
           }
         }
       }
     },
-    "Macro executed": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Macro exécutée"
+    "Macro executed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Makro ausgeführt"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "uitvoeren macro"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Macro exécutée"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "uitvoeren macro"
+          }
         }
       }
     },
-    "Magic packet sent": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magic Packet gesendet"
+    "Magic packet sent" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magic Packet gesendet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Paquet magique envoyé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paquet magique envoyé"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magic packet verzonden"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magic packet verzonden"
           }
         }
       }
     },
-    "Media Entity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Media entiteit"
+    "Media Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media-Player Entität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité média"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media entiteit"
+          }
         }
       }
     },
-    "Mode": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Modus"
+    "Mode" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modus"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mode"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mode"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode"
           }
         }
       }
     },
-    "Model %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Modell %@"
+    "Model %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Modèle %@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modèle %@"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Model %@"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Model %@"
           }
         }
       }
     },
-    "Name": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Name"
+    "Name" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nom"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naam"
           }
+        }
+      }
+    },
+    "New release available: %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Version verfügbar: %@"
+          }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Naam"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouvelle version disponible : %@"
           }
         }
       }
     },
-    "New release available: %@": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nieuwe versie beschikbaar: %@"
+    "No data available. Tap to reload" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune donnée disponible. Appuyer pour recharger"
           }
         }
       }
     },
-    "No entities selected": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geen entiteiten geselecteerd"
+    "No entities selected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Entitäten ausgewählt"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune entité sélectionnée"
+          }
         }
       }
     },
-    "No entity selected": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Entität ausgewählt"
+    "No entity selected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Entität ausgewählt"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aucune entité sélectionnée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune entité sélectionnée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geen entiteit geselecteerd"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen entiteit geselecteerd"
           }
         }
       }
     },
-    "No remotes detected": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Fernbedienungen entdeckt"
+    "No remotes detected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Fernbedienungen entdeckt"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No remotes detected"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No remotes detected"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aucune télécommande détectée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune télécommande détectée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geen afstandsbediening gevonden"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen afstandsbediening gevonden"
           }
         }
       }
     },
-    "Numbers": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ziffern"
+    "Numbers" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziffern"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Numéros"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numéros"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nummers"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nummers"
           }
         }
       }
     },
-    "OFF": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aus"
+    "OFF" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Off"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eteint"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eteint"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uit"
           }
         }
       }
     },
-    "ON": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "An"
+    "ON" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "On"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allumé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allumé"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aan"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aan"
           }
         }
       }
     },
-    "OPEN": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geöffnet"
+    "OPEN" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geöffnet"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ouvert"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvert"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
           }
         }
       }
     },
-    "OPENING": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Öffnet"
+    "OPENING" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnet"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Opening"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opening"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ouverture"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouverture"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
           }
         }
       }
     },
-    "PAUSED": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pausiert"
+    "PAUSED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausiert"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pause"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pauze"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pauze"
           }
         }
       }
     },
-    "PIN code": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "PIN-Code"
+    "PIN code" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-Code"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Code PIN"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code PIN"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pincode"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pincode"
           }
         }
       }
     },
-    "PLAYING": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spielt"
+    "PLAYING" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spielt"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lecture"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lecture"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afspelen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afspelen"
           }
         }
       }
     },
-    "Port": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Port"
+    "Port" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Port"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Port"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port"
           }
         }
       }
     },
-    "Profile %@ selected": {
-      "localizations": {
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Profil %@ sélectionné"
+    "Profile %@ selected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ ausgewählt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil %@ sélectionné"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "profiel %@ geselecteerd"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "profiel %@ geselecteerd"
           }
         }
       }
     },
-    "Pull to refresh profile and entities": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Herunterziehen, um Profile und Entitäten neu zu laden"
+    "Pull to refresh profile and entities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herunterziehen, um Profile und Entitäten neu zu laden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tirer pour actualiser le profil et les entités"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tirer pour actualiser le profil et les entités"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "naar beneden trekken om profiel en entiteiten te vernieuwen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "naar beneden trekken om profiel en entiteiten te vernieuwen"
           }
         }
       }
     },
-    "Register remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung registrieren"
+    "Register remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung registrieren"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Register remote"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Register remote"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Enregistrer la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registreer de afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registreer de afstandsbediening"
           }
         }
       }
     },
-    "Registered remotes": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registrierte Fernbedienungen"
+    "Registered remotes" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrierte Fernbedienungen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registered remotes"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registered remotes"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommandes enregistrées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommandes enregistrées"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geregistreerde afstandsbedieningen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geregistreerde afstandsbedieningen"
           }
         }
       }
     },
-    "Registered token": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registrierter Token"
+    "Registered token" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrierter Token"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Jeton enregistré"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeton enregistré"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geregistreerd token"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geregistreerd token"
           }
         }
       }
     },
-    "Remote": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening"
+    "Remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening"
+          }
         }
       }
     },
-    "Remote 2 %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remote 2 %@"
+    "Remote 2 %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote 2 %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remote 2 %@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote 2 %@"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Op afstand 2 %@"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Op afstand 2 %@"
           }
         }
       }
     },
-    "Remote 3 %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remote 3 %@"
+    "Remote 3 %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote 3 %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remote 3 %@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote 3 %@"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remote 3 %@"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remote 3 %@"
           }
         }
       }
     },
-    "Remote Command": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening commando"
+    "Remote Command" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung Befehl"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening commando"
+          }
         }
       }
     },
-    "Remote Entity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbedining entiteit"
+    "Remote Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität der Fernbedienung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité de la télécommande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening entiteit"
           }
         }
       }
     },
-    "Remote host": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening host"
+    "Remote host" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host der Fernbedienung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôte de la télécommande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening host"
           }
         }
       }
     },
-    "Remote Next Activity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening volgende activiteit"
+    "Remote Next Activity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande Prochaine Activité"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening volgende activiteit"
           }
         }
       }
     },
-    "Remote Refresh": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening refresh"
+    "Remote Refresh" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung neu laden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recharger la télécommande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening refresh"
           }
         }
       }
     },
-    "Remote registered successfully": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung erfolgreich registriert"
+    "Remote registered successfully" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung erfolgreich registriert"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Succès de l’enregistrement de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de l’enregistrement de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registratie van de afstandsbediening is gelukt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registratie van de afstandsbediening is gelukt"
           }
         }
       }
     },
-    "Remote registered successfully but unable to retrieve information": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung erfolgreich registriert aber Informationen können nicht abgerufen werden"
+    "Remote registered successfully but unable to retrieve information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung erfolgreich registriert aber Informationen können nicht abgerufen werden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande enregistrée avec succès mais impossible d’extraire les informations"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande enregistrée avec succès mais impossible d’extraire les informations"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening succesvol geregistreerd, maar kan geen informatie extraheren"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening succesvol geregistreerd, maar kan geen informatie extraheren"
           }
         }
       }
     },
-    "Remote restarted successfully": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung erfolgreich neu gestartet"
+    "Remote restarted successfully" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung erfolgreich neu gestartet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande redémarrée avec succès"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande redémarrée avec succès"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening succesvol nieuw opgestart"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening succesvol nieuw opgestart"
           }
         }
       }
     },
-    "Remote shutdown successfully": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung erfolgreich ausgeschaltet"
+    "Remote shutdown successfully" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung erfolgreich ausgeschaltet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande arrêtée avec succès"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande arrêtée avec succès"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "De afstandsbediening is succesvol gestopt"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De afstandsbediening is succesvol gestopt"
           }
         }
       }
     },
-    "Remotes registered": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registrierte Fernbedienungen"
+    "Remotes registered" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrierte Fernbedienungen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geregistreerde afstandsbedieningen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geregistreerde afstandsbedieningen"
           }
         }
       }
     },
-    "Repeat delay for touchpad (ms)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Touch-Pad Wiederholungs-Verzögerung (ms)"
+    "Repeat delay for touchpad (ms)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch-Pad Wiederholungs-Verzögerung (ms)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Délai de répétition pour le pavé tactile (ms)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Délai de répétition pour le pavé tactile (ms)"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Herhaal-vertraging voor touchpad (ms)"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herhaal-vertraging voor touchpad (ms)"
           }
         }
       }
     },
-    "resources extracted": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ressourcen entpackt"
+    "resources extracted" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressourcen entpackt"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ressources extraites"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ressources extraites"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "geëxtraheerde ressources"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "geëxtraheerde ressources"
           }
         }
       }
     },
-    "Restart remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung neu starten"
+    "Restart remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung neu starten"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Redémarrer la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redémarrer la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Opnieuw opstarten afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opnieuw opstarten afstandsbediening"
           }
         }
       }
     },
-    "RUNNING": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Läuft"
+    "RUNNING" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läuft"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Running"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Running"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Démarrage"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrage"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Opstarten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opstarten"
           }
         }
       }
     },
-    "Running activities": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Laufende Aktivitäten"
+    "Running activities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laufende Aktivitäten"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activités lancées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activités lancées"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lopende activiteiten"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lopende activiteiten"
           }
         }
       }
     },
-    "Scroll mode instead of bottom tab bar": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Scroll-Modus anstatt unterer Tableiste"
+    "Scroll mode instead of bottom tab bar" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll-Modus anstatt unterer Tableiste"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Scroll mode instead of bottom tab bar"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scroll mode instead of bottom tab bar"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mode défilement au lieu de la barre de menu en bas"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode défilement au lieu de la barre de menu en bas"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Scrollmodus in plaats van onderste menubalk"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrollmodus in plaats van onderste menubalk"
           }
         }
       }
     },
-    "Search and select the entities you want to be displayed in your widget. You can define one list per remote.": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zoek en selecteer de entiteiten die je wilt weergeven in de widget. je kunt één lijst per afstandsbediening definiëren."
+    "Search and select the entities you want to be displayed in your widget. You can define one list per remote." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche und wähle die Entitäten aus, die im Widget angezeigt werden sollen. Du kannst eine Liste pro Fernbedienung festlegen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher et sélectionner les entités à afficher dans le widget. On peut définir une liste par télécommande."
           }
         }
       }
     },
-    "Search entities": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "zoek entiteiten"
+    "Search entities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten suchen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher des entités"
           }
         }
       }
     },
-    "Select a profile": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ein Profil auswählen"
+    "Select a profile" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Profil auswählen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionner un profil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner un profil"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecteer een profiel"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteer een profiel"
           }
         }
       }
     },
-    "Select a profile page": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine Profilseite auswählen"
+    "Select a profile page" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Profilseite auswählen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionner une page de profil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner une page de profil"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecteer een profielpagina"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteer een profielpagina"
           }
         }
       }
     },
-    "Select the Remote Control to display": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecteer de afstandsbediening die weergegeven wordt."
+    "Select the Remote Control to display" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Fernbedienung auswählen, die angezeigt werden soll"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner la télécommande à afficher"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
           }
         }
       }
     },
-    "Selected entities": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geselecteerde entiteiten"
+    "Selected entities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Entitäten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités sélectionnées"
           }
         }
       }
     },
-    "Selected remote": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geselecteerde afstandsbediening"
+    "Selected remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Fernbedienung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande sélectionnée"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geselecteerde afstandsbediening"
           }
         }
       }
     },
-    "Settings": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Einstellungen"
+    "Settings" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Settings"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Réglages"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Instellingen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
           }
         }
       }
     },
-    "Shutdown remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung ausschalten"
+    "Shutdown remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung ausschalten"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eteindre la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eteindre la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening uitschakelen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening uitschakelen"
           }
         }
       }
     },
-    "Sound mode": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tonmodus"
+    "Sound mode" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonmodus"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mode sonore"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode sonore"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geluidsmodus"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geluidsmodus"
           }
         }
       }
     },
-    "Source": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quelle"
+    "Source" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quelle"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Source"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Source"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bron"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bron"
           }
         }
       }
     },
-    "STANDBY": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ruhezustand"
+    "STANDBY" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruhezustand"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Standby"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standby"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Veille"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veille"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Standby"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standby"
           }
         }
       }
     },
-    "Start activity when opening": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivität beim Öffnen starten"
+    "Start activity when opening" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität beim Öffnen starten"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Start activity when opening"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start activity when opening"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Démarrer l’activité à l’ouverture"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrer l’activité à l’ouverture"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Start activiteit bij openen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start activiteit bij openen"
           }
         }
       }
     },
-    "System": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "System"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "System"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Système"
+    "System" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Systeem"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Système"
           }
         }
       }
     },
-    "Tap on load resources to extract images and icons from the remote. Without extraction, images will be downloaded on the fly but font icons won't be available and won't be displayed correctly": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu entpacken. Ohne Entpacken werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
+    "Tap on load resources to extract images and icons from the remote. Without extraction, images will be downloaded on the fly but font icons won't be available and won't be displayed correctly" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu entpacken. Ohne Entpacken werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Appuyer pour extraire les images et icônes de la télécommande. Sans cela les images seront téléchargées à la volée mais les icônes ne seront pas affichées correctement"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appuyer pour extraire les images et icônes de la télécommande. Sans cela les images seront téléchargées à la volée mais les icônes ne seront pas affichées correctement"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Druk op ressources laden om afbeeldingen en icons van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct bij gebruik gedownload, maar worden de icons niet correct weergegeven"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druk op ressources laden om afbeeldingen en icons van de afstandsbediening te extraheren. Zonder dit worden de afbeeldingen direct bij gebruik gedownload, maar worden de icons niet correct weergegeven"
           }
         }
       }
     },
-    "Test connection": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verbindung testen"
+    "Test connection" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbindung testen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Test connection"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test connection"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tester la connection"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tester la connection"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Test de verbinding"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test de verbinding"
           }
         }
       }
     },
-    "Touchpad": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Touch-Pad"
+    "Touchpad" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touch-Pad"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pavé tactile"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pavé tactile"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Touchpad"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touchpad"
           }
         }
       }
     },
-    "Unable to extract remote information": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Informationen der Fernbedienung konnten nicht entpackt werden"
+    "Unable to extract remote information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informationen der Fernbedienung konnten nicht entpackt werden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Impossible d’extraire les informations de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire les informations de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kan geen informatie ophalen van de afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kan geen informatie ophalen van de afstandsbediening"
           }
         }
       }
     },
-    "UNAVAILABLE": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nicht verfügbar"
+    "unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nicht verfügbar"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unavailable"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "unavailable"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Indisponible"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "indisponible"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Niet beschikbaar"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "niet beschikbaar"
           }
         }
       }
     },
-    "unavailable": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "nicht verfügbar"
+    "UNAVAILABLE" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht verfügbar"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "unavailable"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unavailable"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "indisponible"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indisponible"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "niet beschikbaar"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet beschikbaar"
           }
         }
       }
     },
-    "UNKNOWN": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unbekannt"
+    "UNKNOWN" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannt"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unknown"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inconnu"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inconnu"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Onbekend"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onbekend"
           }
         }
       }
     },
-    "Use physical volume buttons to change volume": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Physische Tasten verwenden, um die Lautstärke zu ändern"
+    "Use physical volume buttons to change volume" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Physische Tasten verwenden, um die Lautstärke zu ändern"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Utiliser les boutons physiques pour changer le volume"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser les boutons physiques pour changer le volume"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gebruik fysieke knoppen om het volume te wijzigen"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruik fysieke knoppen om het volume te wijzigen"
           }
         }
       }
     },
-    "Username": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Benutzername"
+    "Username" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzername"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Utilisateur"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilisateur"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gebruikersnaam"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruikersnaam"
           }
         }
       }
     },
-    "Version %@": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Versie %@"
+    "Version %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@"
           }
         }
       }
     },
-    "Wake remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung aufwecken"
+    "Wake remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung aufwecken"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Réveiller la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réveiller la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wek afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wek afstandsbediening"
           }
         }
       }
     },
-    "Widget settings": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widget instellingen"
+    "Widget settings" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Einstellungen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres Widget"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

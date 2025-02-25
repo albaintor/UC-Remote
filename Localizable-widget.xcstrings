@@ -1,350 +1,375 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "%@": [],
-    "%@ (%@)": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@ (%2$@)"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+      "shouldTranslate" : false
+    },
+    "%@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "%@ is inactive" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ ist inaktiv"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ist inaktiv"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "%@ est inactive"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ist inaktiv"
           }
         }
       }
     },
-    "%@ is inactive": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ ist inaktiv"
+    "%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "%@°" : {
+      "shouldTranslate" : false
+    },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "Activity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ est inactive"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activiteit"
           }
         }
       }
     },
-    "%@%@": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$@%2$@"
+    "Command" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commande"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commando"
           }
         }
       }
     },
-    "%@°": [],
-    "%lld / %lld": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%1$lld / %2$lld"
+    "Configuration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuratie"
           }
         }
       }
     },
-    "Activity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivität"
+    "Current page" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Seite"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activité"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page courante"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actuele pagina"
           }
         }
       }
     },
-    "Command": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Befehl"
+    "Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Commande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Commando"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entiteit"
           }
         }
       }
     },
-    "Configuration": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Konfiguration"
+    "Media Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media-Entität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configuration"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité Média"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Configuratie"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media entiteit"
           }
         }
       }
     },
-    "Current page": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktuelle Seite"
+    "Remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl der Fernbedienung"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Page courante"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Actuele pagina"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening"
           }
         }
       }
     },
-    "Entity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entität"
+    "Remote Command" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität der Fernbedienun"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entité"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening commando"
           }
         }
       }
     },
-    "Media Entity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Media-Entität"
+    "Remote Entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung-Entität"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entité Média"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Media entiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening entiteit"
           }
         }
       }
     },
-    "Remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Befehl der Fernbedienung"
+    "Remote host" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host der Fernbedienung"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hôte de la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening host"
           }
         }
       }
     },
-    "Remote Command": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entität der Fernbedienun"
+    "Remote Next Activity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande Prochaine Activité"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Commande"
-          }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening commando"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening volgende activiteit"
           }
         }
       }
     },
-    "Remote Entity": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung-Entität"
+    "Remote Refresh" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung neu laden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entité de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recharger la télécommande"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening entiteit"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afstandsbediening refresh"
           }
         }
       }
     },
-    "Remote host": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Host der Fernbedienung"
+    "Select the Remote Control to display" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Fernbedienung auswählen, die angezeigt werden soll"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hôte de la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner la télécommande à afficher"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening host"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
           }
         }
       }
     },
-    "Remote Next Activity": {
-      "localizations": {
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening volgende activiteit"
-          }
-        }
-      }
-    },
-    "Remote Refresh": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fernbedienung neu laden"
+    "Selected remote" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Fernbedienung"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recharger la télécommande"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande sélectionnée"
           }
         },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afstandsbediening refresh"
-          }
-        }
-      }
-    },
-    "Select the Remote Control to display": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Fernbedienung auswählen, die angezeigt werden soll"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionner la télécommande à afficher"
-          }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecteer de afstandsbediening die weergegeven moet worden"
-          }
-        }
-      }
-    },
-    "Selected remote": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausgewählte Fernbedienung"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécommande sélectionnée"
-          }
-        },
-        "nl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Geselecteerde afstandsbediening"
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geselecteerde afstandsbediening"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
