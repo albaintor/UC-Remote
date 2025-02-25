@@ -290,6 +290,12 @@
     },
     "Remote Next Activity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Aktivität der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
