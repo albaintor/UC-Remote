@@ -1832,6 +1832,12 @@
     },
     "No data available. Tap to reload" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Daten verfügbar. Zum Neuladen tippen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2321,7 +2327,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung Befehl"
+            "value" : "Befehl der Fernbedienung"
           }
         },
         "fr" : {
@@ -2384,6 +2390,12 @@
     },
     "Remote Next Activity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Aktivität der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2756,7 +2768,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die Fernbedienung auswählen, die angezeigt werden soll"
+            "value" : "Wähle die Fernbedienung aus, die angezeigt werden soll"
           }
         },
         "fr" : {
