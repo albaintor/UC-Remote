@@ -35,6 +35,7 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Activities, remotes & media players : support for physical volume buttons to change volume of activity or remote entity
 - Activities, remotes & media players : touchpad available for direction pad assignments and handle of velocity (larger gestures trigger faster repeated commands)
 - Activities : active (running) activities are also directly accessible from side menu in addition of profiles pages
+- Activities : on interface pages, when long pressing an item which corresponds to a light, a cover or a climate, a popup is opened with additional settings. Otherwise the command is executed
 - Media players : updated in realtime (artwork, title, position...), seek video with the scrubber
 - Localization based on remote settings (English, French, German & Dutch configured at this state)
 - Widget : available in 3 sizes, lets control the running activities and display its state if available (artwork, title, album, artist) with the following buttons : play/pause, volume up/down, mute, rewind/forward and refresh button to update. If several activities are active, the first one found will be taken unless you select the activity from the app and minimize it (the widget will be reloaded then with the selected activity).
@@ -96,7 +97,17 @@ Also the physical volume buttons are assigned to the volume commands of the acti
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/cb2d7789-1801-4537-b219-094fd35f08ba"/>
 </p>
 
+On interface pages, when long pressing an item which corresponds to a light, a cover or a climate, a popup is opened with additional settings. Otherwise the command is executed
+<p align="center"> 
+ <img width="250" alt="image" src="https://github.com/user-attachments/assets/a82b06df-2b2b-4681-ae71-625d06797f5d"/>
+</p>
+
+
 As soon as activities are on, they are also accessible directly from the side left menu
+<p align="center"> 
+ <img width="250" alt="image" src="https://github.com/user-attachments/assets/d0f3b698-3644-4a8f-b90d-64f723343721"/>
+</p>
+
 
 # Side menu
 
