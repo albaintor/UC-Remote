@@ -306,6 +306,12 @@
             "state" : "translated",
             "value" : "Durée du cache avant de recharger les données (en secondes)"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leeftijd van de cache vóór het opnieuw laden van gegevens (seconden)"
+          }
         }
       }
     },
@@ -406,6 +412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entités disponibles"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschikbare entiteiten"
           }
         }
       }
@@ -519,6 +531,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sluiten"
+          }
+        }
+      }
+    },
+    "Color" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kleur"
           }
         }
       }
@@ -944,18 +978,24 @@
         }
       }
     },
-    "Enable for all activities, otherwise only those with media players" : {
+    "Enable for all activities" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Für alle Aktivitäten aktivieren, ansonsten nur für die mit Media-Player Entitäten"
+            "value" : "Für alle Aktivitäten aktivieren"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activer pour toutes les activités, sinon seulement celles avec des lecteurs médias"
+            "value" : "Activer pour toutes les activités"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inschakelen voor alle activiteiten"
           }
         }
       }
@@ -972,6 +1012,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activer les « Live Activities » pour afficher le média en cours"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schakel Live Activities in om de huidige mediastatus op het startscherm weer te geven"
           }
         }
       }
@@ -1077,6 +1123,12 @@
             "state" : "translated",
             "value" : "Erreur pendant la fermeture du volet"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout bij het sluiten van de klep"
+          }
         }
       }
     },
@@ -1115,6 +1167,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’ouverture du volet"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout bij het openen van de klep"
+          }
         }
       }
     },
@@ -1131,6 +1189,12 @@
             "state" : "translated",
             "value" : "Erreur lors de l’extinction"
           }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout bij het uitschakelen"
+          }
         }
       }
     },
@@ -1146,6 +1210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur lors de l’allumage"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fout bij het inschakelen"
           }
         }
       }
@@ -1352,6 +1422,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’allumage de la lumière"
+          }
+        }
+      }
+    },
+    "Export logs" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle exportieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter les logs"
           }
         }
       }
@@ -1678,6 +1764,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "laden van profiel lijst en entiteiten..."
+          }
+        }
+      }
+    },
+    "Logs" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs"
           }
         }
       }
@@ -2042,6 +2144,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open"
+          }
+        }
+      }
+    },
+    "Otherwise only those with media players" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ansonsten nur für die mit Media-Player Entitäten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinon seulement celles avec des lecteurs médias"
           }
         }
       }
@@ -3215,6 +3333,12 @@
     },
     "Version %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
