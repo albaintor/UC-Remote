@@ -47,6 +47,10 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Activity widget : the widget cannot take benefits of websocket notifications from the remote. Only network polling through REST APIs is allowed, but this will drain battery a little bit more, so the updates can be done manually through the refresh button (otherwise they are performed automatically when using the app and minimize it)
 - Live activities : disabled by default, can be enabled from settings. Limitation: the app when minimized will loose its network connections, so the live activity can't be updated after a while and the status will become out of sync. However a refresh button will update the media state
 
+# Support
+
+If you have issues you can post a support ticket here https://github.com/albaintor/UC-Remote/issues but first be sure that it has not already been reported.
+
 # Setup
 
 1. Just download the app from the App store
