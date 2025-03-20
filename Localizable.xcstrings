@@ -1759,7 +1759,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hell"
+            "value" : "Licht"
           }
         },
         "en" : {
@@ -1782,6 +1782,28 @@
         }
       }
     },
+    "Light mode" : {
+       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hell"
+          }
+        },
+         "en" : {
+           "stringUnit" : {
+             "state" : "translated",
+             "value" : "Light"
+           }
+         },
+         "fr" : {
+           "stringUnit" : {
+             "state" : "translated",
+             "value" : "Lumineux"
+           }
+         }
+       }
+     },
     "Load resources" : {
       "localizations" : {
         "de" : {
