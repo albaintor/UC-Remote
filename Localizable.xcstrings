@@ -1752,6 +1752,22 @@
         }
       }
     },
+    "Light mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lumineux"
+          }
+        }
+      }
+    },
     "Load resources" : {
       "localizations" : {
         "de" : {
