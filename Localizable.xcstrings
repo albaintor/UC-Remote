@@ -207,6 +207,12 @@
     },
     "Activity is not running" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität läuft nicht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -591,6 +597,12 @@
     },
     "Command %@ error" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Befehl %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1022,6 +1034,12 @@
     },
     "Enable haptic feedback" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptisches Feedback aktivieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1076,6 +1094,12 @@
     },
     "Entities browser" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten-Browser"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1716,6 +1740,12 @@
     },
     "Launched update..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierung gestartet..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1729,7 +1759,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hell"
+            "value" : "Licht"
           }
         },
         "en" : {
@@ -1753,21 +1783,27 @@
       }
     },
     "Light mode" : {
-      "localizations" : {
-        "en" : {
+       "localizations" : {
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Light"
+            "value" : "Hell"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lumineux"
-          }
-        }
-      }
-    },
+         "en" : {
+           "stringUnit" : {
+             "state" : "translated",
+             "value" : "Light"
+           }
+         },
+         "fr" : {
+           "stringUnit" : {
+             "state" : "translated",
+             "value" : "Lumineux"
+           }
+         }
+       }
+     },
     "Load resources" : {
       "localizations" : {
         "de" : {
@@ -1839,7 +1875,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logs"
+            "value" : "Protokolle"
           }
         },
         "fr" : {
@@ -2054,6 +2090,12 @@
     },
     "No remote selected" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Fernbedienung ausgewählt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2242,6 +2284,12 @@
     },
     "Page" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seite"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
