@@ -2667,7 +2667,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Wirt",
+            "value": "Host",
             "state": "translated"
           }
         },
@@ -3177,7 +3177,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Nome",
+            "value": "Name",
             "state": "translated"
           }
         },
@@ -3755,7 +3755,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Hafen",
+            "value": "Port",
             "state": "translated"
           }
         },
@@ -3994,7 +3994,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Fernbedienung 2 %@",
+            "value": "Remote 2 %@",
             "state": "translated"
           }
         },
@@ -4028,7 +4028,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Fernbedienung 3 %@",
+            "value": "Remote 3 %@",
             "state": "translated"
           }
         },
@@ -5321,7 +5321,7 @@
         },
         "de": {
           "stringUnit": {
-            "value": "Ausführung%@",
+            "value": "Version %@",
             "state": "translated"
           }
         },
