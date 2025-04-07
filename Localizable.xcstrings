@@ -866,6 +866,16 @@
         }
       }
     },
+    "Clear all data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer toutes les données"
+          }
+        }
+      }
+    },
     "Clear cache" : {
       "localizations" : {
         "fr" : {
@@ -2151,6 +2161,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout bij het schakelen van het licht"
+          }
+        }
+      }
+    },
+    "Error while toggling switch" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la bascule de l’interrupteur"
           }
         }
       }
@@ -4872,6 +4892,16 @@
         }
       }
     },
+    "Settings will be kept. Application will exit" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les réglages seront conservés. L’application sera fermée"
+          }
+        }
+      }
+    },
     "Show commands on media player widget" : {
       "localizations" : {
         "fr" : {
@@ -5048,6 +5078,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start activiteit bij openen"
+          }
+        }
+      }
+    },
+    "Stop all activities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stopper les activités"
           }
         }
       }

@@ -156,6 +156,9 @@
         }
       }
     },
+    "Display media information from your U Remote Control" : {
+
+    },
     "Entity" : {
       "localizations" : {
         "de" : {
@@ -375,6 +378,12 @@
           }
         }
       }
+    },
+    "Stop all activities" : {
+
+    },
+    "U Remote Control" : {
+
     }
   },
   "version" : "1.0"
