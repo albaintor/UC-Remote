@@ -873,6 +873,12 @@
             "state" : "translated",
             "value" : "Effacer toutes les données"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar todos los datos"
+          }
         }
       }
     },
@@ -882,6 +888,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Effacer le cache"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar Cache"
           }
         }
       }
