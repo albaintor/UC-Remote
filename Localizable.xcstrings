@@ -686,6 +686,12 @@
     },
     "Application will exit" : {
       "localizations" : {
+         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die App wird beendet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -868,6 +874,12 @@
     },
     "Clear all data" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Daten löschen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -884,6 +896,12 @@
     },
     "Clear cache" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cache löschen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1489,6 +1507,12 @@
     },
     "Diagnosis" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diagnose"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2179,6 +2203,12 @@
     },
     "Error while toggling switch" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Umschalten des Schalters"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2461,6 +2491,12 @@
     },
     "Export cache" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cache exportieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3117,6 +3153,12 @@
     },
     "Media seeking slider range" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellbereich des Medien-Suchschiebereglers"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3127,6 +3169,12 @@
     },
     "Media settings" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medien-Einstellungen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4906,6 +4954,12 @@
     },
     "Settings will be kept. Application will exit" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Einstellungen bleiben erhalten. Die App wird beendet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4916,6 +4970,12 @@
     },
     "Show commands on media player widget" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehle im Media-Player Widget anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5096,6 +5156,12 @@
     },
     "Stop all activities" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Aktivitäten stoppen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5482,6 +5548,12 @@
     },
     "Volume slider range" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellbereich des Lautstärke-Schiebereglers"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
