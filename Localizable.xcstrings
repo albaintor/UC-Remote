@@ -686,7 +686,7 @@
     },
     "Application will exit" : {
       "localizations" : {
-         "de" : {
+        "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die App wird beendet"
@@ -880,16 +880,16 @@
             "value" : "Alle Daten löschen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Effacer toutes les données"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar todos los datos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer toutes les données"
           }
         }
       }
@@ -902,16 +902,16 @@
             "value" : "Cache löschen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Effacer le cache"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Borrar Cache"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer le cache"
           }
         }
       }
@@ -4980,6 +4980,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher les commandes pour le widget Media Player"
+          }
+        }
+      }
+    },
+    "Show running activities on profile pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les activités en cours dans les profils"
           }
         }
       }
