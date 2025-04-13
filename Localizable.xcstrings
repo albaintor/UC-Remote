@@ -2502,6 +2502,12 @@
             "state" : "translated",
             "value" : "Exporter le cache"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar cache"
+          }
         }
       }
     },
@@ -3163,6 +3169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Précision de la barre de média"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precisón control deslizante de medios"
           }
         }
       }
@@ -4981,6 +4993,12 @@
             "state" : "translated",
             "value" : "Afficher les commandes pour le widget Media Player"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar comandos en el widget de Media Player"
+          }
         }
       }
     },
@@ -5568,6 +5586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Précision de la barre de volume"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precisión control de volumen deslizante"
           }
         }
       }
