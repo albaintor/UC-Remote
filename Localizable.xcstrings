@@ -697,6 +697,12 @@
             "state" : "translated",
             "value" : "L’application sera fermée"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La aplicación se cerrará"
+          }
         }
       }
     },
@@ -4976,6 +4982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les réglages seront conservés. L’application sera fermée"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los ajustes se mantendrán. La aplicación se cerrará"
           }
         }
       }
