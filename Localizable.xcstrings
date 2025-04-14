@@ -701,7 +701,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La aplicacion se cerrará"
+            "value" : "La aplicación se cerrará"
           }
         }
       }
@@ -4987,7 +4987,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los ajustes se mantendrán. La aplicacion se cerrará"
+            "value" : "Los ajustes se mantendrán. La aplicación se cerrará"
           }
         }
       }
