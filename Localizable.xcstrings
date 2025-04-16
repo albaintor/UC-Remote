@@ -412,6 +412,26 @@
         }
       }
     },
+    "Action" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action"
+          }
+        }
+      }
+    },
+    "Action on widget tap" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action du widget"
+          }
+        }
+      }
+    },
     "Activity" : {
       "localizations" : {
         "de" : {
@@ -616,6 +636,16 @@
         }
       }
     },
+    "Add media players controls in profile pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter les contrôles média dans les pages de profil"
+          }
+        }
+      }
+    },
     "Age of cache before reloading data (seconds)" : {
       "localizations" : {
         "de" : {
@@ -692,16 +722,16 @@
             "value" : "Die App wird beendet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L’application sera fermée"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "La aplicación se cerrará"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’application sera fermée"
           }
         }
       }
@@ -1336,6 +1366,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Huidig: %@ °"
+          }
+        }
+      }
+    },
+    "Current activity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité en cours"
           }
         }
       }
@@ -2503,16 +2543,16 @@
             "value" : "Cache exportieren"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Exporter le cache"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exportar cache"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter le cache"
           }
         }
       }
@@ -2547,6 +2587,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logboeken exporteren"
+          }
+        }
+      }
+    },
+    "Export Widgets settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter les réglages Widgets"
           }
         }
       }
@@ -3171,16 +3221,16 @@
             "value" : "Einstellbereich des Medien-Suchschiebereglers"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Précision de la barre de média"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisón control deslizante de medios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précision de la barre de média"
           }
         }
       }
@@ -3609,6 +3659,16 @@
         }
       }
     },
+    "Open" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir"
+          }
+        }
+      }
+    },
     "OPEN" : {
       "localizations" : {
         "de" : {
@@ -3639,6 +3699,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open"
+          }
+        }
+      }
+    },
+    "Open application" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir l'application"
           }
         }
       }
@@ -3945,6 +4015,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "naar beneden trekken om profiel en entiteiten te vernieuwen"
+          }
+        }
+      }
+    },
+    "Rebuild shared cache" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconstruire le cache partagé"
           }
         }
       }
@@ -4978,16 +5058,16 @@
             "value" : "Die Einstellungen bleiben erhalten. Die App wird beendet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Les réglages seront conservés. L’application sera fermée"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Los ajustes se mantendrán. La aplicación se cerrará"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les réglages seront conservés. L’application sera fermée"
           }
         }
       }
@@ -5000,16 +5080,16 @@
             "value" : "Befehle im Media-Player Widget anzeigen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher les commandes pour le widget Media Player"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar comandos en el widget de Media Player"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les commandes pour le widget Media Player"
           }
         }
       }
@@ -5210,6 +5290,16 @@
         }
       }
     },
+    "Synchronize Widget settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchroniser les réglages Widget"
+          }
+        }
+      }
+    },
     "System" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5309,6 +5399,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Test de verbinding"
+          }
+        }
+      }
+    },
+    "Toggle" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basculer"
+          }
+        }
+      }
+    },
+    "Toggle entity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer/désactiver l’entité"
           }
         }
       }
@@ -5594,16 +5704,16 @@
             "value" : "Einstellbereich des Lautstärke-Schiebereglers"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Précision de la barre de volume"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisión control de volumen deslizante"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précision de la barre de volume"
           }
         }
       }

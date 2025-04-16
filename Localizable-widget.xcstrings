@@ -68,6 +68,16 @@
       },
       "shouldTranslate" : false
     },
+    "Action" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action"
+          }
+        }
+      }
+    },
     "Activity" : {
       "localizations" : {
         "de" : {
@@ -134,6 +144,16 @@
         }
       }
     },
+    "Current activity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité en cours"
+          }
+        }
+      }
+    },
     "Current page" : {
       "localizations" : {
         "de" : {
@@ -157,7 +177,14 @@
       }
     },
     "Display media information from your U Remote Control" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les informations média"
+          }
+        }
+      }
     },
     "Entity" : {
       "localizations" : {
