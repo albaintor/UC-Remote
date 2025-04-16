@@ -414,6 +414,12 @@
     },
     "Action" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktion"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -424,6 +430,12 @@
     },
     "Action on widget tap" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Aktion"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -638,6 +650,12 @@
     },
     "Add media players controls in profile pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media-Player-Befehle auf den Profilseiten hinzufügen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1372,6 +1390,12 @@
     },
     "Current activity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Aktivität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2593,6 +2617,12 @@
     },
     "Export Widgets settings" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Einstellungen exportieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3661,6 +3691,12 @@
     },
     "Open" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3705,6 +3741,12 @@
     },
     "Open application" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4021,6 +4063,12 @@
     },
     "Rebuild shared cache" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geteilten Cache neu erstellen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5096,6 +5144,12 @@
     },
     "Show running activities on profile pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laufende Aktivitäten auf der Profilseite anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5292,6 +5346,12 @@
     },
     "Synchronize Widget settings" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Einstellungen synchronisieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5405,6 +5465,12 @@
     },
     "Toggle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umschalten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5415,6 +5481,12 @@
     },
     "Toggle entity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktitivtät Ein/Ausschalten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
