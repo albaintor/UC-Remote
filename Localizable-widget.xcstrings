@@ -70,6 +70,12 @@
     },
     "Action" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktion"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -146,6 +152,12 @@
     },
     "Current activity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Aktivität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178,6 +190,12 @@
     },
     "Display media information from your U Remote Control" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medieninformationen anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
