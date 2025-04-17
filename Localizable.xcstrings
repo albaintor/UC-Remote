@@ -3755,6 +3755,16 @@
         }
       }
     },
+    "Open remote page" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir la page de la télécommande"
+          }
+        }
+      }
+    },
     "OPENING" : {
       "localizations" : {
         "de" : {
