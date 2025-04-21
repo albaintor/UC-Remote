@@ -661,6 +661,12 @@
             "state" : "translated",
             "value" : "Ajouter les contrôles média dans les pages de profil"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir control media player en página de perfíl"
+          }
         }
       }
     },
@@ -2628,6 +2634,12 @@
             "state" : "translated",
             "value" : "Exporter les réglages Widgets"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar configuración Widgets"
+          }
         }
       }
     },
@@ -4094,6 +4106,12 @@
             "state" : "translated",
             "value" : "Reconstruire le cache partagé"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconstruir cache compartido"
+          }
         }
       }
     },
@@ -5175,6 +5193,12 @@
             "state" : "translated",
             "value" : "Afficher les activités en cours dans les profils"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar actividades activas en la página de perfíl"
+          }
         }
       }
     },
@@ -5361,6 +5385,12 @@
             "state" : "translated",
             "value" : "Stopper les activités"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener todas las actividades"
+          }
         }
       }
     },
@@ -5376,6 +5406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Synchroniser les réglages Widget"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronizar configuración Widget"
           }
         }
       }
@@ -5496,6 +5532,12 @@
             "state" : "translated",
             "value" : "Basculer"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conmutar"
+          }
         }
       }
     },
@@ -5511,6 +5553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activer/désactiver l’entité"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar/Desactivar entidad"
           }
         }
       }
