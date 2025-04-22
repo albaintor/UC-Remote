@@ -33,7 +33,8 @@
             "value" : ""
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     " " : {
       "localizations" : {
@@ -67,7 +68,8 @@
             "value" : " "
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     " %@" : {
       "localizations" : {
@@ -343,6 +345,9 @@
           }
         }
       }
+    },
+    "+" : {
+      "shouldTranslate" : false
     },
     "00:00:00" : {
       "localizations" : {
@@ -656,16 +661,16 @@
             "value" : "Media-Player-Befehle auf den Profilseiten hinzufügen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajouter les contrôles média dans les pages de profil"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añadir control media player en página de perfíl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter les contrôles média dans les pages de profil"
           }
         }
       }
@@ -1699,6 +1704,16 @@
         }
       }
     },
+    "Edit profile pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editer les pages du profil"
+          }
+        }
+      }
+    },
     "Edit remote" : {
       "localizations" : {
         "de" : {
@@ -2103,6 +2118,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout bij het openen van de klep"
+          }
+        }
+      }
+    },
+    "Error while saving Profile page %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la sauvegarde de la page du profil %@"
           }
         }
       }
@@ -2629,16 +2654,16 @@
             "value" : "Widget-Einstellungen exportieren"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Exporter les réglages Widgets"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exportar configuración Widgets"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter les réglages Widgets"
           }
         }
       }
@@ -4059,6 +4084,16 @@
         }
       }
     },
+    "Profile page %@ saved" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page de profil sauvegardée %@"
+          }
+        }
+      }
+    },
     "Pull to refresh profile and entities" : {
       "localizations" : {
         "de" : {
@@ -4101,16 +4136,16 @@
             "value" : "Geteilten Cache neu erstellen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reconstruire le cache partagé"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reconstruir cache compartido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconstruire le cache partagé"
           }
         }
       }
@@ -5102,6 +5137,16 @@
         }
       }
     },
+    "Send Magic Packet failed %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’envoi du paquet magique %@"
+          }
+        }
+      }
+    },
     "Settings" : {
       "localizations" : {
         "de" : {
@@ -5188,16 +5233,16 @@
             "value" : "Laufende Aktivitäten auf der Profilseite anzeigen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher les activités en cours dans les profils"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar actividades activas en la página de perfíl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les activités en cours dans les profils"
           }
         }
       }
@@ -5235,6 +5280,12 @@
           }
         }
       }
+    },
+    "Socket options failed %@" : {
+
+    },
+    "Socket setup failed %@" : {
+
     },
     "Sound mode" : {
       "localizations" : {
@@ -5380,16 +5431,16 @@
             "value" : "Alle Aktivitäten stoppen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stopper les activités"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detener todas las actividades"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stopper les activités"
           }
         }
       }
@@ -5402,16 +5453,16 @@
             "value" : "Widget-Einstellungen synchronisieren"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synchroniser les réglages Widget"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincronizar configuración Widget"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchroniser les réglages Widget"
           }
         }
       }
@@ -5527,16 +5578,16 @@
             "value" : "Umschalten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basculer"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conmutar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basculer"
           }
         }
       }
@@ -5549,16 +5600,16 @@
             "value" : "Aktitivtät Ein/Ausschalten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer/désactiver l’entité"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activar/Desactivar entidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer/désactiver l’entité"
           }
         }
       }
