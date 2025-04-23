@@ -1706,6 +1706,12 @@
     },
     "Edit profile pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profilseiten bearbeiten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2124,6 +2130,12 @@
     },
     "Error while saving Profile page %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Speichern der Profilseite %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3180,6 +3192,12 @@
     },
     "Logs viewer" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3804,6 +3822,12 @@
     },
     "Open remote page" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seite der Fernbedienung öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4086,6 +4110,12 @@
     },
     "Profile page %@ saved" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profilseite %@ gespeichert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5139,6 +5169,12 @@
     },
     "Send Magic Packet failed %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senden des Magic Packets fehlgeschlagen %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5282,10 +5318,22 @@
       }
     },
     "Socket options failed %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Socket-Optionen fehlgeschlagen %@"
+          }
+        }
     },
     "Socket setup failed %@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Socket-Einrichtung fehlgeschlagen %@"
+          }
+        }
     },
     "Sound mode" : {
       "localizations" : {
