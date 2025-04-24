@@ -105,6 +105,9 @@
         }
       }
     },
+    "-" : {
+
+    },
     "(%@ %@)" : {
       "localizations" : {
         "de" : {
@@ -5325,6 +5328,7 @@
             "value" : "Socket-Optionen fehlgeschlagen %@"
           }
         }
+      }
     },
     "Socket setup failed %@" : {
       "localizations" : {
@@ -5334,6 +5338,7 @@
             "value" : "Socket-Einrichtung fehlgeschlagen %@"
           }
         }
+      }
     },
     "Sound mode" : {
       "localizations" : {
