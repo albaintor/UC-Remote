@@ -433,6 +433,12 @@
             "state" : "translated",
             "value" : "Action"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acción"
+          }
         }
       }
     },
@@ -448,6 +454,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Action du widget"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acción del widget"
           }
         }
       }
@@ -1241,6 +1253,12 @@
             "state" : "translated",
             "value" : "Verbinding mislukt met wachtwoord %@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión fallo con la contraseña %@"
+          }
         }
       }
     },
@@ -1262,6 +1280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kan geen verbinding maken met token %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión fallo con el token %@"
           }
         }
       }
@@ -1414,6 +1438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activité en cours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actividad en ejecución"
           }
         }
       }
@@ -1602,6 +1632,12 @@
             "state" : "translated",
             "value" : "Diagnostic"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diagnostico"
+          }
         }
       }
     },
@@ -1719,6 +1755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editer les pages du profil"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar las páginas de perfíl"
           }
         }
       }
@@ -2143,6 +2185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant la sauvegarde de la page du profil %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error mientras se guardaba el perfíl %@"
           }
         }
       }
@@ -3206,6 +3254,12 @@
             "state" : "translated",
             "value" : "Visualiser les logs"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visor de Logs"
+          }
         }
       }
     },
@@ -3345,6 +3399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réglages médias"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajuste de medios"
           }
         }
       }
@@ -3770,6 +3830,12 @@
             "state" : "translated",
             "value" : "Ouvrir"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir"
+          }
         }
       }
     },
@@ -3820,6 +3886,12 @@
             "state" : "translated",
             "value" : "Ouvrir l'application"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir aplicación"
+          }
         }
       }
     },
@@ -3835,6 +3907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouvrir la page de la télécommande"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir la página del Mando a distancia"
           }
         }
       }
@@ -4123,6 +4201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Page de profil sauvegardée %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfil Guardado %@"
           }
         }
       }
@@ -5183,6 +5267,12 @@
             "state" : "translated",
             "value" : "Echec de l’envoi du paquet magique %@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magic Packet falló %@"
+          }
         }
       }
     },
@@ -5327,6 +5417,12 @@
             "state" : "translated",
             "value" : "Socket-Optionen fehlgeschlagen %@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opciones del Socket falló %@"
+          }
         }
       }
     },
@@ -5336,6 +5432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Socket-Einrichtung fehlgeschlagen %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración del Socket falló %@"
           }
         }
       }
