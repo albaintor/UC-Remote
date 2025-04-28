@@ -40,6 +40,12 @@
             "state" : "translated",
             "value" : "%@ ist inaktiv"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está inactivo"
+          }
         }
       }
     },
@@ -81,6 +87,12 @@
             "state" : "translated",
             "value" : "Action"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acción"
+          }
         }
       }
     },
@@ -102,6 +114,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activiteit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actividad"
           }
         }
       }
@@ -125,6 +143,12 @@
             "state" : "translated",
             "value" : "Commando"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando"
+          }
         }
       }
     },
@@ -147,6 +171,12 @@
             "state" : "translated",
             "value" : "Configuratie"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
         }
       }
     },
@@ -162,6 +192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activité en cours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actividad actual"
           }
         }
       }
@@ -185,6 +221,12 @@
             "state" : "translated",
             "value" : "Actuele pagina"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página actual"
+          }
         }
       }
     },
@@ -200,6 +242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher les informations média"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar información medio de tu mando a distancia UC"
           }
         }
       }
@@ -223,6 +271,12 @@
             "state" : "translated",
             "value" : "Entiteit"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad"
+          }
         }
       }
     },
@@ -244,6 +298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Media entiteit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad medios"
           }
         }
       }
@@ -267,6 +327,12 @@
             "state" : "translated",
             "value" : "Afstandsbediening"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia"
+          }
         }
       }
     },
@@ -288,6 +354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afstandsbediening commando"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando mando a distancia"
           }
         }
       }
@@ -311,6 +383,12 @@
             "state" : "translated",
             "value" : "Afstandsbediening entiteit"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad mando a distancia"
+          }
         }
       }
     },
@@ -332,6 +410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afstandsbediening host"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia anfitrión"
           }
         }
       }
@@ -355,6 +439,12 @@
             "state" : "translated",
             "value" : "Afstandsbediening volgende activiteit"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distacia siguiente actividad"
+          }
         }
       }
     },
@@ -376,6 +466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afstandsbediening refresh"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar Mando a distacia"
           }
         }
       }
@@ -399,6 +495,12 @@
             "state" : "translated",
             "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccine Mando a distancia"
+          }
         }
       }
     },
@@ -420,6 +522,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geselecteerde afstandsbediening"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia seleccionado"
           }
         }
       }
