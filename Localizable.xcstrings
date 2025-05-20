@@ -106,7 +106,7 @@
       }
     },
     "-" : {
-
+      "shouldTranslate" : false
     },
     "(%@ %@)" : {
       "localizations" : {
@@ -176,6 +176,17 @@
         }
       }
     },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
     "%@ (%@)" : {
       "localizations" : {
         "de" : {
@@ -244,6 +255,16 @@
         }
       }
     },
+    "%@ logs" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ logs"
+          }
+        }
+      }
+    },
     "%@ profile selected" : {
       "localizations" : {
         "de" : {
@@ -277,6 +298,9 @@
           }
         }
       }
+    },
+    "%f" : {
+      "shouldTranslate" : false
     },
     "%lf" : {
       "shouldTranslate" : false
@@ -428,16 +452,16 @@
             "value" : "Aktion"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acción"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action"
           }
         }
       }
@@ -450,16 +474,16 @@
             "value" : "Widget-Aktion"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action du widget"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acción del widget"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action du widget"
           }
         }
       }
@@ -724,6 +748,9 @@
         }
       }
     },
+    "ALERT" : {
+      "shouldTranslate" : false
+    },
     "Appearance" : {
       "localizations" : {
         "de" : {
@@ -914,6 +941,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terug"
+          }
+        }
+      }
+    },
+    "Boot entries" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrements Boot"
           }
         }
       }
@@ -1242,6 +1279,12 @@
             "value" : "Verbindungsfehler mit Passwort %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión fallo con la contraseña %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1252,12 +1295,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verbinding mislukt met wachtwoord %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La conexión fallo con la contraseña %@"
           }
         }
       }
@@ -1270,6 +1307,12 @@
             "value" : "Verbindungsfehler mit Token %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión fallo con el token %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1280,12 +1323,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kan geen verbinding maken met token %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La conexión fallo con el token %@"
           }
         }
       }
@@ -1392,6 +1429,9 @@
         }
       }
     },
+    "CRIT" : {
+      "shouldTranslate" : false
+    },
     "Current : %@ °" : {
       "localizations" : {
         "de" : {
@@ -1434,16 +1474,16 @@
             "value" : "Aktuelle Aktivität"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité en cours"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Actividad en ejecución"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité en cours"
           }
         }
       }
@@ -1516,6 +1556,9 @@
           }
         }
       }
+    },
+    "DEBUG" : {
+      "shouldTranslate" : false
     },
     "Device toggled on/off" : {
       "localizations" : {
@@ -1627,16 +1670,16 @@
             "value" : "Diagnose"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diagnostic"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Diagnostico"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diagnostic"
           }
         }
       }
@@ -1751,16 +1794,16 @@
             "value" : "Profilseiten bearbeiten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Editer les pages du profil"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editar las páginas de perfíl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editer les pages du profil"
           }
         }
       }
@@ -1798,6 +1841,9 @@
           }
         }
       }
+    },
+    "EMERG" : {
+      "shouldTranslate" : false
     },
     "Enable for all activities" : {
       "localizations" : {
@@ -2037,6 +2083,9 @@
         }
       }
     },
+    "ERR" : {
+      "shouldTranslate" : false
+    },
     "Error during resources extraction" : {
       "localizations" : {
         "de" : {
@@ -2181,16 +2230,16 @@
             "value" : "Fehler beim Speichern der Profilseite %@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant la sauvegarde de la page du profil %@"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Error mientras se guardaba el perfíl %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la sauvegarde de la page du profil %@"
           }
         }
       }
@@ -2731,6 +2780,16 @@
         }
       }
     },
+    "Extract logs" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraire les logs"
+          }
+        }
+      }
+    },
     "Failed to register remote" : {
       "localizations" : {
         "de" : {
@@ -3003,6 +3062,9 @@
         }
       }
     },
+    "INFO" : {
+      "shouldTranslate" : false
+    },
     "Interface" : {
       "localizations" : {
         "de" : {
@@ -3139,6 +3201,16 @@
         }
       }
     },
+    "Limit" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite"
+          }
+        }
+      }
+    },
     "Load resources" : {
       "localizations" : {
         "de" : {
@@ -3241,6 +3313,32 @@
         }
       }
     },
+    "Log level" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau de log"
+          }
+        }
+      }
+    },
+    "Logs of %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logs of %1$@ (%2$@)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs de %1$@ (%2$@)"
+          }
+        }
+      }
+    },
     "Logs viewer" : {
       "localizations" : {
         "de" : {
@@ -3249,16 +3347,16 @@
             "value" : "Protokolle anzeigen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visualiser les logs"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visor de Logs"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualiser les logs"
           }
         }
       }
@@ -3395,16 +3493,16 @@
             "value" : "Medien-Einstellungen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réglages médias"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajuste de medios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages médias"
           }
         }
       }
@@ -3715,6 +3813,9 @@
         }
       }
     },
+    "NOTICE" : {
+      "shouldTranslate" : false
+    },
     "Numbers" : {
       "localizations" : {
         "de" : {
@@ -3825,16 +3926,16 @@
             "value" : "Öffnen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvrir"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir"
           }
         }
       }
@@ -3881,16 +3982,16 @@
             "value" : "App öffnen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvrir l'application"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir aplicación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir l'application"
           }
         }
       }
@@ -3903,16 +4004,16 @@
             "value" : "Seite der Fernbedienung öffnen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ouvrir la page de la télécommande"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir la página del Mando a distancia"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir la page de la télécommande"
           }
         }
       }
@@ -4197,16 +4298,16 @@
             "value" : "Profilseite %@ gespeichert"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Page de profil sauvegardée %@"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfil Guardado %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page de profil sauvegardée %@"
           }
         }
       }
@@ -5152,6 +5253,16 @@
         }
       }
     },
+    "Select boot entries" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner les entrées Boot"
+          }
+        }
+      }
+    },
     "Select the Remote Control to display" : {
       "localizations" : {
         "de" : {
@@ -5262,16 +5373,26 @@
             "value" : "Senden des Magic Packets fehlgeschlagen %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magic Packet falló %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echec de l’envoi du paquet magique %@"
           }
-        },
-        "es" : {
+        }
+      }
+    },
+    "Services" : {
+      "localizations" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magic Packet falló %@"
+            "value" : "Services"
           }
         }
       }
@@ -5423,6 +5544,12 @@
             "state" : "translated",
             "value" : "Opciones del Socket falló %@"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec Socket options %@"
+          }
         }
       }
     },
@@ -5438,6 +5565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuración del Socket falló %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec Socket setup %@"
           }
         }
       }
@@ -6097,6 +6230,9 @@
           }
         }
       }
+    },
+    "WARNING" : {
+      "shouldTranslate" : false
     },
     "Widget settings" : {
       "localizations" : {
