@@ -257,6 +257,12 @@
     },
     "%@ logs" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Protokolle"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -344,7 +350,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld Ressourcen importiert"
+            "value" : "%lld Ressourcen geladen"
           }
         },
         "en" : {
@@ -947,6 +953,12 @@
     },
     "Boot entries" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boot-Einträge"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2091,7 +2103,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Entpacken der Ressourcen"
+            "value" : "Fehler beim Laden der Ressourcen"
           }
         },
         "en" : {
@@ -2782,6 +2794,12 @@
     },
     "Extract logs" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle laden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3203,6 +3221,12 @@
     },
     "Limit" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrenzung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3315,6 +3339,12 @@
     },
     "Log level" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokollierungsstufe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3325,6 +3355,12 @@
     },
     "Logs of %@ (%@)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle von %1$@ (%2$@)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -4001,7 +4037,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seite der Fernbedienung öffnen"
+            "value" : "Website der Fernbedienung öffnen"
           }
         },
         "es" : {
@@ -4951,7 +4987,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ressourcen entpackt"
+            "value" : "Ressourcen geladen"
           }
         },
         "en" : {
@@ -5255,6 +5291,12 @@
     },
     "Select boot entries" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boot-Einträge auswählen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5389,6 +5431,12 @@
     },
     "Services" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienste"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5941,7 +5989,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informationen der Fernbedienung konnten nicht entpackt werden"
+            "value" : "Informationen der Fernbedienung konnten nicht geladen werden"
           }
         },
         "en" : {
