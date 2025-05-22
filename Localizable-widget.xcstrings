@@ -1,6 +1,12 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "-" : {
+
+    },
+    "-%@" : {
+
+    },
     "%@" : {
       "shouldTranslate" : false
     },
@@ -26,7 +32,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ ist inaktiv"
+            "value" : "%@ is inactive"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está inactivo"
           }
         },
         "fr" : {
@@ -37,14 +49,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "%@ ist inaktiv"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ está inactivo"
           }
         }
       }
@@ -82,16 +88,16 @@
             "value" : "Aktion"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Action"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acción"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Action"
           }
         }
       }
@@ -102,6 +108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actividad"
           }
         },
         "fr" : {
@@ -115,12 +127,6 @@
             "state" : "translated",
             "value" : "Activiteit"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actividad"
-          }
         }
       }
     },
@@ -130,6 +136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Befehl"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando"
           }
         },
         "fr" : {
@@ -143,12 +155,6 @@
             "state" : "translated",
             "value" : "Commando"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comando"
-          }
         }
       }
     },
@@ -158,6 +164,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Konfiguration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
           }
         },
         "fr" : {
@@ -171,12 +183,6 @@
             "state" : "translated",
             "value" : "Configuratie"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuración"
-          }
         }
       }
     },
@@ -188,16 +194,16 @@
             "value" : "Aktuelle Aktivität"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité en cours"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Actividad actual"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité en cours"
           }
         }
       }
@@ -208,6 +214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktuelle Seite"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página actual"
           }
         },
         "fr" : {
@@ -221,12 +233,6 @@
             "state" : "translated",
             "value" : "Actuele pagina"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Página actual"
-          }
         }
       }
     },
@@ -238,16 +244,16 @@
             "value" : "Medieninformationen anzeigen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afficher les informations média"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar información medio de tu mando a distancia UC"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les informations média"
           }
         }
       }
@@ -258,6 +264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad"
           }
         },
         "fr" : {
@@ -271,12 +283,6 @@
             "state" : "translated",
             "value" : "Entiteit"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entidad"
-          }
         }
       }
     },
@@ -286,6 +292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Media-Entität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad medios"
           }
         },
         "fr" : {
@@ -299,12 +311,6 @@
             "state" : "translated",
             "value" : "Media entiteit"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entidad medios"
-          }
         }
       }
     },
@@ -314,6 +320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia"
           }
         },
         "fr" : {
@@ -327,12 +339,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distancia"
-          }
         }
       }
     },
@@ -342,6 +348,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Befehl der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando mando a distancia"
           }
         },
         "fr" : {
@@ -355,12 +367,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening commando"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comando mando a distancia"
-          }
         }
       }
     },
@@ -370,6 +376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entität der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad mando a distancia"
           }
         },
         "fr" : {
@@ -383,12 +395,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening entiteit"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entidad mando a distancia"
-          }
         }
       }
     },
@@ -398,6 +404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Host der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia anfitrión"
           }
         },
         "fr" : {
@@ -411,12 +423,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening host"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distancia anfitrión"
-          }
         }
       }
     },
@@ -426,6 +432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nächste Aktivität der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distacia siguiente actividad"
           }
         },
         "fr" : {
@@ -439,12 +451,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening volgende activiteit"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distacia siguiente actividad"
-          }
         }
       }
     },
@@ -454,6 +460,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fernbedienung neu laden"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar Mando a distacia"
           }
         },
         "fr" : {
@@ -467,12 +479,6 @@
             "state" : "translated",
             "value" : "Afstandsbediening refresh"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizar Mando a distacia"
-          }
         }
       }
     },
@@ -482,6 +488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die Fernbedienung auswählen, die angezeigt werden soll"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccine Mando a distancia"
           }
         },
         "fr" : {
@@ -495,12 +507,6 @@
             "state" : "translated",
             "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccine Mando a distancia"
-          }
         }
       }
     },
@@ -510,6 +516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausgewählte Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia seleccionado"
           }
         },
         "fr" : {
@@ -523,20 +535,28 @@
             "state" : "translated",
             "value" : "Geselecteerde afstandsbediening"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distancia seleccionado"
-          }
         }
       }
     },
     "Stop all activities" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrêter toutes les activités"
+          }
+        }
+      }
     },
     "U Remote Control" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
