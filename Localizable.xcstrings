@@ -3269,40 +3269,6 @@
         }
       }
     },
-    "Loaded data" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geladene Daten"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loaded data"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Datos cargados"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Données chargées"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gegevens geladen"
-          }
-        }
-      }
-    },
     "Loading profiles list and entities..." : {
       "localizations" : {
         "de" : {
@@ -4348,6 +4314,22 @@
         }
       }
     },
+    "Profiles" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profils"
+          }
+        }
+      }
+    },
     "Pull to refresh profile and entities" : {
       "localizations" : {
         "de" : {
@@ -4978,6 +4960,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Herhaal-vertraging voor touchpad (ms)"
+          }
+        }
+      }
+    },
+    "Resources" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressourcen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressources"
           }
         }
       }

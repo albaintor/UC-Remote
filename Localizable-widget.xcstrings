@@ -2,10 +2,10 @@
   "sourceLanguage" : "en",
   "strings" : {
     "-" : {
-
+      "shouldTranslate" : false
     },
     "-%@" : {
-
+      "shouldTranslate" : false
     },
     "%@" : {
       "shouldTranslate" : false
@@ -49,7 +49,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%@ ist inaktiv"
           }
         }
