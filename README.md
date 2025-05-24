@@ -1,6 +1,8 @@
-# U Remote
+#  U Remote Control
 
-Unofficial Unfolded Circle Remote app
+<a href="https://apps.apple.com/us/app/u-remote-control/id6740058993"><img width="60" height="60" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/da/6d/bfda6d6f-7401-dda6-d8ca-c1f0b60f196c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/248x248bb.webp"/></a> Unofficial Unfolded Circle Remote iOS app
+
+[Download from App Store](https://apps.apple.com/us/app/u-remote-control/id6740058993)
 
 ## Important Note
 
@@ -41,6 +43,7 @@ To use this application, you need to own an Unfolded Circle Remote 2 or 3
 - Widget : available in 3 sizes, lets control the running activities and display its state if available (artwork, title, album, artist) with the following buttons : play/pause, volume up/down, mute, rewind/forward and refresh button to update. If several activities are active, the first one found will be taken unless you select the activity from the app and minimize it (the widget will be reloaded then with the selected activity).
 - Widtet : a toggle button switches to a page of entities, configurable from the app. Each entities are togglable, except sensors that display the sensor value.
 - Live activities : live activites are like widgets but activated by the app when entering into an activity page, and remain accessible from the dynamic island or the lock screen. The same commands are available
+- Diagnostics : access to app logs as well as extraction of remote logs by category
 
 ## Limitations and future plans
 
