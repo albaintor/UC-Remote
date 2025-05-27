@@ -2805,6 +2805,12 @@
             "state" : "translated",
             "value" : "Extraire les logs"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraer los logs"
+          }
         }
       }
     },
@@ -3232,6 +3238,12 @@
             "state" : "translated",
             "value" : "Limite"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite"
+          }
         }
       }
     },
@@ -3316,6 +3328,12 @@
             "state" : "translated",
             "value" : "Niveau de log"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel de log"
+          }
         }
       }
     },
@@ -3334,6 +3352,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logs de %1$@ (%2$@)"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logs de %1$@ (%2$@)"
@@ -4327,6 +4351,12 @@
             "state" : "translated",
             "value" : "Profils"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfiles"
+          }
         }
       }
     },
@@ -4977,6 +5007,12 @@
             "state" : "translated",
             "value" : "Ressources"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recursos"
+          }
         }
       }
     },
@@ -5300,6 +5336,12 @@
             "state" : "translated",
             "value" : "Sélectionner les entrées Boot"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar la entrada de Início"
+          }
         }
       }
     },
@@ -5439,6 +5481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Services"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicios"
           }
         }
       }
