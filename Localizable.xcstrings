@@ -598,6 +598,12 @@
     },
     "Activity turned %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität %@ eingeschaltet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1776,6 +1782,12 @@
     },
     "Download resources" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressourcen herunterladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1786,6 +1798,12 @@
     },
     "Downloading resources" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressourcen werden heruntergeladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1855,6 +1873,12 @@
     },
     "Empty profile" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leeres Profil"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2479,6 +2503,12 @@
     },
     "Error while turning %@ activity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Wechsel der Aktivität in den Status %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2489,6 +2519,12 @@
     },
     "Error while turning %@ media player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Wechsel des Media-Players in den Status %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2499,6 +2535,12 @@
     },
     "Error while turning %@ remote" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Wechsel der Fernbedienung in den Status %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2983,6 +3025,12 @@
     },
     "Failed to sync settings" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisation der Einstellungen fehlgeschlagen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3566,6 +3614,12 @@
     },
     "Media player turned %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media-Player im Status %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3756,6 +3810,12 @@
     },
     "No available data" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine verfügbaren Daten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4961,6 +5021,12 @@
     },
     "Remote turned %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung im Status %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5198,6 +5264,12 @@
     },
     "Scan devices" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geräte scannen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5580,6 +5652,12 @@
     },
     "Settings & remotes" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen & Fernbedienungen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5590,6 +5668,12 @@
     },
     "Settings synchronized" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen synchronisiert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5902,6 +5986,12 @@
     },
     "Sync settings from iPhone" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen vom iPhone synchronisieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5912,6 +6002,12 @@
     },
     "Sync settings from iPhone unavailable" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen vom iPhone synchronisieren ist nicht verfügbar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",

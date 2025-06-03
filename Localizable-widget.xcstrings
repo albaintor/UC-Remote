@@ -540,6 +540,12 @@
     },
     "Stop all activities" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Aktivitäten stoppen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -550,6 +556,12 @@
     },
     "U Remote Control" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
