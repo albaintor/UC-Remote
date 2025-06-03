@@ -596,6 +596,16 @@
         }
       }
     },
+    "Activity turned %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activité état %@"
+          }
+        }
+      }
+    },
     "Activity turned off" : {
       "localizations" : {
         "de" : {
@@ -1764,36 +1774,22 @@
         }
       }
     },
-    "Downloading common ressouces for first time" : {
+    "Download resources" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Allgemeine Ressourcen werden zum ersten Mal heruntergeladen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Downloading common ressouces for first time"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Descargando de recursos comunes por primera vez"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Téléchargement des ressources communes pour la première utilisation"
+            "value" : "Télécharger les ressources"
           }
-        },
-        "nl" : {
+        }
+      }
+    },
+    "Downloading resources" : {
+      "localizations" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Algemene ressources downloaden voor eerste gebruik"
+            "value" : "Téléchargement des ressources"
           }
         }
       }
@@ -1856,6 +1852,16 @@
     },
     "EMERG" : {
       "shouldTranslate" : false
+    },
+    "Empty profile" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil vide"
+          }
+        }
+      }
     },
     "Enable for all activities" : {
       "localizations" : {
@@ -2097,6 +2103,35 @@
     },
     "ERR" : {
       "shouldTranslate" : false
+    },
+    "ERROR" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur"
+          }
+        }
+      }
     },
     "Error during resources extraction" : {
       "localizations" : {
@@ -2438,6 +2473,36 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant la bascule de l’interrupteur"
+          }
+        }
+      }
+    },
+    "Error while turning %@ activity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur passage à l’état %@ de l’activité"
+          }
+        }
+      }
+    },
+    "Error while turning %@ media player" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur passage à l’état %@ du media player"
+          }
+        }
+      }
+    },
+    "Error while turning %@ remote" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur passage à l’état %@ de la télécommande"
           }
         }
       }
@@ -2800,16 +2865,16 @@
             "value" : "Protokolle laden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Extraire les logs"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Extraer los logs"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraire les logs"
           }
         }
       }
@@ -2912,6 +2977,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitzetten afstandsbediening mislukt"
+          }
+        }
+      }
+    },
+    "Failed to sync settings" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de synchronization des paramètres"
           }
         }
       }
@@ -3233,16 +3308,16 @@
             "value" : "Begrenzung"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limite"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Límite"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite"
           }
         }
       }
@@ -3323,16 +3398,16 @@
             "value" : "Protokollierungsstufe"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niveau de log"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nivel de log"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau de log"
           }
         }
       }
@@ -3351,13 +3426,13 @@
             "value" : "Logs of %1$@ (%2$@)"
           }
         },
-        "fr" : {
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logs de %1$@ (%2$@)"
           }
         },
-        "es" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logs de %1$@ (%2$@)"
@@ -3485,6 +3560,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Media entiteit"
+          }
+        }
+      }
+    },
+    "Media player turned %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media player à l’état %@"
           }
         }
       }
@@ -3665,6 +3750,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nieuwe release beschikbaar: %@"
+          }
+        }
+      }
+    },
+    "No available data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune donnée disponible"
           }
         }
       }
@@ -4346,16 +4441,16 @@
             "value" : "Profile"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Profils"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfiles"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profils"
           }
         }
       }
@@ -4553,72 +4648,10 @@
       }
     },
     "Remote 2 %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 2 %@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 2 %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando 2%@"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande 2 %@"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Op afstand 2 %@"
-          }
-        }
-      }
+      "shouldTranslate" : false
     },
     "Remote 3 %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 3 %@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote 3 %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando 3 %@"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande 3 %@"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening 3 %@"
-          }
-        }
-      }
+      "shouldTranslate" : false
     },
     "Remote Command" : {
       "localizations" : {
@@ -4926,6 +4959,16 @@
         }
       }
     },
+    "Remote turned %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande à l’état %@"
+          }
+        }
+      }
+    },
     "Remotes registered" : {
       "localizations" : {
         "de" : {
@@ -5002,16 +5045,16 @@
             "value" : "Ressourcen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ressources"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recursos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ressources"
           }
         }
       }
@@ -5149,6 +5192,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lopende activiteiten"
+          }
+        }
+      }
+    },
+    "Scan devices" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scanner les appareils"
           }
         }
       }
@@ -5331,16 +5384,16 @@
             "value" : "Boot-Einträge auswählen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sélectionner les entrées Boot"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seleccionar la entrada de Início"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner les entrées Boot"
           }
         }
       }
@@ -5477,16 +5530,16 @@
             "value" : "Dienste"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Services"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Servicios"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Services"
           }
         }
       }
@@ -5521,6 +5574,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instellingen"
+          }
+        }
+      }
+    },
+    "Settings & remotes" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages & télécommandes"
+          }
+        }
+      }
+    },
+    "Settings synchronized" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres synchronisés"
           }
         }
       }
@@ -5827,6 +5900,26 @@
         }
       }
     },
+    "Sync settings from iPhone" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisation des paramètres depuis l’iPhone"
+          }
+        }
+      }
+    },
+    "Sync settings from iPhone unavailable" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisation des paramètres depuis l’iPhone indisponible"
+          }
+        }
+      }
+    },
     "Synchronize Widget settings" : {
       "localizations" : {
         "de" : {
@@ -6029,6 +6122,9 @@
           }
         }
       }
+    },
+    "U Remote Control" : {
+      "shouldTranslate" : false
     },
     "Unable to extract remote information" : {
       "localizations" : {
