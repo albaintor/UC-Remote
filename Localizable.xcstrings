@@ -2947,6 +2947,16 @@
         }
       }
     },
+    "Failed to save settings in iCloud" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la sauvegarde des paramètres dans iCloud"
+          }
+        }
+      }
+    },
     "Failed to shutdown remote" : {
       "localizations" : {
         "de" : {
@@ -3930,6 +3940,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geen afstandsbediening gevonden"
+          }
+        }
+      }
+    },
+    "No settings found in iCloud" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun paramètre dans iCloud"
           }
         }
       }
@@ -5127,6 +5147,16 @@
         }
       }
     },
+    "Restore settings from iCloud" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer les paramètres depuis iCloud"
+          }
+        }
+      }
+    },
     "RUNNING" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5192,6 +5222,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lopende activiteiten"
+          }
+        }
+      }
+    },
+    "Save settings to iCloud" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarder les paramètres dans iCloud"
           }
         }
       }
@@ -5584,6 +5624,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réglages & télécommandes"
+          }
+        }
+      }
+    },
+    "Settings saved to iCloud" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres sauvegardés dans iCloud"
+          }
+        }
+      }
+    },
+    "Settings saved to iCloud : %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres sauvegardés dans iCloud : %@"
           }
         }
       }
