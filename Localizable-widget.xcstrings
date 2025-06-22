@@ -132,6 +132,12 @@
     },
     "Add an entity to control center" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Entität zum Kontrollzentrum hinzufügen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -143,6 +149,12 @@
     "app_intents.intent.light.title" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität bedienen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -511,6 +523,12 @@
     },
     "Select the entity to control" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität zum Bedienen auswählen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -549,6 +567,12 @@
     },
     "Selected entity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Entität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -587,6 +611,12 @@
     },
     "State" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,6 +659,12 @@
     },
     "U Remote Control entity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control Entität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
