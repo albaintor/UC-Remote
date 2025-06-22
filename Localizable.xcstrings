@@ -703,6 +703,12 @@
     },
     "Add an entity to control center" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Aktivität zum Kontrollzentrum hinzufügen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -716,7 +722,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Media-Player-Befehle auf den Profilseiten hinzufügen"
+            "value" : "Media Player-Befehle auf den Profilseiten hinzufügen"
           }
         },
         "es" : {
@@ -773,6 +779,12 @@
     "app_intents.intent.light.title" : {
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität bedienen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -2653,6 +2665,12 @@
     },
     "Error while turning off media player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten des Media Players"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2663,6 +2681,12 @@
     },
     "Error while turning off remote" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Ausschalten der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2809,6 +2833,12 @@
     },
     "Error while turning on media player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten des Media Players"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2819,6 +2849,12 @@
     },
     "Error while turning on remote" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Einschalten der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2997,6 +3033,12 @@
     },
     "Failed to save settings in iCloud" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen konnten nicht in der iCloud gespeichert werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3599,7 +3641,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Media-Player Entität"
+            "value" : "Media Player Entität"
           }
         },
         "en" : {
@@ -3630,6 +3672,12 @@
     },
     "Media player turned off" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media Player ausgeschaltet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3640,6 +3688,12 @@
     },
     "Media player turned on" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media Player eingeschaltet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4016,6 +4070,12 @@
     },
     "No settings found in iCloud" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Einstellungen in der iCloud gefunden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4268,7 +4328,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ansonsten nur für die mit Media-Player Entitäten"
+            "value" : "Ansonsten nur für die mit Media Player Entitäten"
           }
         },
         "en" : {
@@ -5051,6 +5111,12 @@
     },
     "Remote turned off" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung ausgeschaltet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5061,6 +5127,12 @@
     },
     "Remote turned on" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienung eingeschaltet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5229,6 +5301,12 @@
     },
     "Restore settings from iCloud" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen aus der iCloud wiederhergestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5308,6 +5386,12 @@
     },
     "Save settings to iCloud" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen in der iCloud speichern"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5526,6 +5610,12 @@
     },
     "Select the entity to control" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Entität zum Bedienen auswählen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5604,6 +5694,12 @@
     },
     "Selected entity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Entität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5742,6 +5838,12 @@
     },
     "Settings saved to iCloud" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen in der iCloud gespeichert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5752,6 +5854,12 @@
     },
     "Settings saved to iCloud : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen in der iCloud gespeichert: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5803,7 +5911,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Befehle im Media-Player Widget anzeigen"
+            "value" : "Befehle im Media Player Widget anzeigen"
           }
         },
         "es" : {
@@ -6058,6 +6166,12 @@
     },
     "Start activity when tapping on icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivität beim Tippen auf das Symbol starten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6068,6 +6182,12 @@
     },
     "State" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6338,6 +6458,12 @@
     },
     "U Remote Control entity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control Entität"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
