@@ -174,7 +174,8 @@
             "value" : "%@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ - %@" : {
       "localizations" : {
@@ -219,7 +220,8 @@
             "value" : "%1$@ (%2$@)"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ %@" : {
       "localizations" : {
@@ -253,7 +255,8 @@
             "value" : "%1$@ %2$@"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ logs" : {
       "localizations" : {
@@ -596,22 +599,6 @@
         }
       }
     },
-    "Activity turned %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivität %@ eingeschaltet"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activité état %@"
-          }
-        }
-      }
-    },
     "Activity turned off" : {
       "localizations" : {
         "de" : {
@@ -714,6 +701,16 @@
         }
       }
     },
+    "Add an entity to control center" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une entité au centre de contrôle"
+          }
+        }
+      }
+    },
     "Add media players controls in profile pages" : {
       "localizations" : {
         "de" : {
@@ -772,6 +769,23 @@
     },
     "ALERT" : {
       "shouldTranslate" : false
+    },
+    "app_intents.intent.light.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Control entity"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contrôle d'entité"
+          }
+        }
+      }
     },
     "Appearance" : {
       "localizations" : {
@@ -2501,54 +2515,6 @@
         }
       }
     },
-    "Error while turning %@ activity" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Wechsel der Aktivität in den Status %@"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur passage à l’état %@ de l’activité"
-          }
-        }
-      }
-    },
-    "Error while turning %@ media player" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Wechsel des Media-Players in den Status %@"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur passage à l’état %@ du media player"
-          }
-        }
-      }
-    },
-    "Error while turning %@ remote" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fehler beim Wechsel der Fernbedienung in den Status %@"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur passage à l’état %@ de la télécommande"
-          }
-        }
-      }
-    },
     "Error while turning off activity" : {
       "localizations" : {
         "de" : {
@@ -2685,6 +2651,26 @@
         }
       }
     },
+    "Error while turning off media player" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt du Media Player"
+          }
+        }
+      }
+    },
+    "Error while turning off remote" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’arrêt de la télécommande"
+          }
+        }
+      }
+    },
     "Error while turning on activity" : {
       "localizations" : {
         "de" : {
@@ -2817,6 +2803,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout bij inschakelen licht"
+          }
+        }
+      }
+    },
+    "Error while turning on media player" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation du Media Player"
+          }
+        }
+      }
+    },
+    "Error while turning on remote" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant l’activation de la télécommande"
           }
         }
       }
@@ -3622,18 +3628,22 @@
         }
       }
     },
-    "Media player turned %@" : {
+    "Media player turned off" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Media-Player im Status %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Media player à l’état %@"
+            "value" : "Media Player éteint"
+          }
+        }
+      }
+    },
+    "Media player turned on" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media Player activé"
           }
         }
       }
@@ -5039,18 +5049,22 @@
         }
       }
     },
-    "Remote turned %@" : {
+    "Remote turned off" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fernbedienung im Status %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Télécommande à l’état %@"
+            "value" : "Télécommande éteinte"
+          }
+        }
+      }
+    },
+    "Remote turned on" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande activée"
           }
         }
       }
@@ -5510,6 +5524,16 @@
         }
       }
     },
+    "Select the entity to control" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner l’entité à contrôler"
+          }
+        }
+      }
+    },
     "Select the Remote Control to display" : {
       "localizations" : {
         "de" : {
@@ -5574,6 +5598,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geselecteerde entiteiten"
+          }
+        }
+      }
+    },
+    "Selected entity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité sélectionnée"
           }
         }
       }
@@ -6022,6 +6056,26 @@
         }
       }
     },
+    "Start activity when tapping on icon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrer l’activité en touchant l’icône"
+          }
+        }
+      }
+    },
+    "State" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etat"
+          }
+        }
+      }
+    },
     "Stop all activities" : {
       "localizations" : {
         "de" : {
@@ -6281,6 +6335,16 @@
     },
     "U Remote Control" : {
       "shouldTranslate" : false
+    },
+    "U Remote Control entity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entité"
+          }
+        }
+      }
     },
     "Unable to extract remote information" : {
       "localizations" : {

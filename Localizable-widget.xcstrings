@@ -130,6 +130,33 @@
         }
       }
     },
+    "Add an entity to control center" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une entité au centre de contrôle"
+          }
+        }
+      }
+    },
+    "app_intents.intent.light.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Control entity"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contrôle d’entité"
+          }
+        }
+      }
+    },
     "Command" : {
       "localizations" : {
         "de" : {
@@ -482,6 +509,16 @@
         }
       }
     },
+    "Select the entity to control" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner l’entité"
+          }
+        }
+      }
+    },
     "Select the Remote Control to display" : {
       "localizations" : {
         "de" : {
@@ -506,6 +543,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
+          }
+        }
+      }
+    },
+    "Selected entity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité sélectionnée"
           }
         }
       }
@@ -538,6 +585,16 @@
         }
       }
     },
+    "State" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etat"
+          }
+        }
+      }
+    },
     "Stop all activities" : {
       "localizations" : {
         "de" : {
@@ -566,6 +623,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control"
+          }
+        }
+      }
+    },
+    "U Remote Control entity" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entité"
           }
         }
       }
