@@ -130,6 +130,45 @@
         }
       }
     },
+    "Add an entity to control center" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Entität zum Kontrollzentrum hinzufügen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une entité au centre de contrôle"
+          }
+        }
+      }
+    },
+    "app_intents.intent.light.title" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität bedienen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Control entity"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contrôle d’entité"
+          }
+        }
+      }
+    },
     "Command" : {
       "localizations" : {
         "de" : {
@@ -398,30 +437,12 @@
         }
       }
     },
-    "Remote host" : {
+    "Remote mac address" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Host der Fernbedienung"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distancia anfitrión"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hôte de la télécommande"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening host"
+            "value" : "Adresse Mac de la télécommande"
           }
         }
       }
@@ -482,6 +503,22 @@
         }
       }
     },
+    "Select the entity to control" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität zum Bedienen auswählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner l’entité"
+          }
+        }
+      }
+    },
     "Select the Remote Control to display" : {
       "localizations" : {
         "de" : {
@@ -506,6 +543,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
+          }
+        }
+      }
+    },
+    "Selected entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte Entität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité sélectionnée"
           }
         }
       }
@@ -538,6 +591,22 @@
         }
       }
     },
+    "State" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etat"
+          }
+        }
+      }
+    },
     "Stop all activities" : {
       "localizations" : {
         "de" : {
@@ -566,6 +635,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control"
+          }
+        }
+      }
+    },
+    "U Remote Control entity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control Entität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entité"
           }
         }
       }
