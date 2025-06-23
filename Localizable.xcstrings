@@ -1017,6 +1017,12 @@
             "state" : "translated",
             "value" : "Enregistrements Boot"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registros Boot"
+          }
         }
       }
     },
@@ -1159,7 +1165,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clausura"
+            "value" : "Cerrando"
           }
         },
         "fr" : {
@@ -1487,7 +1493,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Perfecto!"
+            "value" : "Frio"
           }
         },
         "fr" : {
@@ -1524,7 +1530,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actual :%@ °"
+            "value" : "Actual : %@ °"
           }
         },
         "fr" : {
@@ -1840,6 +1846,12 @@
             "state" : "translated",
             "value" : "Télécharger les ressources"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : Descargar recursos"
+          }
         }
       }
     },
@@ -1855,6 +1867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Téléchargement des ressources"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargando recursos"
           }
         }
       }
@@ -1930,6 +1948,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil vide"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfíl vacio"
           }
         }
       }
@@ -2545,6 +2569,12 @@
             "state" : "translated",
             "value" : "Erreur pendant la bascule de l’interrupteur"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al cambiar interruptor"
+          }
         }
       }
     },
@@ -3065,6 +3095,12 @@
             "state" : "translated",
             "value" : "Echec de la sauvegarde des paramètres dans iCloud"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al guardar los ajustes en iCloud"
+          }
         }
       }
     },
@@ -3114,6 +3150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echec de synchronization des paramètres"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al sincronizar configuración"
           }
         }
       }
@@ -3237,7 +3279,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calor o frío"
+            "value" : "Auto"
           }
         },
         "fr" : {
@@ -3720,6 +3762,12 @@
             "state" : "translated",
             "value" : "Media Player activé"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproductor de medios cambio a %@"
+          }
         }
       }
     },
@@ -3932,6 +3980,12 @@
             "state" : "translated",
             "value" : "Aucune donnée disponible"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay datos disponibles"
+          }
         }
       }
     },
@@ -4117,6 +4171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucun paramètre dans iCloud"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han encontrado ajustes en iCloud"
           }
         }
       }
@@ -5151,6 +5211,12 @@
             "state" : "translated",
             "value" : "Télécommande activée"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando a distancia %@"
+          }
         }
       }
     },
@@ -5325,6 +5391,12 @@
             "state" : "translated",
             "value" : "Restaurer les paramètres depuis iCloud"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar ajustes desde iCloud"
+          }
         }
       }
     },
@@ -5410,6 +5482,12 @@
             "state" : "translated",
             "value" : "Sauvegarder les paramètres dans iCloud"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar los ajustes en iCloud"
+          }
         }
       }
     },
@@ -5425,6 +5503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Scanner les appareils"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detectar dispositivos"
           }
         }
       }
@@ -5846,6 +5930,12 @@
             "state" : "translated",
             "value" : "Réglages & télécommandes"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes y Mandos"
+          }
         }
       }
     },
@@ -5878,6 +5968,12 @@
             "state" : "translated",
             "value" : "Paramètres sauvegardés dans iCloud : %@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes guardados en iCloud : %@"
+          }
         }
       }
     },
@@ -5893,6 +5989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres synchronisés"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parametros sincronizados"
           }
         }
       }
@@ -6244,6 +6346,12 @@
             "state" : "translated",
             "value" : "Synchronisation des paramètres depuis l’iPhone"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronizar los ajustes desde el iPhone"
+          }
         }
       }
     },
@@ -6259,6 +6367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Synchronisation des paramètres depuis l’iPhone indisponible"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronización de ajustes desde el iPhone no está disponible"
           }
         }
       }
