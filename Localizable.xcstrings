@@ -725,6 +725,12 @@
             "state" : "translated",
             "value" : "Ajouter une entité au centre de contrôle"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir entidad al pancel de control"
+          }
         }
       }
     },
@@ -806,6 +812,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contrôle d'entité"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad de Control"
           }
         }
       }
@@ -1066,6 +1078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vérifier l’adresse de la télécommande"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verificar el Mando a distancia"
           }
         }
       }
@@ -1850,7 +1868,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : Descargar recursos"
+            "value" : "Descargar recursos"
           }
         }
       }
@@ -2727,6 +2745,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’arrêt du Media Player"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al apagar reproductor de medios"
+          }
         }
       }
     },
@@ -2742,6 +2766,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’arrêt de la télécommande"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al apagar el mando"
           }
         }
       }
@@ -2895,6 +2925,12 @@
             "state" : "translated",
             "value" : "Erreur pendant l’activation du Media Player"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al encender reproductor de medios"
+          }
         }
       }
     },
@@ -2910,6 +2946,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur pendant l’activation de la télécommande"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al encender el mando"
           }
         }
       }
@@ -3746,6 +3788,12 @@
             "state" : "translated",
             "value" : "Media Player éteint"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media Player apagado"
+          }
         }
       }
     },
@@ -3929,6 +3977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nouvelle adresse mise à jour pour la télécommande %1$@ : %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevo nombre, para el mando %1$@ : %2$@"
           }
         }
       }
@@ -4403,7 +4457,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abriendo…"
+            "value" : "Abriendo"
           }
         },
         "fr" : {
@@ -4975,6 +5029,12 @@
             "state" : "translated",
             "value" : "Adresse Mac de la télécommande"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección Mac del mando"
+          }
         }
       }
     },
@@ -5194,6 +5254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Télécommande éteinte"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando Apagado"
           }
         }
       }
@@ -5718,6 +5784,12 @@
             "state" : "translated",
             "value" : "Sélectionner l’entité à contrôler"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione la entidad a controlar"
+          }
         }
       }
     },
@@ -5801,6 +5873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entité sélectionnée"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad seleccionada"
           }
         }
       }
@@ -5951,6 +6029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres sauvegardés dans iCloud"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes guardados en iCloud"
           }
         }
       }
@@ -6308,6 +6392,12 @@
             "state" : "translated",
             "value" : "Etat"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
         }
       }
     },
@@ -6596,6 +6686,12 @@
             "state" : "translated",
             "value" : "U Remote Control entité"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entidad"
+          }
         }
       }
     },
@@ -6714,6 +6810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Adresse inchangée pour la télécommande %1$@ : %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre del host desconocido para el mando %1$@ : %2$@"
           }
         }
       }
