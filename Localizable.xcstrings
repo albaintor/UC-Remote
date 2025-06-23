@@ -188,6 +188,17 @@
       },
       "shouldTranslate" : false
     },
+    "%@ : %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ : %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
     "%@ (%@)" : {
       "localizations" : {
         "de" : {
@@ -1039,6 +1050,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Knoppen"
+          }
+        }
+      }
+    },
+    "Check remote host" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifier l’adresse de la télécommande"
           }
         }
       }
@@ -3848,6 +3869,22 @@
         }
       }
     },
+    "New hostname updated for remote %@ : %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "New hostname updated for remote %1$@ : %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouvelle adresse mise à jour pour la télécommande %1$@ : %2$@"
+          }
+        }
+      }
+    },
     "New release available: %@" : {
       "localizations" : {
         "de" : {
@@ -4871,36 +4908,12 @@
         }
       }
     },
-    "Remote host" : {
+    "Remote mac address" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Host der Fernbedienung"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remote host"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Servidor del mando"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hôte de la télécommande"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening host"
+            "value" : "Adresse Mac de la télécommande"
           }
         }
       }
@@ -6571,6 +6584,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Niet beschikbaar"
+          }
+        }
+      }
+    },
+    "Unchanged hostname for remote %@ : %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unchanged hostname for remote %1$@ : %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adresse inchangée pour la télécommande %1$@ : %2$@"
           }
         }
       }

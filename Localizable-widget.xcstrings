@@ -437,30 +437,12 @@
         }
       }
     },
-    "Remote host" : {
+    "Remote mac address" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Host der Fernbedienung"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mando a distancia anfitrión"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hôte de la télécommande"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstandsbediening host"
+            "value" : "Adresse Mac de la télécommande"
           }
         }
       }
