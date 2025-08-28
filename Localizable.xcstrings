@@ -269,6 +269,9 @@
       },
       "shouldTranslate" : false
     },
+    "%@ integrations" : {
+
+    },
     "%@ logs" : {
       "localizations" : {
         "de" : {
@@ -866,6 +869,26 @@
         }
       }
     },
+    "Are you sure you want delete this integration ? All configured devices and entities of this integration will be erased" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etes-vous sûr de vouloir supprimer cette intégration ? Les appareils et entités configurés seront supprimés"
+          }
+        }
+      }
+    },
+    "Are you sure you want to update %@ integration ? This will erase all the configured devices and entities, you will have to set it up again" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etes-vous sûr de vouloir mettre à jour l’intégration %@ ? Cela effacera tous les appareils et entités configurés, vous devrez les reconfigurer à nouveau"
+          }
+        }
+      }
+    },
     "AUTO" : {
       "localizations" : {
         "de" : {
@@ -1012,16 +1035,16 @@
             "value" : "Boot-Einträge"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enregistrements Boot"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registros Boot"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrements Boot"
           }
         }
       }
@@ -1056,6 +1079,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Knoppen"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
           }
         }
       }
@@ -1352,6 +1385,16 @@
         }
       }
     },
+    "Confirm" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer"
+          }
+        }
+      }
+    },
     "Connection failed with password %@" : {
       "localizations" : {
         "de" : {
@@ -1510,6 +1553,16 @@
         }
       }
     },
+    "Couldn't extract update information" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire les informations de mise à jour"
+          }
+        }
+      }
+    },
     "CRIT" : {
       "shouldTranslate" : false
     },
@@ -1640,6 +1693,26 @@
     },
     "DEBUG" : {
       "shouldTranslate" : false
+    },
+    "Deleting driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suppression du pilote %@"
+          }
+        }
+      }
+    },
+    "Deleting integration %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suppression de l’intégration %@"
+          }
+        }
+      }
     },
     "Device toggled on/off" : {
       "localizations" : {
@@ -1841,16 +1914,26 @@
             "value" : "Ressourcen herunterladen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargar recursos"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Télécharger les ressources"
           }
-        },
-        "es" : {
+        }
+      }
+    },
+    "Downloading %@" : {
+      "localizations" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : Descargar recursos"
+            "value" : "Téléchargement de %@"
           }
         }
       }
@@ -1863,16 +1946,16 @@
             "value" : "Ressourcen werden heruntergeladen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Téléchargement des ressources"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descargando recursos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargement des ressources"
           }
         }
       }
@@ -1944,16 +2027,16 @@
             "value" : "Leeres Profil"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Profil vide"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfíl vacio"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil vide"
           }
         }
       }
@@ -2296,6 +2379,26 @@
         }
       }
     },
+    "Error while deleting download folder %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la suppression du dossier %@"
+          }
+        }
+      }
+    },
+    "Error while deleting driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la suppression du pilote %@"
+          }
+        }
+      }
+    },
     "Error while executing macro" : {
       "localizations" : {
         "de" : {
@@ -2564,16 +2667,16 @@
             "value" : "Fehler beim Umschalten des Schalters"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreur pendant la bascule de l’interrupteur"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Error al cambiar interruptor"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la bascule de l’interrupteur"
           }
         }
       }
@@ -2914,6 +3017,16 @@
         }
       }
     },
+    "Error while uploading driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant le chargement du pilote %@"
+          }
+        }
+      }
+    },
     "Export cache" : {
       "localizations" : {
         "de" : {
@@ -3014,6 +3127,36 @@
         }
       }
     },
+    "Extracting drivers..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraction des pilotes..."
+          }
+        }
+      }
+    },
+    "Extracting integration updates..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraction des mises à jour d’intégrations..."
+          }
+        }
+      }
+    },
+    "Failed to download updated integration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec du téléchargement de l’intégration mise à jour"
+          }
+        }
+      }
+    },
     "Failed to register remote" : {
       "localizations" : {
         "de" : {
@@ -3090,16 +3233,16 @@
             "value" : "Einstellungen konnten nicht in der iCloud gespeichert werden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de la sauvegarde des paramètres dans iCloud"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fallo al guardar los ajustes en iCloud"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la sauvegarde des paramètres dans iCloud"
           }
         }
       }
@@ -3146,16 +3289,16 @@
             "value" : "Synchronisation der Einstellungen fehlgeschlagen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de synchronization des paramètres"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fallo al sincronizar configuración"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de synchronization des paramètres"
           }
         }
       }
@@ -3330,8 +3473,58 @@
         }
       }
     },
+    "If you proceed the integration will be erased with all its configured devices and entities. You will have to reconfigure it again. Mapping in activities or profile pages will be preserved." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous continuez l’intégration sera effacée avec tous ses appareils et entités configurés. Vous devrez les reconfigurer à nouveau. L’association dans les activités et les pages de profils seront préservés"
+          }
+        }
+      }
+    },
     "INFO" : {
       "shouldTranslate" : false
+    },
+    "Integration settings will be erased" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les paramètres de l’intégration seront effacés"
+          }
+        }
+      }
+    },
+    "Integration update" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise à jour de l'intégration"
+          }
+        }
+      }
+    },
+    "Integrations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégrations"
+          }
+        }
+      }
+    },
+    "Integrations settings will be erased" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les paramètres de l’intégration seront supprimés"
+          }
+        }
+      }
     },
     "Interface" : {
       "localizations" : {
@@ -3757,16 +3950,16 @@
             "value" : "Media Player eingeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Media Player activé"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reproductor de medios cambio a %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media Player activé"
           }
         }
       }
@@ -3967,6 +4160,16 @@
         }
       }
     },
+    "New version available : %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouvelle version disponible : %@"
+          }
+        }
+      }
+    },
     "No available data" : {
       "localizations" : {
         "de" : {
@@ -3975,16 +4178,16 @@
             "value" : "Keine verfügbaren Daten"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucune donnée disponible"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay datos disponibles"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune donnée disponible"
           }
         }
       }
@@ -4167,16 +4370,16 @@
             "value" : "Keine Einstellungen in der iCloud gefunden"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucun paramètre dans iCloud"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se han encontrado ajustes en iCloud"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun paramètre dans iCloud"
           }
         }
       }
@@ -5206,16 +5409,16 @@
             "value" : "Fernbedienung eingeschaltet"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Télécommande activée"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mando a distancia %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécommande activée"
           }
         }
       }
@@ -5386,16 +5589,16 @@
             "value" : "Einstellungen aus der iCloud wiederhergestellt"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurer les paramètres depuis iCloud"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurar ajustes desde iCloud"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer les paramètres depuis iCloud"
           }
         }
       }
@@ -5477,16 +5680,16 @@
             "value" : "Einstellungen in der iCloud speichern"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sauvegarder les paramètres dans iCloud"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guardar los ajustes en iCloud"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarder les paramètres dans iCloud"
           }
         }
       }
@@ -5499,16 +5702,16 @@
             "value" : "Geräte scannen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Scanner les appareils"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detectar dispositivos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scanner les appareils"
           }
         }
       }
@@ -5925,16 +6128,16 @@
             "value" : "Einstellungen & Fernbedienungen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réglages & télécommandes"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajustes y Mandos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages & télécommandes"
           }
         }
       }
@@ -5963,16 +6166,16 @@
             "value" : "Einstellungen in der iCloud gespeichert: %@"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paramètres sauvegardés dans iCloud : %@"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajustes guardados en iCloud : %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres sauvegardés dans iCloud : %@"
           }
         }
       }
@@ -5985,16 +6188,16 @@
             "value" : "Einstellungen synchronisiert"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paramètres synchronisés"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parametros sincronizados"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres synchronisés"
           }
         }
       }
@@ -6295,6 +6498,26 @@
         }
       }
     },
+    "Starting download of integration driver %@..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télchargement de l’intégration %@…"
+          }
+        }
+      }
+    },
+    "Starting upload of integration driver to the remote %@..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement de l’intégration sur la télécommande %@ …"
+          }
+        }
+      }
+    },
     "State" : {
       "localizations" : {
         "de" : {
@@ -6333,6 +6556,32 @@
         }
       }
     },
+    "Success of upload of the integration driver %@ to the remote %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Success of upload of the integration driver %1$@ to the remote %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès du chargement de l’intégration %1$@ sur la télécommande %2$@"
+          }
+        }
+      }
+    },
+    "Successfully deleted driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de la suppression du pilote %@"
+          }
+        }
+      }
+    },
     "Sync settings from iPhone" : {
       "localizations" : {
         "de" : {
@@ -6341,16 +6590,16 @@
             "value" : "Einstellungen vom iPhone synchronisieren"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synchronisation des paramètres depuis l’iPhone"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincronizar los ajustes desde el iPhone"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisation des paramètres depuis l’iPhone"
           }
         }
       }
@@ -6363,16 +6612,16 @@
             "value" : "Einstellungen vom iPhone synchronisieren ist nicht verfügbar"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synchronisation des paramètres depuis l’iPhone indisponible"
-          }
-        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sincronización de ajustes desde el iPhone no está disponible"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisation des paramètres depuis l’iPhone indisponible"
           }
         }
       }
@@ -6752,6 +7001,66 @@
         }
       }
     },
+    "Up to date" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A jour"
+          }
+        }
+      }
+    },
+    "Update" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise à jour"
+          }
+        }
+      }
+    },
+    "Update information is missing" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informations de mise à jour manquants"
+          }
+        }
+      }
+    },
+    "Update of integration done" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise à jour de l’intégration réalisée"
+          }
+        }
+      }
+    },
+    "Update of integration failed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la mise à jour de l'intégration"
+          }
+        }
+      }
+    },
+    "Uploading driver to the remote..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement du pilote sur la télécommande..."
+          }
+        }
+      }
+    },
     "Use physical volume buttons to change volume" : {
       "localizations" : {
         "de" : {
@@ -6850,6 +7159,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versie %@"
+          }
+        }
+      }
+    },
+    "Version %@ available" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@ disponible"
           }
         }
       }
