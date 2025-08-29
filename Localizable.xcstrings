@@ -270,7 +270,14 @@
       "shouldTranslate" : false
     },
     "%@ integrations" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Integrationen"
+          }
+        }
+      }
     },
     "%@ logs" : {
       "localizations" : {
@@ -871,6 +878,12 @@
     },
     "Are you sure you want delete this integration ? All configured devices and entities of this integration will be erased" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bist du sicher, dass du diese Integration löschen möchtest? Alle konfigurierten Geräte und Entitäten dieser Integration werden gelöscht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -881,6 +894,12 @@
     },
     "Are you sure you want to update %@ integration ? This will erase all the configured devices and entities, you will have to set it up again" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bist du sicher, dass du die %@-Integration aktualisieren möchtest? Dadurch werden alle konfigurierten Geräte und Entitäten gelöscht und du musst die Integration erneut einrichten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1085,6 +1104,12 @@
     },
     "Cancel" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1095,6 +1120,12 @@
     },
     "Check remote host" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entfernten Host überprüfen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1387,6 +1418,12 @@
     },
     "Confirm" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestätigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1555,6 +1592,12 @@
     },
     "Couldn't extract update information" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierungs-Informationen konnten nicht entpackt werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1696,6 +1739,12 @@
     },
     "Deleting driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lösche Treiber %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1706,6 +1755,12 @@
     },
     "Deleting integration %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lösche Integration %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1930,6 +1985,12 @@
     },
     "Downloading %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ herunterladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2381,6 +2442,12 @@
     },
     "Error while deleting download folder %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Löschen des Download-Ordners %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2391,6 +2458,12 @@
     },
     "Error while deleting driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Löschen des Treibers %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3019,6 +3092,12 @@
     },
     "Error while uploading driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Hochladen des Treibers %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3129,6 +3208,12 @@
     },
     "Extracting drivers..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entpacke Treiber..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3139,6 +3224,12 @@
     },
     "Extracting integration updates..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entpacke Integrations-Aktualisierungen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3149,6 +3240,12 @@
     },
     "Failed to download updated integration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Herunterladen der aktualisierten Integration"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3475,6 +3572,12 @@
     },
     "If you proceed the integration will be erased with all its configured devices and entities. You will have to reconfigure it again. Mapping in activities or profile pages will be preserved." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du fortfährst, wird die Integration mit all ihren konfigurierten Geräten und Entitäten gelöscht. Du musst sie dann erneut konfigurieren. Die Zuordnung in Aktivitäten oder Profilseiten bleibt erhalten."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3488,6 +3591,12 @@
     },
     "Integration settings will be erased" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrations-Einstellungen werden gelöscht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3498,6 +3607,12 @@
     },
     "Integration update" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrations-Aktualisierung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3508,6 +3623,12 @@
     },
     "Integrations" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrationen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3518,6 +3639,12 @@
     },
     "Integrations settings will be erased" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrations-Einstellungen werden gelöscht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4112,6 +4239,12 @@
     },
     "New hostname updated for remote %@ : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neuer Hostname für Fernbedienung %1$@ aktualisiert: %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -4162,6 +4295,12 @@
     },
     "New version available : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Version verfügbar: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5173,6 +5312,12 @@
     },
     "Remote mac address" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac-Adresse der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6500,6 +6645,12 @@
     },
     "Starting download of integration driver %@..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte mit dem Herunterladen des %@-Integrationstreibers"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6510,6 +6661,12 @@
     },
     "Starting upload of integration driver to the remote %@..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte mit dem Hochladen des Integrationstreibers auf die Fernbedienung %@..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6558,6 +6715,12 @@
     },
     "Success of upload of the integration driver %@ to the remote %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrationstreiber %1$@ erfolgreich auf Fernbedienung %2$@ hochgeladen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -6574,6 +6737,12 @@
     },
     "Successfully deleted driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treiber %@ erfolgreich gelöscht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6953,6 +7122,12 @@
     },
     "Unchanged hostname for remote %@ : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unveränderter Hostname %1$@ für Fernbedienung %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -7003,6 +7178,12 @@
     },
     "Up to date" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf dem neusten Stand"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7013,6 +7194,12 @@
     },
     "Update" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7023,6 +7210,12 @@
     },
     "Update information is missing" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierungs-Informationen fehlen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7033,6 +7226,12 @@
     },
     "Update of integration done" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierung der Integration fertiggestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7043,6 +7242,12 @@
     },
     "Update of integration failed" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierung der Integration fehlgeschlagen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7053,6 +7258,12 @@
     },
     "Uploading driver to the remote..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treiber auf die Fernbedienung hochladen..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7165,6 +7376,12 @@
     },
     "Version %@ available" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@ verfügbar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
