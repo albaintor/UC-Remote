@@ -276,6 +276,12 @@
             "state" : "translated",
             "value" : "%@ Integrationen"
           }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ intégrations"
+          }
         }
       }
     },
@@ -1736,6 +1742,16 @@
     },
     "DEBUG" : {
       "shouldTranslate" : false
+    },
+    "Delay %lld" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Délai %lld"
+          }
+        }
+      }
     },
     "Deleting driver %@" : {
       "localizations" : {
@@ -6209,6 +6225,26 @@
         }
       }
     },
+    "Sequence Off" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Séquence Off"
+          }
+        }
+      }
+    },
+    "Sequence On" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Séquence On"
+          }
+        }
+      }
+    },
     "Services" : {
       "localizations" : {
         "de" : {
@@ -7172,6 +7208,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Onbekend"
+          }
+        }
+      }
+    },
+    "Unknown type %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type inconnu %@"
           }
         }
       }
