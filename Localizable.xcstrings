@@ -1017,6 +1017,16 @@
         }
       }
     },
+    "Available integrations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégrations disponibles"
+          }
+        }
+      }
+    },
     "Back" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3611,6 +3621,56 @@
     "INFO" : {
       "shouldTranslate" : false
     },
+    "Install" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer"
+          }
+        }
+      }
+    },
+    "Install integration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de l'intégration"
+          }
+        }
+      }
+    },
+    "Installation of integration done" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de l’intégration terminée"
+          }
+        }
+      }
+    },
+    "Installation of integration failed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’installation de l'intégration"
+          }
+        }
+      }
+    },
+    "Integration cannot be updated : no home page defined or not on GitHub" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’intégration ne peut pas être mise à jour : aucun site défini ou pas sur Github"
+          }
+        }
+      }
+    },
     "Integration settings will be erased" : {
       "localizations" : {
         "de" : {
@@ -4353,6 +4413,16 @@
         }
       }
     },
+    "No available information" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune information disponible"
+          }
+        }
+      }
+    },
     "No data available. Tap to reload" : {
       "localizations" : {
         "de" : {
@@ -4724,6 +4794,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouvrir l'application"
+          }
+        }
+      }
+    },
+    "Open integrations page" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir la page des intégrations"
           }
         }
       }
@@ -7518,6 +7598,16 @@
     },
     "WARNING" : {
       "shouldTranslate" : false
+    },
+    "Warning : these are community integrations, install and use them at your own risk." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attention : ce sont des intégrations crées par la communauté d’utilisateurs, installez-les et utilisez-les à vos risques & périls"
+          }
+        }
+      }
     },
     "Widget settings" : {
       "localizations" : {
