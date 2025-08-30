@@ -1745,6 +1745,12 @@
     },
     "Delay %lld" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ms Verzögerung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6227,6 +6233,12 @@
     },
     "Sequence Off" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausschalt-Sequenz"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6237,6 +6249,12 @@
     },
     "Sequence On" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einschalt-Sequenz"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7214,6 +7232,12 @@
     },
     "Unknown type %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Typ %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
