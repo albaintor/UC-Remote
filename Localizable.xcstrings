@@ -1019,6 +1019,12 @@
     },
     "Available integrations" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbare Integrationen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3623,6 +3629,12 @@
     },
     "Install" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3633,6 +3645,12 @@
     },
     "Install integration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integration installieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3643,6 +3661,12 @@
     },
     "Installation of integration done" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation der Integration fertiggestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3653,6 +3677,12 @@
     },
     "Installation of integration failed" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation der Integration fehlgeschlagen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3663,6 +3693,12 @@
     },
     "Integration cannot be updated : no home page defined or not on GitHub" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Integration kann nicht aktualisiert werden: Keine Homepage angegeben oder nicht auf GitHub"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4415,6 +4451,12 @@
     },
     "No available information" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Informationen verfügbar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4800,6 +4842,12 @@
     },
     "Open integrations page" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrationsseite öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7601,6 +7649,12 @@
     },
     "Warning : these are community integrations, install and use them at your own risk." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnung: Dies sind Community-Integrationen, deren Installation und Verwendung auf eigene Gefahr erfolgt."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
