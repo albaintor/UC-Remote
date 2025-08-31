@@ -439,6 +439,12 @@
     },
     "Remote mac address" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac-Adresse der Fernbedienung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
