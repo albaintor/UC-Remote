@@ -1017,22 +1017,6 @@
         }
       }
     },
-    "Available integrations" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfügbare Integrationen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intégrations disponibles"
-          }
-        }
-      }
-    },
     "Back" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1366,6 +1350,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Commando %@ fout"
+          }
+        }
+      }
+    },
+    "Community integrations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégrations de la communauté"
           }
         }
       }
@@ -1961,6 +1955,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ontdekte afstandsbedieningen"
+          }
+        }
+      }
+    },
+    "Do not leave this view while the installation is in progress" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne pas quitter cette vue tant que l’installation est en cours"
           }
         }
       }
@@ -3506,6 +3510,22 @@
         }
       }
     },
+    "Github rate limit reached (%d requests remaining), please wait until %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Github rate limit reached (%1$d requests remaining), please wait until %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite de Github atteinte (%1$d requêtes restantes), attendez jusqu’à %2$@"
+          }
+        }
+      }
+    },
     "HEAT" : {
       "localizations" : {
         "de" : {
@@ -4445,22 +4465,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aucune donnée disponible"
-          }
-        }
-      }
-    },
-    "No available information" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Keine Informationen verfügbar"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aucune information disponible"
           }
         }
       }

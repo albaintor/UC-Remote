@@ -325,6 +325,22 @@
         }
       }
     },
+    "Github rate limit reached (%d requests remaining), please wait until %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Github rate limit reached (%1$d requests remaining), please wait until %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite de Github atteinte (%1$d requêtes restantes), attendez jusqu’à %2$@"
+          }
+        }
+      }
+    },
     "Media Entity" : {
       "localizations" : {
         "de" : {
