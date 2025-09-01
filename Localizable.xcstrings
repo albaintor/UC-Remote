@@ -1356,6 +1356,12 @@
     },
     "Community integrations" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Community-Integrationen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1961,6 +1967,12 @@
     },
     "Do not leave this view while the installation is in progress" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlasse diese Ansicht nicht, während die Installation läuft"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3512,6 +3524,12 @@
     },
     "Github rate limit reached (%d requests remaining), please wait until %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github-Ratenlimit erreicht (%1$d verbleibende Anfragen). Bitte warte bis %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
