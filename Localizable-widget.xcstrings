@@ -327,6 +327,12 @@
     },
     "Github rate limit reached (%d requests remaining), please wait until %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github-Ratenlimit erreicht (%1$d verbleibende Anfragen). Bitte warte bis %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
