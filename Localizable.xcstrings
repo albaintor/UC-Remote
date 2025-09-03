@@ -3238,6 +3238,16 @@
         }
       }
     },
+    "Extract integration information" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraire les informations de l'intégration"
+          }
+        }
+      }
+    },
     "Extract logs" : {
       "localizations" : {
         "de" : {
@@ -5370,6 +5380,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geregistreerd token"
+          }
+        }
+      }
+    },
+    "Reinstall" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réinstaller"
           }
         }
       }
