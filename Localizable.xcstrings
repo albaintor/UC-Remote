@@ -1614,6 +1614,12 @@
     },
     "Could not extract current configuration from setup driver %@ : the integration may not support backup/restore" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die aktuelle Konfiguration konnte nicht aus der Einrichtung des Treibers %@ extrahiert werden: Die Integration unterstützt möglicherweise keine Sicherung/Wiederherstellung."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3288,6 +3294,12 @@
     },
     "Extracted configuration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration extrahiert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3298,6 +3310,12 @@
     },
     "Extracting configuration from setup driver %@..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrahiere Konfiguration aus der Einrichtung des Treibers %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3424,6 +3442,12 @@
     },
     "Failed to restore the current configuration of the integration driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die aktuelle Konfiguration des Integrationstreibers %@ konnte nicht wiederhergestellt werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5972,6 +5996,12 @@
     },
     "Restore current configuration (if supported)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Konfiguration wiederherstellen (sofern unterstützt)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6073,6 +6103,12 @@
     },
     "Save integrations setup" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrations-Einrichtung speichern"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6369,6 +6405,12 @@
     },
     "Select version" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version auswählen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6967,6 +7009,12 @@
     },
     "Starting driver setup to save current configuration %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starten der Treiber-Einrichtung, um die aktuelle Konfiguration zu speichern %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7031,6 +7079,12 @@
     },
     "Success of extraction of the current configuration for driver %@ to the remote %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfolgreiche Extraktion der aktuellen Konfiguration des Treibers %@ auf die Fernbedienung %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -7085,6 +7139,12 @@
     },
     "Successfully restored current configuration of the integration driver %@ to the remote %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfolgreiche Wiederherstellung der aktuellen Konfiguration des Integrationstreibers %@ auf die Fernbedienung %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -7270,6 +7330,12 @@
     },
     "This integration does not support extraction of configuration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Integration unterstützt keine Extraktion der Konfiguration"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7377,6 +7443,12 @@
     },
     "Unable to extract current configuration from setup driver %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die aktuelle Konfiguration kann nicht aus der Einrichtung des Treibers %@ extrahiert werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
