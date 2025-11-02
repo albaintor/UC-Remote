@@ -1612,6 +1612,16 @@
         }
       }
     },
+    "Could not extract current configuration from setup driver %@ : the integration may not support backup/restore" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire la configuration du pilote %@ : l’intégration ne gère peut-être pas la sauvegarde/restauration"
+          }
+        }
+      }
+    },
     "Couldn't extract update information" : {
       "localizations" : {
         "de" : {
@@ -3276,6 +3286,26 @@
         }
       }
     },
+    "Extracted configuration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration extraite"
+          }
+        }
+      }
+    },
+    "Extracting configuration from setup driver %@..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraction de la configuration du pilote %@"
+          }
+        }
+      }
+    },
     "Extracting drivers..." : {
       "localizations" : {
         "de" : {
@@ -3388,6 +3418,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Herstarten van de afstandsbediening is mislukt"
+          }
+        }
+      }
+    },
+    "Failed to restore the current configuration of the integration driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la restauration de la configuration active du pilote %@"
           }
         }
       }
@@ -5930,6 +5970,16 @@
         }
       }
     },
+    "Restore current configuration (if supported)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration de la configuration active (si pris en charge)"
+          }
+        }
+      }
+    },
     "Restore settings from iCloud" : {
       "localizations" : {
         "de" : {
@@ -6017,6 +6067,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lopende activiteiten"
+          }
+        }
+      }
+    },
+    "Save integrations setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarde de l’intégration"
           }
         }
       }
@@ -6303,6 +6363,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecteer de afstandsbediening die weergegeven moet worden"
+          }
+        }
+      }
+    },
+    "Select version" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner la version"
           }
         }
       }
@@ -6895,6 +6965,16 @@
         }
       }
     },
+    "Starting driver setup to save current configuration %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancement de la configuration du pilote %@ pour sauvegarder la configuration active"
+          }
+        }
+      }
+    },
     "Starting upload of integration driver to the remote %@..." : {
       "localizations" : {
         "de" : {
@@ -6949,6 +7029,22 @@
         }
       }
     },
+    "Success of extraction of the current configuration for driver %@ to the remote %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Success of extraction of the current configuration for driver %1$@ to the remote %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de l’extraction de la configuration active du pilote %1$@ vers la télécommande %2$@"
+          }
+        }
+      }
+    },
     "Success of upload of the integration driver %@ to the remote %@" : {
       "localizations" : {
         "de" : {
@@ -6983,6 +7079,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Succès de la suppression du pilote %@"
+          }
+        }
+      }
+    },
+    "Successfully restored current configuration of the integration driver %@ to the remote %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Successfully restored current configuration of the integration driver %1$@ to the remote %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès de la restauration de la configuration active du pilote %1$@ vers la télécommande %2$@"
           }
         }
       }
@@ -7156,6 +7268,16 @@
         }
       }
     },
+    "This integration does not support extraction of configuration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette intégration ne gère pas l’extraction de la configuration"
+          }
+        }
+      }
+    },
     "Toggle" : {
       "localizations" : {
         "de" : {
@@ -7249,6 +7371,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control entité"
+          }
+        }
+      }
+    },
+    "Unable to extract current configuration from setup driver %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire la configuration active du pilote %@"
           }
         }
       }
@@ -7622,22 +7754,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versie %@"
-          }
-        }
-      }
-    },
-    "Version %@ available" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Version %@ verfügbar"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Version %@ disponible"
           }
         }
       }
