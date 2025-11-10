@@ -1404,6 +1404,16 @@
         }
       }
     },
+    "Configuration of integrations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration des intégrations"
+          }
+        }
+      }
+    },
     "Configure remotes" : {
       "localizations" : {
         "de" : {
@@ -1608,6 +1618,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Koud"
+          }
+        }
+      }
+    },
+    "Copy to clipboard" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier vers le presse-papier"
           }
         }
       }
@@ -3254,6 +3274,16 @@
         }
       }
     },
+    "Extract configuration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraire la configuration"
+          }
+        }
+      }
+    },
     "Extract integration information" : {
       "localizations" : {
         "de" : {
@@ -3508,6 +3538,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uitzetten afstandsbediening mislukt"
+          }
+        }
+      }
+    },
+    "Failed to subscribe entities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec lors de la souscription des entités"
           }
         }
       }
@@ -3809,6 +3849,16 @@
         }
       }
     },
+    "Installation of integrations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation des intégrations"
+          }
+        }
+      }
+    },
     "Integration cannot be updated : no home page defined or not on GitHub" : {
       "localizations" : {
         "de" : {
@@ -3853,22 +3903,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mise à jour de l'intégration"
-          }
-        }
-      }
-    },
-    "Integrations" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integrationen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intégrations"
           }
         }
       }
@@ -5352,6 +5386,16 @@
         }
       }
     },
+    "Register available entitites" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrement des entités disponibles"
+          }
+        }
+      }
+    },
     "Register remote" : {
       "localizations" : {
         "de" : {
@@ -5450,6 +5494,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geregistreerd token"
+          }
+        }
+      }
+    },
+    "Registering entities..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrement des entités…"
           }
         }
       }
@@ -5994,18 +6048,18 @@
         }
       }
     },
-    "Restore current configuration (if supported)" : {
+    "Restore current configuration" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelle Konfiguration wiederherstellen (sofern unterstützt)"
+            "value" : "Aktuelle Konfiguration wiederherstellen"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restauration de la configuration active (si pris en charge)"
+            "value" : "Restauration de la configuration active"
           }
         }
       }
@@ -6101,18 +6155,22 @@
         }
       }
     },
-    "Save integrations setup" : {
+    "Running setup flow to extract current configuration..." : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integrations-Einrichtung speichern"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sauvegarde de l’intégration"
+            "value" : "Exécution du setup pour extraire la configuration actuelle…"
+          }
+        }
+      }
+    },
+    "Running setup flow to restore configuration..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exécution du setup pour restaurer la configuraiton..."
           }
         }
       }
@@ -7077,6 +7135,16 @@
         }
       }
     },
+    "Subscribed entities : %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités souscrites : %@"
+          }
+        }
+      }
+    },
     "Success of extraction of the current configuration for driver %@ to the remote %@" : {
       "localizations" : {
         "de" : {
@@ -7328,18 +7396,12 @@
         }
       }
     },
-    "This integration does not support extraction of configuration" : {
+    "There is none integration with backup support" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diese Integration unterstützt keine Extraktion der Konfiguration"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cette intégration ne gère pas l’extraction de la configuration"
+            "value" : "Il n’y a aucune intégration qui gère la sauvegarde"
           }
         }
       }
