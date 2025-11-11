@@ -1406,6 +1406,12 @@
     },
     "Configuration of integrations" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration von Integrationen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1624,6 +1630,12 @@
     },
     "Copy to clipboard" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Zwischenablage kopieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3276,6 +3288,12 @@
     },
     "Extract configuration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration extrahieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3289,7 +3307,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Integrations-Informationen entpacken"
+            "value" : "Integrations-Informationen extrahieren"
           }
         },
         "fr" : {
@@ -3544,6 +3562,12 @@
     },
     "Failed to subscribe entities" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten konnten nicht abonniert werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3554,6 +3578,12 @@
     },
     "Failed to subscribe entity %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Abonnieren der Entität %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3586,6 +3616,12 @@
     },
     "Failed to unsubscribe entity %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Deabonnieren der Entität %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3871,6 +3907,12 @@
     },
     "Installation of integrations" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation von Integrationen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5408,6 +5450,12 @@
     },
     "Register available entitites" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbare Entitäten registrieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5520,6 +5568,12 @@
     },
     "Registering entities..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten werden registriert…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6177,6 +6231,12 @@
     },
     "Running setup flow to extract current configuration..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung wird zum Extrahieren der aktuellen Konfiguration ausgeführt…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6187,6 +6247,12 @@
     },
     "Running setup flow to restore configuration..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung wird zum Wiederherstellen der Konfiguration ausgeführt…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7157,6 +7223,12 @@
     },
     "Subscribed entities : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abonnierte Entitäten: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7167,6 +7239,12 @@
     },
     "Subscribed entity : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abonnierte Entität: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7363,7 +7441,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu entpacken. Ohne Entpacken werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
+            "value" : "Tippe auf Ressourcen laden, um Bilder und Symbole von der Fernbedienung herunterzuladen und zu extrahieren. Ohne Extraktion werden die Bilder kurzfristig heruntergeladen, aber Symbole sind nicht verfügbar und werden nicht korrekt dargestellt."
           }
         },
         "en" : {
@@ -7428,6 +7506,12 @@
     },
     "There is none integration with backup support" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es gibt keine Integration mit Backup-Unterstützung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7726,6 +7810,12 @@
     },
     "Unsubscribe entity : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entität deabonnieren: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
