@@ -3552,6 +3552,16 @@
         }
       }
     },
+    "Failed to subscribe entity %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la souscription de l’entité %@"
+          }
+        }
+      }
+    },
     "Failed to sync settings" : {
       "localizations" : {
         "de" : {
@@ -3570,6 +3580,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echec de synchronization des paramètres"
+          }
+        }
+      }
+    },
+    "Failed to unsubscribe entity %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de la désouscription de l’entité %@"
           }
         }
       }
@@ -7145,6 +7165,16 @@
         }
       }
     },
+    "Subscribed entity : %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entité souscrite : %@"
+          }
+        }
+      }
+    },
     "Success of extraction of the current configuration for driver %@ to the remote %@" : {
       "localizations" : {
         "de" : {
@@ -7690,6 +7720,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Type inconnu %@"
+          }
+        }
+      }
+    },
+    "Unsubscribe entity : %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désouscription de l’entité : %"
           }
         }
       }
