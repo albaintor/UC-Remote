@@ -5450,6 +5450,12 @@
     },
     "Register all available entities" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle verfügbaren Entitäten registrieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6172,6 +6178,12 @@
     },
     "Restored entity names, icons and descriptions" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitätsnamen, Symbole und Beschreibungen wiederherstellen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6182,6 +6194,12 @@
     },
     "Restoring entities attributes..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitätsattribute werden wiederhergestellt…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
