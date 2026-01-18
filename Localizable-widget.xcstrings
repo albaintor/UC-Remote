@@ -138,6 +138,12 @@
             "value" : "Eine Entität zum Kontrollzentrum hinzufügen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir entidad al centro de control"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -159,6 +165,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Control entity"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control entidad"
           }
         },
         "fr" : {
@@ -339,6 +351,12 @@
             "value" : "Github rate limit reached (%1$d requests remaining), please wait until %2$@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite de Github alcanzado (%1$d solicitudes restantes), por favor espera hasta %2$@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -467,6 +485,12 @@
             "value" : "Mac-Adresse der Fernbedienung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección MAC del mando"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -539,6 +563,12 @@
             "value" : "Entität zum Bedienen auswählen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciona la entidad a controlar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -581,6 +611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausgewählte Entität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad seleccionada"
           }
         },
         "fr" : {
@@ -627,6 +663,12 @@
             "value" : "Status"
           }
         },
+         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -643,6 +685,12 @@
             "value" : "Alle Aktivitäten stoppen"
           }
         },
+         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener todas las actividades"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -654,6 +702,12 @@
     "U Remote Control" : {
       "localizations" : {
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control"
+          }
+        },
+         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control"
@@ -673,6 +727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control Entität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entidad"
           }
         },
         "fr" : {
