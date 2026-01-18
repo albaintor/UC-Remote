@@ -293,6 +293,12 @@
             "value" : "%@ Protokolle"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ registros"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -736,6 +742,12 @@
             "value" : "Eine Aktivität zum Kontrollzentrum hinzufügen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir una entidad al centro de control"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -818,6 +830,12 @@
             "value" : "Control entity"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control entidad"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +908,12 @@
             "value" : "Bist du sicher, dass du diese Integration löschen möchtest? Alle konfigurierten Geräte und Entitäten dieser Integration werden gelöscht"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Estas seguro de querer borrar esta integración? Todos los dispositivos configurados así como las entidades de esta, serán eliminadas"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -904,6 +928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bist du sicher, dass du die %@-Integration aktualisieren möchtest? Dadurch werden alle konfigurierten Geräte und Entitäten gelöscht und du musst die Integration erneut einrichten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Estás seguro de querer actualizar la integración %@? Esto eliminara todos los dispositivos configurado así como las entidades de esta, tendrás que volver a configurarlas de nuevo"
           }
         },
         "fr" : {
@@ -1116,6 +1146,12 @@
             "value" : "Abbrechen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1130,6 +1166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entfernten Host überprüfen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verifica el mando"
           }
         },
         "fr" : {
@@ -1337,7 +1379,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@Error de comando"
+            "value" : "%@ Error de comando"
           }
         },
         "fr" : {
@@ -1360,6 +1402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Community-Integrationen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integraciones de la comunidad"
           }
         },
         "fr" : {
@@ -1412,6 +1460,12 @@
             "value" : "Konfiguration von Integrationen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración de la integración"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1460,6 +1514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bestätigen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmar"
           }
         },
         "fr" : {
@@ -1636,6 +1696,12 @@
             "value" : "In Zwischenablage kopieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar al portapapeles"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1652,6 +1718,12 @@
             "value" : "Die aktuelle Konfiguration konnte nicht aus der Einrichtung des Treibers %@ extrahiert werden: Die Integration unterstützt möglicherweise keine Sicherung/Wiederherstellung."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No puede extraer la configuracion actual del driver %@ : la integración puede que no soporte backup/restore"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1666,6 +1738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisierungs-Informationen konnten nicht entpackt werden"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No puede extraer la información de actualización"
           }
         },
         "fr" : {
@@ -1815,6 +1893,12 @@
             "value" : "%lld ms Verzögerung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperar %lld"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1845,6 +1929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lösche Integration %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrando integracion %@"
           }
         },
         "fr" : {
@@ -2021,6 +2111,12 @@
             "value" : "Verlasse diese Ansicht nicht, während die Installation läuft"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No abandonar esta página mientras la instalacion esta en curso"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2091,6 +2187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ herunterladen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargando %@"
           }
         },
         "fr" : {
@@ -2550,6 +2652,12 @@
             "value" : "Fehler beim Löschen des Download-Ordners %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error mientras se borra la carpeta de descarga %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2564,6 +2672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Löschen des Treibers %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al eliminar el driver %@"
           }
         },
         "fr" : {
@@ -3000,6 +3114,12 @@
             "value" : "Fehler beim Ausschalten des Media Players"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al apagar el reproductor de medios"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3014,6 +3134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Ausschalten der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al apagar el mando"
           }
         },
         "fr" : {
@@ -3168,6 +3294,12 @@
             "value" : "Fehler beim Einschalten des Media Players"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al encender el reproductor de medios"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3184,6 +3316,12 @@
             "value" : "Fehler beim Einschalten der Fernbedienung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al encender el mando"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3198,6 +3336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Hochladen des Treibers %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al cargar el driver %@"
           }
         },
         "fr" : {
@@ -3294,6 +3438,12 @@
             "value" : "Konfiguration extrahieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraer configuración"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3308,6 +3458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Integrations-Informationen extrahieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraer información de la integración"
           }
         },
         "fr" : {
@@ -3348,6 +3504,12 @@
             "value" : "Konfiguration extrahiert"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración extraida"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3362,6 +3524,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Extrahiere Konfiguration aus der Einrichtung des Treibers %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrayendo configuración del driver %@..."
           }
         },
         "fr" : {
@@ -3380,6 +3548,12 @@
             "value" : "Entpacke Treiber..."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrayendo drivers..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3396,6 +3570,12 @@
             "value" : "Entpacke Integrations-Aktualisierungen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrayendo la actualización de la integración"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3410,6 +3590,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Herunterladen der aktualisierten Integration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al descargar la actualización de la integración"
           }
         },
         "fr" : {
@@ -3496,6 +3682,12 @@
             "value" : "Die aktuelle Konfiguration des Integrationstreibers %@ konnte nicht wiederhergestellt werden"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al restablecer la configuración acutal de la integración %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3568,6 +3760,12 @@
             "value" : "Entitäten konnten nicht abonniert werden"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al subscribirse a la entidad"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3582,6 +3780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Abonnieren der Entität %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al subscribirse a la entidad %@"
           }
         },
         "fr" : {
@@ -3620,6 +3824,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Deabonnieren der Entität %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo an borrar subscripcion entidad %@"
           }
         },
         "fr" : {
@@ -3704,6 +3914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Github-Ratenlimit erreicht (%1$d verbleibende Anfragen). Bitte warte bis %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite de Github alcanzado (%d solicitudes restantes), por favor espera hasta %@"
           }
         },
         "en" : {
@@ -3830,6 +4046,12 @@
             "value" : "Wenn du fortfährst, wird die Integration mit all ihren konfigurierten Geräten und Entitäten gelöscht. Du musst sie dann erneut konfigurieren. Die Zuordnung in Aktivitäten oder Profilseiten bleibt erhalten."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si continúas, se eliminará la integración junto con todos sus dispositivos y entidades configurados. Tendrás que volver a configurarla. Se conservará la asignación en las actividades o páginas de perfil."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3849,6 +4071,12 @@
             "value" : "Installieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3863,6 +4091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Integration installieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalar integración"
           }
         },
         "fr" : {
@@ -3881,6 +4115,12 @@
             "value" : "Installation der Integration fertiggestellt"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación de la integracion finalizada"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3895,6 +4135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Installation der Integration fehlgeschlagen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación de la integración falló"
           }
         },
         "fr" : {
@@ -3913,6 +4159,12 @@
             "value" : "Installation von Integrationen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación de la integración"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3927,6 +4179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die Integration kann nicht aktualisiert werden: Keine Homepage angegeben oder nicht auf GitHub"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La integración no puede ser actualizada: no hay pagina principal definida o no esta en Github"
           }
         },
         "fr" : {
@@ -3945,6 +4203,12 @@
             "value" : "Integrations-Einstellungen werden gelöscht"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La configuración de esta integracion será eliminada"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3961,6 +4225,12 @@
             "value" : "Integrations-Aktualisierung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar integración"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3975,6 +4245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Integrations-Einstellungen werden gelöscht"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La configuración de esta integración será eliminada"
           }
         },
         "fr" : {
@@ -4393,6 +4669,12 @@
             "value" : "Media Player ausgeschaltet"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproductor de medios apagado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4412,7 +4694,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproductor de medios cambio a %@"
+            "value" : "Reproductor de medios encendido"
           }
         },
         "fr" : {
@@ -4583,6 +4865,12 @@
             "value" : "New hostname updated for remote %1$@ : %2$@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva dirección para el mando %1$@ : %2$@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4631,6 +4919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neue Version verfügbar: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva versión disponible"
           }
         },
         "fr" : {
@@ -5044,6 +5338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Integrationsseite öffnen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir página integraciones"
           }
         },
         "fr" : {
@@ -5472,6 +5772,12 @@
             "value" : "Verfügbare Entitäten registrieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrar entidades disponibles"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5590,6 +5896,12 @@
             "value" : "Entitäten werden registriert…"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrando entidades"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5604,6 +5916,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neu installieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reinstalar"
           }
         },
         "fr" : {
@@ -5728,6 +6046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mac-Adresse der Fernbedienung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección MAC del mando"
           }
         },
         "fr" : {
@@ -5950,6 +6274,12 @@
             "value" : "Fernbedienung ausgeschaltet"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mando apagado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6146,6 +6476,12 @@
             "value" : "Aktuelle Konfiguration wiederherstellen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restablecer configuración actual"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6285,6 +6621,12 @@
             "value" : "Einrichtung wird zum Extrahieren der aktuellen Konfiguration ausgeführt…"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ejecutar proceso de configuración para extraer la configuración actual"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6299,6 +6641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einrichtung wird zum Wiederherstellen der Konfiguration ausgeführt…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ejecutando proceso para restaurar la configuración..."
           }
         },
         "fr" : {
@@ -6553,6 +6901,12 @@
             "value" : "Die Entität zum Bedienen auswählen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciona la entidad a controlar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6603,6 +6957,12 @@
             "value" : "Version auswählen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciona versión"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6651,6 +7011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ausgewählte Entität"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad seleccionada"
           }
         },
         "fr" : {
@@ -6725,6 +7091,12 @@
             "value" : "Ausschalt-Sequenz"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secuencia Off"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6739,6 +7111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einschalt-Sequenz"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secuencia On"
           }
         },
         "fr" : {
@@ -6833,6 +7211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellungen in der iCloud gespeichert"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración guardada en iCloud"
           }
         },
         "fr" : {
@@ -7175,6 +7559,12 @@
             "value" : "Aktivität beim Tippen auf das Symbol starten"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar actividad al pulsar sobre el icono"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7189,6 +7579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Starte mit dem Herunterladen des %@-Integrationstreibers"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciando descarga de integracion %@..."
           }
         },
         "fr" : {
@@ -7207,6 +7603,12 @@
             "value" : "Starten der Treiber-Einrichtung, um die aktuelle Konfiguration zu speichern %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciando configuracion de driver para grabaar configuración actual"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7223,6 +7625,12 @@
             "value" : "Starte mit dem Hochladen des Integrationstreibers auf die Fernbedienung %@..."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando integración al mando %@..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7237,6 +7645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Status"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
           }
         },
         "fr" : {
@@ -7277,6 +7691,12 @@
             "value" : "Abonnierte Entitäten: %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidades subscritas : %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7291,6 +7711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abonnierte Entität: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidad subscrita: %@"
           }
         },
         "fr" : {
@@ -7353,6 +7779,12 @@
             "value" : "Treiber %@ erfolgreich gelöscht"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El driver %@ se borro correctamente"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7373,6 +7805,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Successfully restored current configuration of the integration driver %1$@ to the remote %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se ha restaurado correctamente la configuración actual del controlador de integración %@ en el mando %@"
           }
         },
         "fr" : {
@@ -7560,6 +7998,12 @@
             "value" : "Es gibt keine Integration mit Backup-Unterstützung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay ninguna integracion que soporte backup"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7657,6 +8101,12 @@
             "value" : "U Remote Control Entität"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U Remote Control entidad"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7671,6 +8121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Die aktuelle Konfiguration kann nicht aus der Einrichtung des Treibers %@ extrahiert werden"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo extraer la configuración actual para el driver %@"
           }
         },
         "fr" : {
@@ -7792,6 +8248,12 @@
             "value" : "Unveränderter Hostname %1$@ für Fernbedienung %2$@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha cambiado la direccion para el mando %1$@ : %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -7848,6 +8310,12 @@
             "value" : "Unbekannter Typ %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo desconocido %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7862,6 +8330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entität deabonnieren: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrada subscripcion entridad: %@"
           }
         },
         "fr" : {
@@ -7880,6 +8354,12 @@
             "value" : "Auf dem neusten Stand"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7894,6 +8374,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar"
           }
         },
         "fr" : {
@@ -7912,6 +8398,12 @@
             "value" : "Aktualisierungs-Informationen fehlen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informacion de actualizacion inexistente"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7926,6 +8418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisierung der Integration fertiggestellt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizacion de la integracion realizada"
           }
         },
         "fr" : {
@@ -7944,6 +8442,12 @@
             "value" : "Aktualisierung der Integration fehlgeschlagen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La actualizacion de la integración ha fallado"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7958,6 +8462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Treiber auf die Fernbedienung hochladen..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando Driver al mando ..."
           }
         },
         "fr" : {
@@ -8135,6 +8645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Warnung: Dies sind Community-Integrationen, deren Installation und Verwendung auf eigene Gefahr erfolgt."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atención: Es una integración de la comunidad, instalarla y utilizala bajo tu responsabilidad"
           }
         },
         "fr" : {
