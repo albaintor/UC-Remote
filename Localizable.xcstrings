@@ -5448,6 +5448,16 @@
         }
       }
     },
+    "Register all available entities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer toutes les entités disponibles"
+          }
+        }
+      }
+    },
     "Register available entitites" : {
       "localizations" : {
         "de" : {
@@ -6156,6 +6166,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurer les paramètres depuis iCloud"
+          }
+        }
+      }
+    },
+    "Restored entity names, icons and descriptions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noms, icônes et descriptions des entités restaurés"
+          }
+        }
+      }
+    },
+    "Restoring entities attributes..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration des attributs des entités…"
           }
         }
       }
