@@ -4109,6 +4109,12 @@
     },
     "Installation in progress" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation läuft"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6905,6 +6911,12 @@
     },
     "Select option  %@ error" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Auswählen der Option %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
