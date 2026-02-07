@@ -3916,16 +3916,16 @@
             "value" : "Github-Ratenlimit erreicht (%1$d verbleibende Anfragen). Bitte warte bis %2$@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Límite de Github alcanzado (%d solicitudes restantes), por favor espera hasta %@"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Github rate limit reached (%1$d requests remaining), please wait until %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite de Github alcanzado (%d solicitudes restantes), por favor espera hasta %@"
           }
         },
         "fr" : {
@@ -4103,6 +4103,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Installation de l'intégration"
+          }
+        }
+      }
+    },
+    "Installation in progress" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation en cours"
           }
         }
       }
@@ -6893,6 +6903,16 @@
         }
       }
     },
+    "Select option  %@ error" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur sélection %@"
+          }
+        }
+      }
+    },
     "Select the entity to control" : {
       "localizations" : {
         "de" : {
@@ -8248,16 +8268,16 @@
             "value" : "Unveränderter Hostname %1$@ für Fernbedienung %2$@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No se ha cambiado la direccion para el mando %1$@ : %2$@"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Unchanged hostname for remote %1$@ : %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha cambiado la direccion para el mando %1$@ : %2$@"
           }
         },
         "fr" : {
