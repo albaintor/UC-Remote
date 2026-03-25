@@ -381,6 +381,16 @@
         }
       }
     },
+    "%lld entities" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld entités"
+          }
+        }
+      }
+    },
     "%lld resources extracted" : {
       "localizations" : {
         "de" : {
@@ -2103,28 +2113,6 @@
         }
       }
     },
-    "Do not leave this view while the installation is in progress" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verlasse diese Ansicht nicht, während die Installation läuft"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No abandonar esta página mientras la instalacion esta en curso"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ne pas quitter cette vue tant que l’installation est en cours"
-          }
-        }
-      }
-    },
     "Done" : {
       "localizations" : {
         "de" : {
@@ -2221,6 +2209,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Téléchargement des ressources"
+          }
+        }
+      }
+    },
+    "Downloads completed successfully" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargements terminés avec succès"
           }
         }
       }
@@ -2510,6 +2508,16 @@
         }
       }
     },
+    "Entities restored in profile pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entités restaurées dans les pages de profil"
+          }
+        }
+      }
+    },
     "Entity" : {
       "localizations" : {
         "de" : {
@@ -2572,6 +2580,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erreur"
+          }
+        }
+      }
+    },
+    "Error during downloads" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant les téléchargements"
           }
         }
       }
@@ -2752,6 +2770,32 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fout bij het openen van de klep"
+          }
+        }
+      }
+    },
+    "Error while restoring profile group  %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la restauration du groupe de profil %@"
+          }
+        }
+      }
+    },
+    "Error while restoring profile page %d %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error while restoring profile page %1$d %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant la restauration de la page de profil %1$d %2$@"
           }
         }
       }
@@ -3408,6 +3452,16 @@
         }
       }
     },
+    "Export logs to phone" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter les logs vers le téléphone"
+          }
+        }
+      }
+    },
     "Export Widgets settings" : {
       "localizations" : {
         "de" : {
@@ -3580,6 +3634,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Extraction des mises à jour d’intégrations..."
+          }
+        }
+      }
+    },
+    "Extracting profiles data to restore entities in pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraction des données des profils pour la restauration des entités dans les pages"
           }
         }
       }
@@ -4643,6 +4707,16 @@
         }
       }
     },
+    "Media Browser" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigateur média"
+          }
+        }
+      }
+    },
     "Media Entity" : {
       "localizations" : {
         "de" : {
@@ -4673,6 +4747,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Media entiteit"
+          }
+        }
+      }
+    },
+    "Media launched" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Média lancé"
           }
         }
       }
@@ -5558,6 +5642,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pincode"
+          }
+        }
+      }
+    },
+    "Play media %@ error" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur %@ lors de la lecture d’un média"
           }
         }
       }
@@ -6560,6 +6654,36 @@
         }
       }
     },
+    "Restoring entities in profile pages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration des entités dans les pages de profil"
+          }
+        }
+      }
+    },
+    "Restoring entities in profile pages..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration des entités dans les pages des profils"
+          }
+        }
+      }
+    },
+    "Retry update" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réessayer la mise à jour"
+          }
+        }
+      }
+    },
     "RUNNING" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -6668,7 +6792,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exécution du setup pour restaurer la configuraiton..."
+            "value" : "Exécution du setup pour restaurer la configuration..."
           }
         }
       }
@@ -6815,6 +6939,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entiteiten zoeken"
+          }
+        }
+      }
+    },
+    "Search media" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher des médias"
           }
         }
       }
