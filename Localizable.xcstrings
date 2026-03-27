@@ -383,6 +383,12 @@
     },
     "%lld entities" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Entitäten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2215,6 +2221,12 @@
     },
     "Downloads completed successfully" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloads erfolgreich abgeschlossen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2510,6 +2522,12 @@
     },
     "Entities restored in profile pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten auf Profilseiten wiederhergestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2586,6 +2604,12 @@
     },
     "Error during downloads" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Herunterladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2776,6 +2800,12 @@
     },
     "Error while restoring profile group  %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Wiederherstellen der Profilgruppe %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2786,6 +2816,12 @@
     },
     "Error while restoring profile page %d %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Wiederherstellen der Profilseite %1$d %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -3454,6 +3490,12 @@
     },
     "Export logs to phone" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle auf Smartphone exportieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3640,6 +3682,12 @@
     },
     "Extracting profiles data to restore entities in pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profildaten werden extrahiert, um Entitäten auf den Profilseiten wiederherzustellen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4709,6 +4757,12 @@
     },
     "Media Browser" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienbrowser"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4753,6 +4807,12 @@
     },
     "Media launched" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienwiedergabe gestartet"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5648,6 +5708,12 @@
     },
     "Play media %@ error" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler bei der Medienwiedergabe %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6656,6 +6722,12 @@
     },
     "Restoring entities in profile pages" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6666,6 +6738,12 @@
     },
     "Restoring entities in profile pages..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6676,6 +6754,12 @@
     },
     "Retry update" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisierung erneut starten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6945,6 +7029,12 @@
     },
     "Search media" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medien suchen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
