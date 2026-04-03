@@ -828,6 +828,26 @@
         }
       }
     },
+    "Album" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Album"
+          }
+        }
+      }
+    },
+    "Albums" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albums"
+          }
+        }
+      }
+    },
     "ALERT" : {
       "shouldTranslate" : false
     },
@@ -894,6 +914,16 @@
         }
       }
     },
+    "Apple Music" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Music"
+          }
+        }
+      }
+    },
     "Application will exit" : {
       "localizations" : {
         "de" : {
@@ -956,6 +986,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etes-vous sûr de vouloir mettre à jour l’intégration %@ ? Cela effacera tous les appareils et entités configurés, vous devrez les reconfigurer à nouveau"
+          }
+        }
+      }
+    },
+    "Artists" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artistes"
           }
         }
       }
@@ -2418,6 +2458,16 @@
         }
       }
     },
+    "Enable media server" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer le serveur média"
+          }
+        }
+      }
+    },
     "Entities" : {
       "localizations" : {
         "de" : {
@@ -3808,28 +3858,6 @@
         }
       }
     },
-    "Failed to save settings in iCloud" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen konnten nicht in der iCloud gespeichert werden"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fallo al guardar los ajustes en iCloud"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Echec de la sauvegarde des paramètres dans iCloud"
-          }
-        }
-      }
-    },
     "Failed to shutdown remote" : {
       "localizations" : {
         "de" : {
@@ -3948,6 +3976,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echec de la désouscription de l’entité %@"
+          }
+        }
+      }
+    },
+    "Failed to write settings to iCloud store" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’écriture des réglages dans iCloud"
           }
         }
       }
@@ -4887,6 +4925,16 @@
         }
       }
     },
+    "Media server port" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port du serveur média"
+          }
+        }
+      }
+    },
     "Media settings" : {
       "localizations" : {
         "de" : {
@@ -4973,6 +5021,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Model %@"
+          }
+        }
+      }
+    },
+    "Music" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musique"
+          }
+        }
+      }
+    },
+    "Music browser" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navigateur de musique"
           }
         }
       }
@@ -5756,6 +5824,16 @@
         }
       }
     },
+    "Playlists" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listes de lecture"
+          }
+        }
+      }
+    },
     "Port" : {
       "localizations" : {
         "de" : {
@@ -5920,6 +5998,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reconstruire le cache partagé"
+          }
+        }
+      }
+    },
+    "Refresh" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rafraichir"
           }
         }
       }
@@ -6104,6 +6192,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réinstaller"
+          }
+        }
+      }
+    },
+    "Reload remotes" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recharger les élécommandes"
           }
         }
       }
@@ -7043,6 +7141,16 @@
         }
       }
     },
+    "Search…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recherche…"
+          }
+        }
+      }
+    },
     "Select a profile" : {
       "localizations" : {
         "de" : {
@@ -7383,6 +7491,26 @@
         }
       }
     },
+    "Server is listening on port %u" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le serveur écoute sur le port %u"
+          }
+        }
+      }
+    },
+    "Server is not running" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le serveur n’est pas lancé"
+          }
+        }
+      }
+    },
     "Services" : {
       "localizations" : {
         "de" : {
@@ -7461,46 +7589,32 @@
         }
       }
     },
-    "Settings saved to iCloud" : {
+    "Settings queued for iCloud sync" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen in der iCloud gespeichert"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuración guardada en iCloud"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paramètres sauvegardés dans iCloud"
+            "value" : "Réglages envoyés vers iCloud"
           }
         }
       }
     },
-    "Settings saved to iCloud : %@" : {
+    "Settings restored from iCloud : %@" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einstellungen in der iCloud gespeichert: %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes guardados en iCloud : %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paramètres sauvegardés dans iCloud : %@"
+            "value" : "Réglages restaurés depuis iCloud"
+          }
+        }
+      }
+    },
+    "Settings saved locally, iCloud sync pending" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Résultats sauvegardés localement, synchronisation iCloud en attente"
           }
         }
       }
@@ -7667,6 +7781,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Echec Socket setup %@"
+          }
+        }
+      }
+    },
+    "Songs" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chansons"
           }
         }
       }
@@ -8264,6 +8388,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il n’y a aucune intégration qui gère la sauvegarde"
+          }
+        }
+      }
+    },
+    "Title, artist, album, playlist" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titre, artiste, album, liste"
+          }
+        }
+      }
+    },
+    "Titles" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titres"
           }
         }
       }
