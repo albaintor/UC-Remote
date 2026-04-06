@@ -830,6 +830,12 @@
     },
     "Album" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Album"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -840,6 +846,12 @@
     },
     "Albums" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alben"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -916,6 +928,12 @@
     },
     "Apple Music" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Music"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -992,6 +1010,12 @@
     },
     "Artists" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Künstler"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2460,6 +2484,12 @@
     },
     "Enable media server" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienserver aktivieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3751,7 +3781,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Herunterladen der aktualisierten Integration"
+            "value" : "Herunterladen der aktualisierten Integration fehlgeschlagen"
           }
         },
         "es" : {
@@ -3773,7 +3803,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung konnte nicht registriert werden"
+            "value" : "Registrierung der Fernbedienung fehlgeschlagen"
           }
         },
         "en" : {
@@ -3807,7 +3837,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung konnte nicht neu gestartet werden"
+            "value" : "Neustart des Fernbedienung fehlgeschlagen"
           }
         },
         "en" : {
@@ -3841,7 +3871,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die aktuelle Konfiguration des Integrationstreibers %@ konnte nicht wiederhergestellt werden"
+            "value" : "Wiederherstellung der aktuellen Konfiguration des Integrations-Treibers %@ fehlgeschlagen"
           }
         },
         "es" : {
@@ -3863,7 +3893,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fernbedienung konnte nicht ausgeschaltet werden"
+            "value" : "Ausschalten der Fernbedienung fehlgeschlagen"
           }
         },
         "en" : {
@@ -3897,7 +3927,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entitäten konnten nicht abonniert werden"
+            "value" : "Abonnieren der Entitäten fehlgeschlagen"
           }
         },
         "es" : {
@@ -3919,7 +3949,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Abonnieren der Entität %@"
+            "value" : "Abonnieren der Entität %@ fehlgeschlagen"
           }
         },
         "es" : {
@@ -3963,7 +3993,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fehler beim Deabonnieren der Entität %@"
+            "value" : "Deabonnieren der Entität %@ fehlgeschlagen"
           }
         },
         "es" : {
@@ -3982,6 +4012,12 @@
     },
     "Failed to write settings to iCloud store" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern der Einstellungen in die iCloud fehlgeschlagen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4927,6 +4963,12 @@
     },
     "Media server port" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienserver-Port"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5027,6 +5069,12 @@
     },
     "Music" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musik"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5037,6 +5085,12 @@
     },
     "Music browser" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musik-Browser"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5826,6 +5880,12 @@
     },
     "Playlists" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playlisten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6004,6 +6064,12 @@
     },
     "Refresh" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6198,6 +6264,12 @@
     },
     "Reload remotes" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fernbedienungen neuladen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7143,6 +7215,12 @@
     },
     "Search…" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suchen…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7493,6 +7571,12 @@
     },
     "Server is listening on port %u" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server läuft auf Port %u"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7503,6 +7587,12 @@
     },
     "Server is not running" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Server läuft nicht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7591,6 +7681,12 @@
     },
     "Settings queued for iCloud sync" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen in Warteschlange für die iCloud-Synchronisierung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7601,6 +7697,12 @@
     },
     "Settings restored from iCloud : %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen über iCloud wiederhergestellt: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7611,6 +7713,12 @@
     },
     "Settings saved locally, iCloud sync pending" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen lokal gespeichert, iCloud-Sync ausstehend"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7787,6 +7895,12 @@
     },
     "Songs" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lieder"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8394,6 +8508,12 @@
     },
     "Title, artist, album, playlist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel, Künstler, Album, Playlist"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8404,6 +8524,12 @@
     },
     "Titles" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
