@@ -1,4 +1,4 @@
-/{
+{
   "sourceLanguage" : "en",
   "strings" : {
     "" : {
@@ -234,6 +234,17 @@
       },
       "shouldTranslate" : false
     },
+    "%@ / %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ / %2$@"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
     "%@ %@" : {
       "localizations" : {
         "de" : {
@@ -275,12 +286,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Integrationen"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ integraciones"
           }
         },
         "fr" : {
@@ -393,12 +398,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld Entitäten"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld entidades"
           }
         },
         "fr" : {
@@ -864,12 +863,6 @@
             "value" : "Alben"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Álbumes"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -880,6 +873,16 @@
     },
     "ALERT" : {
       "shouldTranslate" : false
+    },
+    "App" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App"
+          }
+        }
+      }
     },
     "app_intents.intent.light.title" : {
       "extractionState" : "extracted_with_value",
@@ -952,16 +955,20 @@
             "value" : "Apple Music"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Music"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple Music"
+          }
+        }
+      }
+    },
+    "Apple music access refused." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accès à Apple Music refusé"
           }
         }
       }
@@ -1032,18 +1039,22 @@
         }
       }
     },
+    "Artist" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artiste"
+          }
+        }
+      }
+    },
     "Artists" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Künstler"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Artistas"
           }
         },
         "fr" : {
@@ -1270,6 +1281,26 @@
         }
       }
     },
+    "Canceled server" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serveur annulé"
+          }
+        }
+      }
+    },
+    "Channel" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaine"
+          }
+        }
+      }
+    },
     "Check remote host" : {
       "localizations" : {
         "de" : {
@@ -1332,6 +1363,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Effacer le cache"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
           }
         }
       }
@@ -1524,6 +1565,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégrations de la communauté"
+          }
+        }
+      }
+    },
+    "Composer" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compositeur"
           }
         }
       }
@@ -2017,18 +2068,22 @@
         }
       }
     },
+    "Delete remote" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer la télécommande"
+          }
+        }
+      }
+    },
     "Deleting driver %@" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lösche Treiber %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eliminando driver %@"
           }
         },
         "fr" : {
@@ -2185,6 +2240,16 @@
         }
       }
     },
+    "Directory" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Répertoire"
+          }
+        }
+      }
+    },
     "Discovered remotes" : {
       "localizations" : {
         "de" : {
@@ -2325,12 +2390,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Downloads erfolgreich abgeschlossen"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Descargas completadas con éxito"
           }
         },
         "fr" : {
@@ -2524,18 +2583,22 @@
         }
       }
     },
+    "Enable media player widget on overlay" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer le widget media dans les profils"
+          }
+        }
+      }
+    },
     "Enable media server" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Medienserver aktivieren"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activar servidor multimedia"
           }
         },
         "fr" : {
@@ -2656,12 +2719,6 @@
             "value" : "Entitäten auf Profilseiten wiederhergestellt"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entidades restauradas en las páginas de perfil"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2704,6 +2761,16 @@
         }
       }
     },
+    "Episode" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Episode"
+          }
+        }
+      }
+    },
     "ERR" : {
       "shouldTranslate" : false
     },
@@ -2742,12 +2809,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Herunterladen"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error durante las descargas"
           }
         },
         "fr" : {
@@ -2946,12 +3007,6 @@
             "value" : "Fehler beim Wiederherstellen der Profilgruppe %@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al restaurar el grupo de perfil %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2972,12 +3027,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Error while restoring profile page %1$d %2$@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al restaurar la página de perfil %1$d %2$@"
           }
         },
         "fr" : {
@@ -3648,12 +3697,6 @@
             "value" : "Protokolle auf Smartphone exportieren"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Exportar registros al teléfono"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3846,12 +3889,6 @@
             "value" : "Profildaten werden extrahiert, um Entitäten auf den Profilseiten wiederherzustellen"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Extrayendo datos de perfiles para restaurar entidades en las páginas"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4006,6 +4043,16 @@
         }
       }
     },
+    "Failed to start server %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de démarrage du serveur %@"
+          }
+        }
+      }
+    },
     "Failed to subscribe entities" : {
       "localizations" : {
         "de" : {
@@ -4102,12 +4149,6 @@
             "value" : "Speichern der Einstellungen in die iCloud fehlgeschlagen"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al guardar ajustes en iCloud"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4150,6 +4191,16 @@
         }
       }
     },
+    "Game" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeu"
+          }
+        }
+      }
+    },
     "General settings" : {
       "localizations" : {
         "de" : {
@@ -4180,6 +4231,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Algemene instellingen"
+          }
+        }
+      }
+    },
+    "Genre" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genre"
           }
         }
       }
@@ -4336,6 +4397,16 @@
         }
       }
     },
+    "Image" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image"
+          }
+        }
+      }
+    },
     "INFO" : {
       "shouldTranslate" : false
     },
@@ -4389,12 +4460,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Installation läuft"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instalación en curso"
           }
         },
         "fr" : {
@@ -4933,12 +4998,6 @@
             "value" : "Medienbrowser"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Explorador multimedia"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4987,12 +5046,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Medienwiedergabe gestartet"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reproducción iniciada"
           }
         },
         "fr" : {
@@ -5077,12 +5130,6 @@
             "value" : "Medienserver-Port"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Puerto del servidor multimedia"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5109,6 +5156,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réglages médias"
+          }
+        }
+      }
+    },
+    "Media widget start minimized" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrage réduit du widget média"
           }
         }
       }
@@ -5181,18 +5238,22 @@
         }
       }
     },
+    "Movie" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Film"
+          }
+        }
+      }
+    },
     "Music" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Musik"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Música"
           }
         },
         "fr" : {
@@ -5211,16 +5272,122 @@
             "value" : "Musik-Browser"
           }
         },
-        "es" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explorador de música"
+            "value" : "Navigateur de musique"
+          }
+        }
+      }
+    },
+    "music.filter.albums" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albums"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigateur de musique"
+            "value" : "Albums"
+          }
+        }
+      }
+    },
+    "music.filter.all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout"
+          }
+        }
+      }
+    },
+    "music.filter.artists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artists"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artistes"
+          }
+        }
+      }
+    },
+    "music.filter.playlists" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playlists"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listes de lecture"
+          }
+        }
+      }
+    },
+    "music.filter.songs" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Songs"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chansons"
+          }
+        }
+      }
+    },
+    "music.scope.catalog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catalog"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catalogue"
+          }
+        }
+      }
+    },
+    "music.scope.library" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User library"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bibliothèque utilisateur"
           }
         }
       }
@@ -5559,6 +5726,16 @@
     },
     "NOTICE" : {
       "shouldTranslate" : false
+    },
+    "Now playing" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lecture en cours"
+          }
+        }
+      }
     },
     "Numbers" : {
       "localizations" : {
@@ -5962,12 +6139,6 @@
             "value" : "Fehler bei der Medienwiedergabe %@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al reproducir %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6010,6 +6181,26 @@
         }
       }
     },
+    "Playing queue is empty" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste de lecture vide"
+          }
+        }
+      }
+    },
+    "Playlist" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste de lecture"
+          }
+        }
+      }
+    },
     "Playlists" : {
       "localizations" : {
         "de" : {
@@ -6018,16 +6209,20 @@
             "value" : "Playlisten"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Listas de reproducción"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Listes de lecture"
+          }
+        }
+      }
+    },
+    "Podcast" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podcast"
           }
         }
       }
@@ -6178,6 +6373,16 @@
         }
       }
     },
+    "Radio" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radio"
+          }
+        }
+      }
+    },
     "Rebuild shared cache" : {
       "localizations" : {
         "de" : {
@@ -6200,18 +6405,32 @@
         }
       }
     },
+    "Recently added" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouts récents"
+          }
+        }
+      }
+    },
+    "Recently played" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lectures récentes"
+          }
+        }
+      }
+    },
     "Refresh" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisieren"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizar"
           }
         },
         "fr" : {
@@ -6228,12 +6447,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle verfügbaren Entitäten registrieren"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Registrar todas las entidades disponibles"
           }
         },
         "fr" : {
@@ -6418,12 +6631,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fernbedienungen neuladen"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recargar mandos"
           }
         },
         "fr" : {
@@ -7022,12 +7229,6 @@
             "value" : "Entitätsnamen, Symbole und Beschreibungen wiederherstellen"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nombres, iconos y descripciones de entidades restaurados"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7042,12 +7243,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entitätsattribute werden wiederhergestellt…"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurando atributos de entidades..."
           }
         },
         "fr" : {
@@ -7066,12 +7261,6 @@
             "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurando entidades en las páginas de perfil"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7088,12 +7277,6 @@
             "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurando entidades en las páginas de perfil..."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7108,12 +7291,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisierung erneut starten"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reintentar actualización"
           }
         },
         "fr" : {
@@ -7391,12 +7568,6 @@
             "value" : "Medien suchen"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buscar contenido multimedia"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7413,16 +7584,20 @@
             "value" : "Suchen…"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buscar…"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recherche…"
+          }
+        }
+      }
+    },
+    "Season" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saison"
           }
         }
       }
@@ -7523,12 +7698,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Auswählen der Option %@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al seleccionar la opción %@"
           }
         },
         "fr" : {
@@ -7781,12 +7950,6 @@
             "value" : "Der Server läuft auf Port %u"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "El servidor escucha en el puerto %u"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7801,12 +7964,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Der Server läuft nicht"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "El servidor no está en ejecución"
           }
         },
         "fr" : {
@@ -7903,12 +8060,6 @@
             "value" : "Einstellungen in Warteschlange für die iCloud-Synchronisierung"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes en cola para sincronización con iCloud"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7925,12 +8076,6 @@
             "value" : "Einstellungen über iCloud wiederhergestellt: %@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes restaurados desde iCloud: %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7945,12 +8090,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellungen lokal gespeichert, iCloud-Sync ausstehend"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ajustes guardados localmente, sincronización con iCloud pendiente"
           }
         },
         "fr" : {
@@ -8133,12 +8272,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lieder"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canciones"
           }
         },
         "fr" : {
@@ -8475,12 +8608,6 @@
             "value" : "Success of extraction of the current configuration for driver %1$@ to the remote %2$@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Extracción correcta de la configuración actual del driver %1$@ al mando %2$@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8501,12 +8628,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Success of upload of the integration driver %1$@ to the remote %2$@"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Carga correcta del driver de integración %1$@ al mando %2$@"
           }
         },
         "fr" : {
@@ -8766,12 +8887,6 @@
             "value" : "Titel, Künstler, Album, Playlist"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Título, artista, álbum, lista de reproducción"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8786,12 +8901,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Titel"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Títulos"
           }
         },
         "fr" : {
@@ -8876,6 +8985,36 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Touchpad"
+          }
+        }
+      }
+    },
+    "Track" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chanson"
+          }
+        }
+      }
+    },
+    "TV Show" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Série"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
           }
         }
       }
@@ -9268,6 +9407,16 @@
         }
       }
     },
+    "URL" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        }
+      }
+    },
     "Use physical volume buttons to change volume" : {
       "localizations" : {
         "de" : {
@@ -9366,6 +9515,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versie %@"
+          }
+        }
+      }
+    },
+    "Video" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidéo"
           }
         }
       }
