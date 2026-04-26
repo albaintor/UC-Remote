@@ -1,4 +1,4 @@
-{
+/{
   "sourceLanguage" : "en",
   "strings" : {
     "" : {
@@ -277,6 +277,12 @@
             "value" : "%@ Integrationen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ integraciones"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -387,6 +393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld Entitäten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld entidades"
           }
         },
         "fr" : {
@@ -852,6 +864,12 @@
             "value" : "Alben"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Álbumes"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -929,6 +947,12 @@
     "Apple Music" : {
       "localizations" : {
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Music"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple Music"
@@ -1014,6 +1038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Künstler"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artistas"
           }
         },
         "fr" : {
@@ -1995,6 +2025,12 @@
             "value" : "Lösche Treiber %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminando driver %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2291,6 +2327,12 @@
             "value" : "Downloads erfolgreich abgeschlossen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargas completadas con éxito"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2490,6 +2532,12 @@
             "value" : "Medienserver aktivieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar servidor multimedia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2608,6 +2656,12 @@
             "value" : "Entitäten auf Profilseiten wiederhergestellt"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entidades restauradas en las páginas de perfil"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2688,6 +2742,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Herunterladen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error durante las descargas"
           }
         },
         "fr" : {
@@ -2886,6 +2946,12 @@
             "value" : "Fehler beim Wiederherstellen der Profilgruppe %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al restaurar el grupo de perfil %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2906,6 +2972,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Error while restoring profile page %1$d %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al restaurar la página de perfil %1$d %2$@"
           }
         },
         "fr" : {
@@ -3576,6 +3648,12 @@
             "value" : "Protokolle auf Smartphone exportieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar registros al teléfono"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3766,6 +3844,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profildaten werden extrahiert, um Entitäten auf den Profilseiten wiederherzustellen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrayendo datos de perfiles para restaurar entidades en las páginas"
           }
         },
         "fr" : {
@@ -4016,6 +4100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Speichern der Einstellungen in die iCloud fehlgeschlagen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al guardar ajustes en iCloud"
           }
         },
         "fr" : {
@@ -4299,6 +4389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Installation läuft"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación en curso"
           }
         },
         "fr" : {
@@ -4837,6 +4933,12 @@
             "value" : "Medienbrowser"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorador multimedia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4885,6 +4987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Medienwiedergabe gestartet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproducción iniciada"
           }
         },
         "fr" : {
@@ -4967,6 +5075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Medienserver-Port"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puerto del servidor multimedia"
           }
         },
         "fr" : {
@@ -5075,6 +5189,12 @@
             "value" : "Musik"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Música"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5089,6 +5209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Musik-Browser"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorador de música"
           }
         },
         "fr" : {
@@ -5836,6 +5962,12 @@
             "value" : "Fehler bei der Medienwiedergabe %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al reproducir %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5884,6 +6016,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Playlisten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listas de reproducción"
           }
         },
         "fr" : {
@@ -6070,6 +6208,12 @@
             "value" : "Aktualisieren"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6084,6 +6228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle verfügbaren Entitäten registrieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrar todas las entidades disponibles"
           }
         },
         "fr" : {
@@ -6268,6 +6418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fernbedienungen neuladen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recargar mandos"
           }
         },
         "fr" : {
@@ -6866,6 +7022,12 @@
             "value" : "Entitätsnamen, Symbole und Beschreibungen wiederherstellen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombres, iconos y descripciones de entidades restaurados"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6880,6 +7042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entitätsattribute werden wiederhergestellt…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurando atributos de entidades..."
           }
         },
         "fr" : {
@@ -6898,6 +7066,12 @@
             "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurando entidades en las páginas de perfil"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6914,6 +7088,12 @@
             "value" : "Entitäten auf Profilseiten werden wiederhergestellt"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurando entidades en las páginas de perfil..."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6928,6 +7108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktualisierung erneut starten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar actualización"
           }
         },
         "fr" : {
@@ -7205,6 +7391,12 @@
             "value" : "Medien suchen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar contenido multimedia"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7219,6 +7411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suchen…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar…"
           }
         },
         "fr" : {
@@ -7325,6 +7523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fehler beim Auswählen der Option %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al seleccionar la opción %@"
           }
         },
         "fr" : {
@@ -7577,6 +7781,12 @@
             "value" : "Der Server läuft auf Port %u"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El servidor escucha en el puerto %u"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7591,6 +7801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Der Server läuft nicht"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El servidor no está en ejecución"
           }
         },
         "fr" : {
@@ -7687,6 +7903,12 @@
             "value" : "Einstellungen in Warteschlange für die iCloud-Synchronisierung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes en cola para sincronización con iCloud"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7703,6 +7925,12 @@
             "value" : "Einstellungen über iCloud wiederhergestellt: %@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes restaurados desde iCloud: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7717,6 +7945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellungen lokal gespeichert, iCloud-Sync ausstehend"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes guardados localmente, sincronización con iCloud pendiente"
           }
         },
         "fr" : {
@@ -7899,6 +8133,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lieder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canciones"
           }
         },
         "fr" : {
@@ -8235,6 +8475,12 @@
             "value" : "Success of extraction of the current configuration for driver %1$@ to the remote %2$@"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extracción correcta de la configuración actual del driver %1$@ al mando %2$@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8255,6 +8501,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Success of upload of the integration driver %1$@ to the remote %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carga correcta del driver de integración %1$@ al mando %2$@"
           }
         },
         "fr" : {
@@ -8514,6 +8766,12 @@
             "value" : "Titel, Künstler, Album, Playlist"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título, artista, álbum, lista de reproducción"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8528,6 +8786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Titel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Títulos"
           }
         },
         "fr" : {
