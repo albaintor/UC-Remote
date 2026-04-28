@@ -2711,6 +2711,16 @@
         }
       }
     },
+    "Enable permanent connection on all registered remotes" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer la connexion permanente à toutes les télécommandes enregistrées"
+          }
+        }
+      }
+    },
     "Entities" : {
       "localizations" : {
         "de" : {
