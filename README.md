@@ -1,6 +1,6 @@
 #  U Remote Control
 
-<a href="https://apps.apple.com/us/app/u-remote-control/id6740058993"><img width="60" height="60" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/da/6d/bfda6d6f-7401-dda6-d8ca-c1f0b60f196c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/248x248bb.webp"/></a> Unofficial Unfolded Circle Remote iOS app
+<a href="https://apps.apple.com/us/app/u-remote-control/id6740058993"><img width="60" height="60" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/da/6d/bfda6d6f-7401-dda6-d8ca-c1f0b60f196c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/248x248bb.webp"/></a> Unofficial Unfolded Circle Remote iOS, iPadOS, watchOS, tvOS app
 
 [Download from App Store](https://apps.apple.com/us/app/u-remote-control/id6740058993)
 
@@ -128,6 +128,12 @@ From this menu you can access to :
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/2730a79a-3276-4a87-9a98-d4de65c205f7"/>
 </p>
 
+# Media browsing & searching
+
+For integrations supporting media browsing & searching (eg : Kodi, some Home Assistant media players, Zidoo...), a browse button will be displayed in the media player view. Tapping on it will raise a popup that lets search or navigating into media libraries :
+
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/47f104ca-69b1-403c-ad8b-5e695acb054a" />
+
 
 # Widgets & Live Activities
 
@@ -169,4 +175,9 @@ Then you can search and add or remove entities to the widget page from there. Yo
 </p>
 
 
+# Apple TV
 
+An Apple TV version is also available. It is more limited than the iOS / iPadOS or watchOS version as navigation can only be done with the direction pad.
+
+A new feature is available : the media server. It lets control the playback of your Apple Music and navigating into the music library or catalog.
+You have to install a customized version of the Apple TV integration on the remote : see here https://github.com/albaintor/integration-appletv
