@@ -525,6 +525,16 @@
         }
       }
     },
+    "Abort setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abandonner le setup"
+          }
+        }
+      }
+    },
     "Action" : {
       "localizations" : {
         "de" : {
@@ -2970,6 +2980,16 @@
     "ERR" : {
       "shouldTranslate" : false
     },
+    "Error" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur"
+          }
+        }
+      }
+    },
     "ERROR" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4684,6 +4704,16 @@
     "INFO" : {
       "shouldTranslate" : false
     },
+    "Initialization" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Initialisation"
+          }
+        }
+      }
+    },
     "Install" : {
       "localizations" : {
         "de" : {
@@ -5924,6 +5954,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nouvelle version disponible : %@"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prochaine étape"
+          }
+        }
+      }
+    },
+    "No" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non"
           }
         }
       }
@@ -7851,6 +7901,16 @@
         }
       }
     },
+    "Running" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En cours"
+          }
+        }
+      }
+    },
     "RUNNING" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -8754,6 +8814,36 @@
         }
       }
     },
+    "Setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup"
+          }
+        }
+      }
+    },
+    "Setup %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup %@"
+          }
+        }
+      }
+    },
+    "Setup complete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setup terminé"
+          }
+        }
+      }
+    },
     "Show commands on media player widget" : {
       "localizations" : {
         "de" : {
@@ -9000,6 +9090,16 @@
         }
       }
     },
+    "Start" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrage"
+          }
+        }
+      }
+    },
     "Start activity when opening" : {
       "localizations" : {
         "de" : {
@@ -9052,6 +9152,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démarrer l’activité en touchant l’icône"
+          }
+        }
+      }
+    },
+    "Start setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancer le setup"
           }
         }
       }
@@ -9162,6 +9272,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stopper les activités"
+          }
+        }
+      }
+    },
+    "Stopped" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrêté"
           }
         }
       }
@@ -9776,6 +9896,26 @@
         }
       }
     },
+    "Unable to extract response from setup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire la réponse du setup"
+          }
+        }
+      }
+    },
+    "Unable to extract setup data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire les données du setup"
+          }
+        }
+      }
+    },
     "unavailable" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -10334,6 +10474,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget-instellingen"
+          }
+        }
+      }
+    },
+    "Yes" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oui"
           }
         }
       }
