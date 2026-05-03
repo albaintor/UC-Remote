@@ -527,6 +527,12 @@
     },
     "Abort setup" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung abbrechen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2982,6 +2988,12 @@
     },
     "Error" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4706,6 +4718,12 @@
     },
     "Initialization" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Initialisierung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5960,6 +5978,12 @@
     },
     "Next" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5970,6 +5994,12 @@
     },
     "No" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nein"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7903,6 +7933,12 @@
     },
     "Running" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läuft"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8816,6 +8852,12 @@
     },
     "Setup" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8826,6 +8868,12 @@
     },
     "Setup %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8836,6 +8884,12 @@
     },
     "Setup complete" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung abgeschlossen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9092,6 +9146,12 @@
     },
     "Start" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9158,6 +9218,12 @@
     },
     "Start setup" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtung starten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9278,6 +9344,12 @@
     },
     "Stopped" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestoppt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9898,6 +9970,12 @@
     },
     "Unable to extract response from setup" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antwort kann nicht von der Einrichtung abgerufen werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9908,6 +9986,12 @@
     },
     "Unable to extract setup data" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichtungsdaten können nicht abgerufen werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10480,6 +10564,12 @@
     },
     "Yes" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
