@@ -3305,6 +3305,16 @@
         }
       }
     },
+    "Error while starting driver configuration %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur pendant le démarrage de la configuration de %@"
+          }
+        }
+      }
+    },
     "Error while switching off" : {
       "localizations" : {
         "de" : {
@@ -4754,24 +4764,12 @@
         }
       }
     },
-    "Install integration" : {
+    "Install integration %@" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integration installieren"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instalar integración"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installation de l'intégration"
+            "value" : "Installation de l'intégration %@"
           }
         }
       }
@@ -4908,24 +4906,12 @@
         }
       }
     },
-    "Integration update" : {
+    "Integration update %@" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integrations-Aktualisierung"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizar integración"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mise à jour de l'intégration"
+            "value" : "Mise à jour de l'intégration %@"
           }
         }
       }
