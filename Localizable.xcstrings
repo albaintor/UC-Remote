@@ -2800,6 +2800,12 @@
             "state" : "translated",
             "value" : "Activer la connexion permanente à toutes les télécommandes enregistrées"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar conexión permanente en todos los mandos registrados"
+          }
         }
       }
     },
