@@ -337,6 +337,9 @@
         }
       }
     },
+    "Entity id" : {
+
+    },
     "Github rate limit reached (%d requests remaining), please wait until %@" : {
       "localizations" : {
         "de" : {
@@ -663,7 +666,7 @@
             "value" : "Status"
           }
         },
-         "es" : {
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estado"
@@ -685,7 +688,7 @@
             "value" : "Alle Aktivitäten stoppen"
           }
         },
-         "es" : {
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Detener todas las actividades"
@@ -707,7 +710,7 @@
             "value" : "U Remote Control"
           }
         },
-         "es" : {
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "U Remote Control"

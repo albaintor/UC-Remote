@@ -358,6 +358,16 @@
         }
       }
     },
+    "%@ was installed successfully." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ a été installé avec succès."
+          }
+        }
+      }
+    },
     "%f" : {
       "shouldTranslate" : false
     },
@@ -1075,24 +1085,38 @@
         }
       }
     },
-    "Are you sure you want to update %@ integration ? This will erase all the configured devices and entities, you will have to set it up again" : {
+    "Are you sure you want to install version %@ of %@ integration ?" : {
       "localizations" : {
-        "de" : {
+        "en" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bist du sicher, dass du die %@-Integration aktualisieren möchtest? Dadurch werden alle konfigurierten Geräte und Entitäten gelöscht und du musst die Integration erneut einrichten"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Estás seguro de querer actualizar la integración %@? Esto eliminara todos los dispositivos configurado así como las entidades de esta, tendrás que volver a configurarlas de nuevo"
+            "state" : "new",
+            "value" : "Are you sure you want to install version %1$@ of %2$@ integration ?"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etes-vous sûr de vouloir mettre à jour l’intégration %@ ? Cela effacera tous les appareils et entités configurés, vous devrez les reconfigurer à nouveau"
+            "value" : "Etes-vous sûr de vouloir installer la version %1$@ de l’intégration %2$@ ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to reinstall %@ integration ?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etes-vous sûr de vouloir réinstaller l’intégration %@ ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to update %@ integration ?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etes vous sûr de vouloir mettre à jour l’intégration %@ ?"
           }
         }
       }
@@ -1659,6 +1683,16 @@
         }
       }
     },
+    "Commands" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commandes"
+          }
+        }
+      }
+    },
     "Community integrations" : {
       "localizations" : {
         "de" : {
@@ -1677,6 +1711,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégrations de la communauté"
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
           }
         }
       }
@@ -1811,6 +1855,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confirmer"
+          }
+        }
+      }
+    },
+    "Confirm integration installation" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmation de l’installation de l'intégration"
           }
         }
       }
@@ -2538,6 +2592,16 @@
         }
       }
     },
+    "Downloading…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargement…"
+          }
+        }
+      }
+    },
     "Downloads completed successfully" : {
       "localizations" : {
         "de" : {
@@ -2960,6 +3024,9 @@
           }
         }
       }
+    },
+    "Entity id" : {
+      "shouldTranslate" : false
     },
     "Episode" : {
       "localizations" : {
@@ -4165,6 +4232,16 @@
         }
       }
     },
+    "Failed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec"
+          }
+        }
+      }
+    },
     "Failed to download updated integration" : {
       "localizations" : {
         "de" : {
@@ -4685,28 +4762,6 @@
         }
       }
     },
-    "If you proceed the integration will be erased with all its configured devices and entities. You will have to reconfigure it again. Mapping in activities or profile pages will be preserved." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wenn du fortfährst, wird die Integration mit all ihren konfigurierten Geräten und Entitäten gelöscht. Du musst sie dann erneut konfigurieren. Die Zuordnung in Aktivitäten oder Profilseiten bleibt erhalten."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si continúas, se eliminará la integración junto con todos sus dispositivos y entidades configurados. Tendrás que volver a configurarla. Se conservará la asignación en las actividades o páginas de perfil."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si vous continuez l’intégration sera effacée avec tous ses appareils et entités configurés. Vous devrez les reconfigurer à nouveau. L’association dans les activités et les pages de profils seront préservés"
-          }
-        }
-      }
-    },
     "Image" : {
       "localizations" : {
         "de" : {
@@ -4796,6 +4851,16 @@
         }
       }
     },
+    "Installation of %@ failed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’installation de %@."
+          }
+        }
+      }
+    },
     "Installation of integration done" : {
       "localizations" : {
         "de" : {
@@ -4862,6 +4927,26 @@
         }
       }
     },
+    "Installing %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de %@"
+          }
+        }
+      }
+    },
+    "Integration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégration"
+          }
+        }
+      }
+    },
     "Integration cannot be updated : no home page defined or not on GitHub" : {
       "localizations" : {
         "de" : {
@@ -4884,24 +4969,32 @@
         }
       }
     },
-    "Integration settings will be erased" : {
+    "Integration installation cancelled" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integrations-Einstellungen werden gelöscht"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La configuración de esta integracion será eliminada"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les paramètres de l’intégration seront effacés"
+            "value" : "Installation de l’intégration annulée"
+          }
+        }
+      }
+    },
+    "Integration installation completed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de l’intégration terminée"
+          }
+        }
+      }
+    },
+    "Integration installation failed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Echec de l’installation de l'intégration"
           }
         }
       }
@@ -4968,6 +5061,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Interface"
+          }
+        }
+      }
+    },
+    "Invalid integration download URL" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL de téléchargement d’intégration invalide"
           }
         }
       }
@@ -7183,6 +7286,16 @@
         }
       }
     },
+    "Registering entities…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrement des entités..."
+          }
+        }
+      }
+    },
     "Reinstall" : {
       "localizations" : {
         "de" : {
@@ -7763,28 +7876,6 @@
         }
       }
     },
-    "Restore current configuration" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktuelle Konfiguration wiederherstellen"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restablecer configuración actual"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restauration de la configuration active"
-          }
-        }
-      }
-    },
     "Restore settings from iCloud" : {
       "localizations" : {
         "de" : {
@@ -7825,6 +7916,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noms, icônes et descriptions des entités restaurés"
+          }
+        }
+      }
+    },
+    "Restoring configuration…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration de la configuration…"
           }
         }
       }
@@ -7891,6 +7992,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restauration des entités dans les pages des profils"
+          }
+        }
+      }
+    },
+    "Restoring entity settings…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration des paramètres des entités…"
+          }
+        }
+      }
+    },
+    "Restoring profiles…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration des profils…"
           }
         }
       }
@@ -8064,6 +8185,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sauvegarder les paramètres dans iCloud"
+          }
+        }
+      }
+    },
+    "Saving configuration…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarde de la configuration..."
           }
         }
       }
@@ -9262,6 +9393,16 @@
         }
       }
     },
+    "Starting integration installation…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancement de l’installation de l’intégration..."
+          }
+        }
+      }
+    },
     "Starting upload of integration driver to the remote %@..." : {
       "localizations" : {
         "de" : {
@@ -9280,6 +9421,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chargement de l’intégration sur la télécommande %@ …"
+          }
+        }
+      }
+    },
+    "Starting…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrage..."
           }
         }
       }
@@ -10205,6 +10356,16 @@
         }
       }
     },
+    "Update existing integration and preserve configuration" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mettre à jour l’intégration existante et préserver la configuration"
+          }
+        }
+      }
+    },
     "Update information is missing" : {
       "localizations" : {
         "de" : {
@@ -10222,7 +10383,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informations de mise à jour manquants"
+            "value" : "Informations de mise à jour manquantes"
           }
         }
       }
@@ -10271,6 +10432,16 @@
         }
       }
     },
+    "Updating %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise à jour %@"
+          }
+        }
+      }
+    },
     "Uploading driver to the remote..." : {
       "localizations" : {
         "de" : {
@@ -10293,6 +10464,16 @@
         }
       }
     },
+    "Uploading to remote…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement vers la télécommande…"
+          }
+        }
+      }
+    },
     "URL" : {
       "localizations" : {
         "de" : {
@@ -10305,6 +10486,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "URL"
+          }
+        }
+      }
+    },
+    "Use custom backup/restore instead of native update (not recommended)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser le système de sauvegarde/restauration personnalisée à la place (pas recommandé)"
           }
         }
       }
