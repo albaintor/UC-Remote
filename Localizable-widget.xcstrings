@@ -338,7 +338,14 @@
       }
     },
     "Entity id" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entitäts-ID"
+          }
+        }
+      }
     },
     "Github rate limit reached (%d requests remaining), please wait until %@" : {
       "localizations" : {
