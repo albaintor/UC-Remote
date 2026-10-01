@@ -2534,6 +2534,26 @@
         }
       }
     },
+    "Dismiss" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masquer"
+          }
+        }
+      }
+    },
+    "Display Media Widget" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher le Widget Média"
+          }
+        }
+      }
+    },
     "Done" : {
       "localizations" : {
         "de" : {
@@ -4788,6 +4808,16 @@
         }
       }
     },
+    "Hide Media Widget" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masquer le Widget Média"
+          }
+        }
+      }
+    },
     "Host" : {
       "localizations" : {
         "de" : {
@@ -4840,6 +4870,16 @@
     },
     "INFO" : {
       "shouldTranslate" : false
+    },
+    "Information" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information"
+          }
+        }
+      }
     },
     "Initialization" : {
       "localizations" : {
@@ -5727,6 +5767,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démarrage réduit du widget média"
+          }
+        }
+      }
+    },
+    "Menu" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
           }
         }
       }
@@ -8567,40 +8617,6 @@
         }
       }
     },
-    "Select a profile page" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eine Profilseite auswählen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select a profile page"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccionar una página de perfil"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sélectionner une page de profil"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer een profielpagina"
-          }
-        }
-      }
-    },
     "Select boot entries" : {
       "localizations" : {
         "de" : {
@@ -9203,6 +9219,16 @@
         }
       }
     },
+    "Show the grid" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Affiche la grille"
+          }
+        }
+      }
+    },
     "Shutdown remote" : {
       "localizations" : {
         "de" : {
@@ -9691,6 +9717,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entité souscrite : %@"
+          }
+        }
+      }
+    },
+    "Success" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Succès"
           }
         }
       }
@@ -10856,6 +10892,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wek afstandsbediening"
+          }
+        }
+      }
+    },
+    "Warning" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alerte"
           }
         }
       }
