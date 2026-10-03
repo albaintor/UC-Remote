@@ -2536,6 +2536,12 @@
     },
     "Dismiss" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2546,6 +2552,12 @@
     },
     "Display Media Widget" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienwiedergabe-Widget anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4810,6 +4822,12 @@
     },
     "Hide Media Widget" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medienwiedergabe-Widget ausblenden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4873,6 +4891,12 @@
     },
     "Information" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5773,6 +5797,12 @@
     },
     "Menu" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menü"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9221,6 +9251,12 @@
     },
     "Show the grid" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Gitter anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9723,6 +9759,12 @@
     },
     "Success" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfolg"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10898,6 +10940,12 @@
     },
     "Warning" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
